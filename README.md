@@ -11,9 +11,11 @@ Live at https://mglearn.github.io/writedaily/ · built on the same flipbook patt
 
 ```sh
 node scripts/validate.js      # fails on structure errors; warns on DOL error-count mismatches
-node scripts/build.js         # writes index.html (single file, no runtime fetch)
+node scripts/build.js         # writes index.html (month calendar) and day/index.html (day pages)
 node scripts/export-md.js     # writes daily-writing-prompts.md (everything in one readable file)
 ```
 
 Weekly rhythm: Mon plan (11)(A)/(10)(A), Tue draft (B), Wed revise (C), Thu quick-write in the week's genre, Fri edit & share (D)(E) with an "I can" self-rating.
+The front page is a month calendar (flip with ‹ ›, month tabs, `#2026-10`); every school day links to its page in `day/` (`day/#2026-10-05`). Old `#2026-10-05` links on the front page forward there.
+Both pages share the school-day mapping in `scripts/core.js` and the saved band and calendar settings.
 The calendar maps the Nth school week to week N and skips weekends and typical Texas 2026–27 holidays. Teachers can change their first day in the page.

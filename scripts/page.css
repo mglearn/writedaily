@@ -56,18 +56,6 @@ h1 { margin: .1em 0 .2em; font-family: var(--f-date); font-weight: 900; font-siz
 #calSettings p { flex-basis: 100%; margin: 0; }
 #calSettings input[type=date] { padding: 4px 8px; border: 1.5px solid var(--line); border-radius: 6px; background: var(--paper); }
 
-/* month view */
-.cm-months { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 290px), 1fr)); gap: 16px 20px; }
-.cm h3 { margin: 0 0 6px; font-family: var(--f-date); font-size: 1.3rem; letter-spacing: .02em; }
-.cm-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 3px; }
-.cm-h { font-size: .7rem; text-align: center; color: var(--muted); font-weight: 700; }
-.cm-d { display: grid; place-items: center; min-height: 34px; border-radius: 6px; font-variant-numeric: tabular-nums; font-size: .85rem; border: 1.5px solid transparent; background: var(--chip); cursor: pointer; padding: 0; }
-.cm-d:hover { border-color: var(--ink); }
-.cm-d.off { background: transparent; color: var(--muted); text-decoration: line-through; opacity: .55; cursor: default; }
-.cm-d.on { background: var(--ink); color: var(--paper); }
-.cm-d.today { border-color: var(--pen); }
-.cm-wk { grid-column: 1 / -1; font-size: .72rem; color: var(--muted); margin-top: 4px; }
-.cm-jump { margin: 0 0 10px; font-size: .9rem; color: var(--muted); }
 
 /* the page */
 .flip-wrap { display: grid; grid-template-columns: 52px minmax(0, 1fr) 52px; gap: 10px; align-items: start; perspective: 1800px; }
@@ -132,14 +120,14 @@ details > div { padding: 6px 0 2px; font-size: .95rem; max-width: 70ch; }
 .foot p { margin: 0 0 8px; }
 
 /* tear-off flip */
-.fp.leave-next { animation: tearNext .45s ease-in forwards; z-index: 2; }
-.fp.leave-prev { animation: tearPrev .45s ease-in forwards; z-index: 2; }
-.fp.enter-prev { animation: dropIn .4s ease-out; z-index: 3; }
+.fp.leave-next, .mc.leave-next { animation: tearNext .45s ease-in forwards; z-index: 2; }
+.fp.leave-prev, .mc.leave-prev { animation: tearPrev .45s ease-in forwards; z-index: 2; }
+.fp.enter-prev, .mc.enter-prev { animation: dropIn .4s ease-out; z-index: 3; }
 @keyframes tearNext { to { transform: rotateX(95deg) translateY(-30px); opacity: 0; } }
 @keyframes tearPrev { to { transform: translateY(16px); opacity: 0; } }
 @keyframes dropIn { from { transform: rotateX(80deg); opacity: 0; } to { transform: none; opacity: 1; } }
 @media (prefers-reduced-motion: reduce) {
-  .fp.leave-next, .fp.leave-prev { animation: fade .2s forwards; } .fp.enter-prev { animation: none; }
+  .fp.leave-next, .fp.leave-prev, .mc.leave-next, .mc.leave-prev { animation: fade .2s forwards; } .fp.enter-prev, .mc.enter-prev { animation: none; }
   @keyframes fade { to { opacity: 0; } }
 }
 

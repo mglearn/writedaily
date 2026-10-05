@@ -1,6 +1,5 @@
-// Builds index.html (the flip calendar) from data/plan.json + data/weeks/*.json.
-// Usage: node scripts/build.js [--fragment out.html]
-//   --fragment also writes a body-only copy (no doctype/head) for previewing as an Artifact.
+// Builds the site from data/plan.json + data/weeks/*.json.
+// Writes index.html (month calendar) and day/index.html (day pages). Usage: node scripts/build.js [--fragment dir]
 const fs = require('fs'), path = require('path');
 const { BANDS, PROCESS, DOL, GENRE, processCode } = require('./teks');
 const ROOT = path.join(__dirname, '..');
@@ -49,60 +48,103 @@ const contiguous = []; for (const w of weeks) { if (w.week !== contiguous.length
 
 const DATA = { year: YEAR, weeks: contiguous, bands: BANDS, kinds: Object.fromEntries(Object.entries(PROCESS).map(([k, v]) => [k, v[0]])), dol: DOL };
 
-const css = fs.readFileSync(path.join(__dirname, 'page.css'), 'utf8');
-const js = fs.readFileSync(path.join(__dirname, 'page.js'), 'utf8');
-const body = `<title>Daily Writing a Day</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Big+Shoulders+Display:wght@700;900&family=Bitter:wght@500;700;800&display=swap">
-<style>${css}</style>
-<a class="skip" href="#calFlip">Skip to today's page</a>
-<main class="wrap">
-  <header class="top">
-    <div class="brand">
+const asset = f => fs.readFileSync(path.join(__dirname, f), 'utf8');
+const json = o => JSON.stringify(o).replace(/</g, '\\u003c');
+const fonts = `<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Big+Shoulders+Display:wght@700;900&family=Bitter:wght@500;700;800&display=swap">`;
+const bandSeg = `<div class="seg" role="group" aria-label="Grade band">${Object.entries(BANDS).map(([k, v]) => `<button type="button" data-band="${k}" aria-pressed="false">${v}</button>`).join('')}</div>`;
+const brand = `<div class="brand">
       <p class="eyebrow">Fix It + Write · ${esc(YEAR.label)} · ${contiguous.length} weeks of writing</p>
       <h1>Daily Writing a Day</h1>
       <p class="lede">One editing sentence and one writing prompt for every school day, for grades K–2, 3–5, and 6–8. About 10 minutes, with no prep and no devices.</p>
-    </div>
+    </div>`;
+const settings = `<section class="panel" id="calSettings" hidden aria-label="School calendar settings">
+    <label for="calStart">First day of school <input type="date" id="calStart" value="${YEAR.start}"></label>
+    <label for="calHol"><input type="checkbox" id="calHol" checked> Skip typical Texas holidays and breaks</label>
+    <button type="button" class="btn" id="calReset">Reset</button>
+    <p class="muted">Week 1 starts on your first day; each following school week gets the next week of writing. Saved in this browser for both the calendar and the day pages.</p>
+  </section>`;
+const footer = `<footer class="foot muted">
+    <p><strong>How a week works.</strong> Monday plan, Tuesday draft, Wednesday revise, Thursday quick-write, Friday edit and share. Every prompt also works on its own, so you can skip a day.</p>
+    <p><strong>Standards.</strong> Codes refer to the Texas English Language Arts and Reading TEKS (19 TAC §110.2–110.24). In K–5, the writing process is strand (11), genres are (12), and inquiry is (13). In 6–8 they are (10), (11), and (12). Fix It practices oral language (1) and editing for conventions. Sub-letters can vary slightly by grade, so check your grade's chapter.</p>
+  </footer>`;
+
+// ---- month calendar (front page): titles only, no prompt text ----
+const MONTH = { ...DATA, weeks: contiguous.map(w => ({ week: w.week, theme: w.theme, bands: Object.fromEntries(Object.entries(w.bands).map(([b, x]) => [b, { genre: x.genre, conv: x.conv }])), days: w.days.map(d => ({ kind: d.kind, title: d.title })) })) };
+const monthBody = `<title>Daily Writing a Day</title>
+${fonts}
+<style>${asset('page.css')}${asset('month.css')}</style>
+<a class="skip" href="#mSheet">Skip to the calendar</a>
+<main class="wrap">
+  <header class="top">
+    ${brand}
     <div class="controls" role="toolbar" aria-label="Calendar controls">
-      <div class="seg" role="group" aria-label="Grade band">${Object.entries(BANDS).map(([k, v]) => `<button type="button" data-band="${k}" aria-pressed="false">${v}</button>`).join('')}</div>
+      ${bandSeg}
       <div class="btns">
+        <button type="button" class="btn" id="mThisMonth">This month</button>
+        <button type="button" class="btn" id="calSettingsBtn" aria-expanded="false" aria-controls="calSettings">School calendar</button>
+        <a class="btn btn-go" id="mTodayLink" href="day/">Today's page →</a>
+      </div>
+    </div>
+  </header>
+  ${settings}
+  <nav class="mtabs" id="mTabs" aria-label="Months"></nav>
+  <div class="mc-wrap">
+    <button type="button" class="flip-nav prev" id="mPrev" aria-label="Previous month">‹</button>
+    <div class="mc-sheet" id="mSheet"></div>
+    <button type="button" class="flip-nav next" id="mNext" aria-label="Next month">›</button>
+  </div>
+  <p class="sr-only" id="mLive" aria-live="polite"></p>
+  <p class="help muted">Pick a day to open its page · ← → flip months · T goes to this month · striped days are holidays and breaks</p>
+  ${footer}
+</main>
+<script>window.DW=${json(MONTH)};</script>
+<script>${asset('core.js')}</script>
+<script>${asset('month.js')}</script>`;
+
+// ---- day pages (flipbook) ----
+const dayBody = `<title>Daily Writing a Day</title>
+${fonts}
+<style>${asset('page.css')}</style>
+<a class="skip" href="#calFlip">Skip to today's page</a>
+<main class="wrap">
+  <header class="top">
+    ${brand}
+    <div class="controls" role="toolbar" aria-label="Calendar controls">
+      ${bandSeg}
+      <div class="btns">
+        <a class="btn" id="calMonthLink" href="../">← Month</a>
         <button type="button" class="btn" id="calToday">Today</button>
-        <button type="button" class="btn" id="calMonthBtn" aria-expanded="false" aria-controls="calMonth">Month</button>
         <button type="button" class="btn" id="calSettingsBtn" aria-expanded="false" aria-controls="calSettings">School calendar</button>
         <button type="button" class="btn btn-go" id="calProject">Project</button>
       </div>
     </div>
   </header>
-  <section class="panel" id="calSettings" hidden aria-label="School calendar settings">
-    <label for="calStart">First day of school <input type="date" id="calStart" value="${YEAR.start}"></label>
-    <label for="calHol"><input type="checkbox" id="calHol" checked> Skip typical Texas holidays and breaks</label>
-    <button type="button" class="btn" id="calReset">Reset</button>
-    <p class="muted">Week 1 starts on your first day; each following school week gets the next week of writing. Saved in this browser only.</p>
-  </section>
-  <section class="panel month" id="calMonth" hidden aria-label="Month view"></section>
+  ${settings}
   <div class="flip-wrap">
     <button type="button" class="flip-nav prev" id="calPrev" aria-label="Previous school day">‹</button>
     <div class="flip" id="calFlip"></div>
     <button type="button" class="flip-nav next" id="calNext" aria-label="Next school day">›</button>
   </div>
   <p class="sr-only" id="calLive" aria-live="polite"></p>
-  <p class="help muted">← → turn pages · T jumps to today · swipe on a phone · links like <code>#2026-10-20</code> open that day</p>
-  <footer class="foot muted">
-    <p><strong>How a week works.</strong> Monday plan, Tuesday draft, Wednesday revise, Thursday quick-write, Friday edit and share. Every prompt also works on its own, so you can skip a day.</p>
-    <p><strong>Standards.</strong> Codes refer to the Texas English Language Arts and Reading TEKS (19 TAC §110.2–110.24). In K–5, the writing process is strand (11), genres are (12), and inquiry is (13). In 6–8 they are (10), (11), and (12). Fix It practices oral language (1) and editing for conventions. Sub-letters can vary slightly by grade, so check your grade's chapter.</p>
-  </footer>
+  <p class="help muted">← → turn pages · T jumps to today · swipe on a phone · links like <code>day/#2026-10-20</code> open that day</p>
+  ${footer}
 </main>
-<script>window.DW=${JSON.stringify(DATA).replace(/</g, '\\u003c')};</script>
-<script>${js}</script>`;
+<script>window.DW=${json(DATA)};</script>
+<script>${asset('core.js')}</script>
+<script>${asset('page.js')}</script>`;
 
-const full = `<!doctype html>
+const wrapDoc = (body, desc) => `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="A school-year flip calendar of Daily Oral Language sentences and TEKS-aligned writing prompts for grades K–2, 3–5, and 6–8.">
+<meta name="description" content="${esc(desc)}">
 </head><body>
 ${body}
 </body></html>
 `;
-fs.writeFileSync(path.join(ROOT, 'index.html'), full);
+const out = (rel, html) => { const p = path.join(ROOT, rel); fs.mkdirSync(path.dirname(p), { recursive: true }); fs.writeFileSync(p, html); return `${rel} ${(html.length / 1024).toFixed(0)} KB`; };
+console.log(`${contiguous.length} weeks:`,
+  out('index.html', wrapDoc(monthBody, 'A month-by-month calendar of Daily Oral Language sentences and TEKS-aligned writing prompts for grades K–2, 3–5, and 6–8, 2026–27.')), '·',
+  out('day/index.html', wrapDoc(dayBody, 'Today’s Fix It sentence and writing prompt for grades K–2, 3–5, and 6–8, aligned to the Texas ELAR TEKS.')));
+// --fragment <dir>: body-only copies (no doctype/head) for previewing as an Artifact
 const i = process.argv.indexOf('--fragment');
-if (i > 0) fs.writeFileSync(process.argv[i + 1], body);
-console.log(`index.html: ${contiguous.length} weeks, ${(full.length / 1024).toFixed(0)} KB`);
+if (i > 0) { fs.writeFileSync(path.join(process.argv[i + 1], 'month.html'), monthBody); fs.writeFileSync(path.join(process.argv[i + 1], 'day.html'), dayBody); }
