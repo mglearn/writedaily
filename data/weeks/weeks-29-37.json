@@ -1,0 +1,1327 @@
+{
+ "weeks": [
+  {
+   "week": 29,
+   "title": "Use Your Voice",
+   "bigIdea": "Students learn that a polite, well-reasoned request is how kids get heard: K–2 writes letters that ask, 3–5 states opinions with specific reasons, and 6–8 backs claims with evidence and answers the other side.",
+   "iCan": {
+    "k2": "I can write a letter that asks for something and tells why.",
+    "g35": "I can state my opinion and support it with specific reasons.",
+    "g68": "I can make a claim, support it with evidence, and answer a counterclaim."
+   },
+   "days": [
+    {
+     "kind": "plan",
+     "title": "What Would You Change?",
+     "dol": {
+      "k2": {
+       "s": "the kids wants a buddy bench",
+       "fix": "The kids want a buddy bench.",
+       "n": 3
+      },
+      "g35": {
+       "s": "the fifth graders wanted shade on the playground, so he wrote a letter",
+       "fix": "The fifth graders wanted shade on the playground, so they wrote a letter.",
+       "n": 3
+      },
+      "g68": {
+       "s": "when students speak at a school board meeting, you should keep your comments under three minutes",
+       "fix": "When students speak at a school board meeting, they should keep their comments under three minutes.",
+       "n": 4
+      }
+     },
+     "write": {
+      "k2": "What would make our playground or classroom better? Draw two ideas. Circle the one you want most and tell a partner why.",
+      "g35": "Make a list of three things at school that kids should help decide, like the field day games, the class read-aloud, or where to sit at lunch. Star one and jot two reasons kids deserve a say.",
+      "g68": "List three rules (at school, at home, or in a game or club) you'd change if you could make the case. Pick one and write your claim plus the two strongest reasons you have right now."
+     },
+     "teacher": "Keep plans short and on paper. In the DOL, ask \"Who is doing it, one or more than one?\" before fixing the verb or pronoun."
+    },
+    {
+     "kind": "draft",
+     "title": "Ask for It in Writing",
+     "dol": {
+      "k2": {
+       "s": "Lupe and sam asks for a bench",
+       "fix": "Lupe and Sam ask for a bench.",
+       "n": 3
+      },
+      "g35": {
+       "s": "Marisol wrote her reason on a card and gave them to principal ramos.",
+       "fix": "Marisol wrote her reason on a card and gave it to Principal Ramos.",
+       "n": 3
+      },
+      "g68": {
+       "s": "The council members read our petition; however it didn't vote until friday.",
+       "fix": "The council members read our petition; however, they didn't vote until Friday.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write a letter that asks for one thing. Start with Dear ___, then say what you want. Use your idea from Monday, or ask your teacher for an extra story time.",
+      "g35": "Write the opening of an opinion piece: state your opinion clearly in one sentence, then give your first reason. Use your starred idea from Monday, or argue whether students should get to give the morning announcements.",
+      "g68": "Draft your claim and one body paragraph: a reason backed by evidence (a fact, a number, or an example you have seen yourself). Use Monday's topic, or argue whether students should be allowed to listen to music during independent work."
+     },
+     "teacher": "Look for one clear sentence that says exactly what the writer wants. In the 6–8 DOL, \"it\" can't stand for \"council members\"; ask what the pronoun points to."
+    },
+    {
+     "kind": "revise",
+     "title": "Give a Reason Why",
+     "dol": {
+      "k2": {
+       "s": "The slide are too hot in the sun",
+       "fix": "The slide is too hot in the sun.",
+       "n": 2
+      },
+      "g35": {
+       "s": "The students on the student council shared there idea and the principal liked them.",
+       "fix": "The students on the student council shared their idea, and the principal liked it.",
+       "n": 3
+      },
+      "g68": {
+       "s": "A good argument needs evidence and they also need a counterclaim.",
+       "fix": "A good argument needs evidence, and it also needs a counterclaim.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Read this letter: \"Please get a bench. Thank you.\" It does not say why! Add a reason with **because**: \"Please get a bench because kids who feel lonely need a place to sit.\" Now add a because reason to your own letter.",
+      "g35": "Read this reason: \"Field day should have a water balloon toss because it is fun.\" *Fun* tells the reader nothing! Swap a vague reason for a specific example: \"...because on a 95-degree day, a splash keeps everyone cool and laughing.\" Find one vague word in your opinion and replace it with an example.",
+      "g68": "Read this: \"Students should have a longer lunch because everyone thinks it's too short.\" A popular opinion is not evidence. Back the reason with something checkable: a time, a count, or an observation (\"With a 25-minute lunch and a 12-minute line, some students get 13 minutes to eat.\"). Add one piece of hard evidence to your weakest reason."
+     },
+     "teacher": "Model the move on the weak example together before students touch their own drafts. Look for one reason that got more specific."
+    },
+    {
+     "kind": "quick-write",
+     "title": "Quick Case, Fast",
+     "dol": {
+      "k2": {
+       "s": "we has a big idea for recess",
+       "fix": "We have a big idea for recess.",
+       "n": 3
+      },
+      "g35": {
+       "s": "When the twins heard about the new bench she cheered and clapped there hands.",
+       "fix": "When the twins heard about the new bench, they cheered and clapped their hands.",
+       "n": 3
+      },
+      "g68": {
+       "s": "lucia showed Ana a speech about the dress code and she loved it",
+       "fix": "Lucia showed Ana a speech about the dress code, and Ana loved it.",
+       "n": 4
+      }
+     },
+     "write": {
+      "k2": "Pretend you are our class pet (real or make-believe). Write a letter to the class asking for one thing you want, like a bigger home or a new toy. Give a reason!",
+      "g35": "Should every classroom have a \"great idea box\" where students can drop suggestions? Pick a side fast and give two reasons.",
+      "g68": "Pick a side fast: should middle school students get a vote on which electives the school offers? Write your claim, then the strongest argument against you, then your answer to it."
+     },
+     "teacher": "Set a timer for six minutes and keep pencils moving. For 6–8, check that the counterclaim is stated fairly before it is answered."
+    },
+    {
+     "kind": "edit-share",
+     "title": "Make It Match, Then Share",
+     "dol": {
+      "k2": {
+       "s": "The bench are red. Kids sits on it.",
+       "fix": "The bench is red. Kids sit on it.",
+       "n": 2
+      },
+      "g35": {
+       "s": "The boys painted a sign, and he hung it by the gym. everyone loved her bright colors.",
+       "fix": "The boys painted a sign, and they hung it by the gym. Everyone loved its bright colors.",
+       "n": 3
+      },
+      "g68": {
+       "s": "When people argue online you often forget a real person is reading. Every comment can sting, so think before posting them.",
+       "fix": "When people argue online, they often forget a real person is reading. Every comment can sting, so think before posting it.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Check your letter: does each naming word match its action word (*the kids want*, *the kid wants*)? Fix one. Then read your letter to a partner and ask, \"Would you say yes?\"",
+      "g35": "Edit one piece for pronoun–antecedent agreement: circle each pronoun, draw an arrow to the noun it stands for, and make sure they match (*the kids... they*, *the sign... it*). Then read to a partner, who names your strongest reason.",
+      "g68": "Edit one argument for pronoun clarity: every *it*, *they*, *this*, and *you* should point to one clear noun, so replace any vague one with the noun itself. Then trade with a partner, who underlines your claim and says whether you convinced them."
+     },
+     "teacher": "Students edit for the week's focus first, then share. Listen for partners naming a specific reason, not just \"it was good.\""
+    }
+   ]
+  },
+  {
+   "week": 30,
+   "title": "Game On!",
+   "bigIdea": "Students write true stories about play, from recess games to big matches, and practice starting in the action, showing feelings, and slowing down the moment that matters.",
+   "iCan": {
+    "k2": "I can write a true story about a time I played, with a beginning, middle, and end.",
+    "g35": "I can write a true story that starts in the action and shows how I felt.",
+    "g68": "I can write a personal narrative that slows down a turning point and shows my thinking."
+   },
+   "days": [
+    {
+     "kind": "plan",
+     "title": "Play Story Starters",
+     "dol": {
+      "k2": {
+       "s": "i cant catch the ball",
+       "fix": "I can't catch the ball.",
+       "n": 3
+      },
+      "g35": {
+       "s": "Both players cleats were muddy after the game on saturday",
+       "fix": "Both players' cleats were muddy after the game on Saturday.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Its hard to explain how the Mustangs comeback felt that night",
+       "fix": "It's hard to explain how the Mustangs' comeback felt that night.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Think of a time you played a game, outside or inside. Draw three boxes: what happened first, next, and last. Tell a partner your story.",
+      "g35": "List three moments from games you have played: a recess game, a sport, a board game, or a made-up game. Star the one with the most action and sketch its most exciting second.",
+      "g68": "Make a quick timeline of a moment in play or sports that mattered to you: a win, a loss, a pickup game, a race you didn't finish. Circle the turning point, the second everything changed."
+     },
+     "teacher": "Plans should be quick: boxes, lists, timelines. In the DOL, ask \"Is this a squished word, or does someone own something?\""
+    },
+    {
+     "kind": "draft",
+     "title": "Start in the Action",
+     "dol": {
+      "k2": {
+       "s": "mia doesnt stop running",
+       "fix": "Mia doesn't stop running.",
+       "n": 3
+      },
+      "g35": {
+       "s": "Our coachs whistle was the most loudest sound in the gym",
+       "fix": "Our coach's whistle was the loudest sound in the gym.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Coach Okafors whistle blew, and the childrens game stopped",
+       "fix": "Coach Okafor's whistle blew, and the children's game stopped.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write the beginning of your play story. Tell who was there and where you were. Use your boxes from Monday, or write about a time you learned to jump rope, skip, or swing.",
+      "g35": "Draft the start of your story right in the action. Begin with a sound or a move (*Thwack!* or *I dove for the ball.*). Use Monday's moment, or write about the first time you tried a new game.",
+      "g68": "Draft the turning point in slow motion: stretch three seconds into a paragraph with what you saw, heard, and thought. Use Monday's timeline, or write about a time you were picked first, or last."
+     },
+     "teacher": "Share two strong openings aloud before writing. Look for a first line that drops the reader into the game."
+    },
+    {
+     "kind": "revise",
+     "title": "Move It, Show It",
+     "dol": {
+      "k2": {
+       "s": "Our kites arent up in the sky yet",
+       "fix": "Our kites aren't up in the sky yet.",
+       "n": 2
+      },
+      "g35": {
+       "s": "Two girl's from my team scored goal's in the first half",
+       "fix": "Two girls from my team scored goals in the first half.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Wed practiced all week, but the other teams defense was better then ours.",
+       "fix": "We'd practiced all week, but the other team's defense was better than ours.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Read this: \"I played. It was fun.\" What did your body do? Use action words like *zoomed*, *kicked*, and *spun*: \"I zoomed down the slide and spun in the grass.\" Add two action words to your story.",
+      "g35": "Read this: \"The game was close and I was nervous.\" Show the feeling with the body instead of naming it: \"My hands were sweaty, and I kept bouncing on my toes.\" Find one place you *told* a feeling and *show* it instead.",
+      "g68": "Read this: \"I was so nervous before the race. It was really intense.\" Replace the summary with interior monologue, the actual words in your head (*Don't false-start. Don't look at him. Breathe.*). Add two lines of interior monologue to your draft."
+     },
+     "teacher": "Do the weak model together first, out loud. Look for one revised sentence that is clearly stronger than the original."
+    },
+    {
+     "kind": "quick-write",
+     "title": "When the Rules Changed",
+     "dol": {
+      "k2": {
+       "s": "Is it time to play. Im ready!",
+       "fix": "Is it time to play? I'm ready!",
+       "n": 2
+      },
+      "g35": {
+       "s": "Kayla borrowed her cousin Jamals bat and hit three home run's",
+       "fix": "Kayla borrowed her cousin Jamal's bat and hit three home runs.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Whos bringing snacks to the game? Its the Garcias turn this week.",
+       "fix": "Who's bringing snacks to the game? It's the Garcias' turn this week.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write about a time you lost a game or got out. What happened? How did you feel, and what did you do next?",
+      "g35": "Quick-write: Tell about a time the rules of a game changed in the middle, someone made up a new rule, or a game turned into a totally different game. What happened?",
+      "g68": "Quick-write: Tell the true story of a time you played a game with someone much younger or older than you. What did you notice about how they played, and what did you learn?"
+     },
+     "teacher": "Keep it fast and fun; no erasing. Look for a clear sequence of events, even in a short piece."
+    },
+    {
+     "kind": "edit-share",
+     "title": "Apostrophe Check-Up",
+     "dol": {
+      "k2": {
+       "s": "Its a big game. We cant wait!",
+       "fix": "It's a big game. We can't wait!",
+       "n": 2
+      },
+      "g35": {
+       "s": "Diegos sneakers squeaked on the court. The other player's laughed at the sound",
+       "fix": "Diego's sneakers squeaked on the court. The other players laughed at the sound.",
+       "n": 3
+      },
+      "g68": {
+       "s": "The bench's paint is peeling, and it's legs wobble. Lets fix it before the players' arrive.",
+       "fix": "The bench's paint is peeling, and its legs wobble. Let's fix it before the players arrive.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Find two words you can squish into a contraction (*do not* → *don't*, *I am* → *I'm*), or check one you already wrote. Fix it with an apostrophe. Then read your story to a partner and act out one part.",
+      "g35": "Edit for plural vs. possessive nouns: for every word ending in *s*, ask, \"More than one, or owns something?\" Add or remove apostrophes. Then share in the author's chair, reading your most exciting part.",
+      "g68": "Edit for apostrophes: check every contraction, every possessive (singular, plural, and irregular like *children's*), and every *its/it's*. Then read your turning point aloud in a small group; listeners name the line that put them in the moment."
+     },
+     "teacher": "Edit first for the apostrophe focus, then share. Watch for students adding apostrophes to every plural; ask \"Who owns what?\""
+    }
+   ]
+  },
+  {
+   "week": 31,
+   "title": "Pictures Come Alive",
+   "bigIdea": "Students write stories where art and imagination bend the rules of the real world, practicing vivid description, excitement on the page, and punctuation that adds drama.",
+   "iCan": {
+    "k2": "I can write a story with a character, a problem, and an exciting part!",
+    "g35": "I can write a story with an imaginative setting, a problem, and lively description.",
+    "g68": "I can write a story with a clear rule for its magic and precise, concrete details."
+   },
+   "days": [
+    {
+     "kind": "plan",
+     "title": "If Art Could Move",
+     "dol": {
+      "k2": {
+       "s": "oh no, the paint spilled",
+       "fix": "Oh no, the paint spilled!",
+       "n": 2
+      },
+      "g35": {
+       "s": "Whoa! that statue at the witte museum just winked at me",
+       "fix": "Whoa! That statue at the Witte Museum just winked at me!",
+       "n": 4
+      },
+      "g68": {
+       "s": "the art club needed: paint, brushes, and a wall that nobody would miss",
+       "fix": "The art club needed paint, brushes, and a wall that nobody would miss.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Draw a picture that comes alive! What is in your picture: an animal, a monster, a rocket? Draw it, then tell a partner what it does when it jumps off the paper.",
+      "g35": "Imagine you could step inside any picture or poster in your classroom. Sketch it, then list who you would meet there, what problem they have, and one weird rule of that world.",
+      "g68": "Brainstorm stories where art changes reality: graffiti that predicts the future, a self-portrait that ages instead of you, a song that unlocks doors. List three premises, pick one, and jot your character's want and the one rule of the magic."
+     },
+     "teacher": "Let students talk before they write; wild ideas are welcome. In the DOL, ask \"Is this a strong feeling? Then it needs an exclamation point.\" Also accept a period at the end of the K–2 and 3–5 sentences; the exclamation point is the stronger choice."
+    },
+    {
+     "kind": "draft",
+     "title": "Into the Frame",
+     "dol": {
+      "k2": {
+       "s": "Wow! the frog jumped off the page",
+       "fix": "Wow! The frog jumped off the page!",
+       "n": 2
+      },
+      "g35": {
+       "s": "Ouch! the paintbrush bited my finger",
+       "fix": "Ouch! The paintbrush bit my finger!",
+       "n": 3
+      },
+      "g68": {
+       "s": "The mural—a swirl of purple dragon's and gold stars covered the whole wall",
+       "fix": "The mural—a swirl of purple dragons and gold stars—covered the whole wall.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write the start of your story: Who is in it, and what pops off the page? Use your drawing from Monday, or write about a crayon that can walk.",
+      "g35": "Draft the moment your character enters the picture world. Use Monday's plan, or start a story about a sidewalk chalk drawing that comes alive at recess.",
+      "g68": "Draft your opening scene so it ends on the moment the art does something impossible. Use Monday's premise, or write about a sketchbook that fills itself in overnight."
+     },
+     "teacher": "Look for a clear character and a moment where something unexpected happens. In the 6–8 DOL, point out that interrupting dashes come in pairs. Also accept a period at the end of the K–2 and 3–5 sentences; the exclamation point is the stronger choice."
+    },
+    {
+     "kind": "revise",
+     "title": "Make It Pop",
+     "dol": {
+      "k2": {
+       "s": "The frog hoped on my desk. Help",
+       "fix": "The frog hopped on my desk. Help!",
+       "n": 2
+      },
+      "g35": {
+       "s": "Yikes. The painted tiger is climbing out of the frame and it's tail is still wet.",
+       "fix": "Yikes! The painted tiger is climbing out of the frame, and its tail is still wet.",
+       "n": 3
+      },
+      "g68": {
+       "s": "At 3 15, the paint began to drip upward and nobody could explain it",
+       "fix": "At 3:15, the paint began to drip upward, and nobody could explain it.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Read this: \"The dog came out. The dog ran.\" Make it exciting with a sound word and an exclamation point: \"Woof! The dog burst out of my picture!\" Add a sound word and one ! to your story.",
+      "g35": "Read this: \"The dragon was big and scary.\" Use a simile to show it: \"The dragon was as tall as the gym, with teeth like broken icicles.\" Write one simile for something in your story.",
+      "g68": "Read this: \"The room was creepy and dark and weird.\" Replace the stack of adjectives with one precise, concrete detail (\"Every portrait in the hallway had turned to face the wall.\"). Swap one vague description in your draft for a detail only your story could have."
+     },
+     "teacher": "Work the weak model as a class, then let students revise one spot. Look for a revision that a reader could picture."
+    },
+    {
+     "kind": "quick-write",
+     "title": "Doodles With a Mind",
+     "dol": {
+      "k2": {
+       "s": "my crayons can talk. Hooray",
+       "fix": "My crayons can talk. Hooray!",
+       "n": 2
+      },
+      "g35": {
+       "s": "Hey. Who drew a mustache on the mona lisa",
+       "fix": "Hey! Who drew a mustache on the Mona Lisa?",
+       "n": 4
+      },
+      "g68": {
+       "s": "we saw strange things, such as: a talking vase, a melting clock, and a breathing door",
+       "fix": "We saw strange things, such as a talking vase, a melting clock, and a breathing door.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "What if your shadow could play by itself? Write a quick story about where it goes and what it does.",
+      "g35": "Quick story: A kid finds a paintbrush that makes everything it paints real, but only for five minutes. What do they paint first, and what goes wrong?",
+      "g68": "Quick-write: A character discovers that whatever they doodle in the margins of their notes shows up in class the next day. Write the scene where they realize it."
+     },
+     "teacher": "Fast and fun. Look for a problem that appears, even if the story doesn't finish."
+    },
+    {
+     "kind": "edit-share",
+     "title": "Punctuate the Drama",
+     "dol": {
+      "k2": {
+       "s": "Look out. the dragon is flying",
+       "fix": "Look out! The dragon is flying!",
+       "n": 3
+      },
+      "g35": {
+       "s": "Oh no. the sculpture is melting fast. Hurry",
+       "fix": "Oh no! The sculpture is melting fast. Hurry!",
+       "n": 3
+      },
+      "g68": {
+       "s": "Ximena packed the following, a brush, a flashlight, and courage. Her plan—simple but risky, began at midnight",
+       "fix": "Ximena packed the following: a brush, a flashlight, and courage. Her plan—simple but risky—began at midnight.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Find a part where a character is surprised, excited, or scared. Does it end with an exclamation point (!)? Add one where it fits. Then read that part aloud to a partner with lots of feeling!",
+      "g35": "Edit for interjections and exclamation points: find a spot where a character is shocked or thrilled and add an interjection (*Whoa!* *Yikes!*), but keep it to two or three in the whole story. Then trade stories; your partner reads yours aloud with expression.",
+      "g68": "Edit for colons and dashes: use a colon after a complete sentence that sets up a list or explanation, and make sure every interrupting dash has a partner. Then share in a whip-around: each writer reads one favorite sentence aloud."
+     },
+     "teacher": "Edit for the punctuation focus before sharing. Watch for overuse: a story full of ! loses its punch. In K–2, also accept a period after \"The dragon is flying\"; the exclamation points after \"Look out\" are the must-fix."
+    }
+   ]
+  },
+  {
+   "week": 32,
+   "title": "Letters for the Earth",
+   "bigIdea": "Around Earth Day, students write letters to people who can help the planet nearby, learning to make a clear, exact request in the right format and tone.",
+   "iCan": {
+    "k2": "I can write a letter that asks someone to help the Earth.",
+    "g35": "I can write a friendly letter with all five parts that asks for help with an Earth problem.",
+    "g68": "I can write a formal letter with a clear request and a tone that fits my reader."
+   },
+   "days": [
+    {
+     "kind": "plan",
+     "title": "Who Can Help the Earth?",
+     "dol": {
+      "k2": {
+       "s": "dear Mayor Delgado can you plant more trees",
+       "fix": "Dear Mayor Delgado, can you plant more trees?",
+       "n": 3
+      },
+      "g35": {
+       "s": "We will mail our letter to the Mayor at 100 Main Street Austin Texas.",
+       "fix": "We will mail our letter to the mayor at 100 Main Street, Austin, Texas.",
+       "n": 3
+      },
+      "g68": {
+       "s": "I am writing cuz the trash in salado creek is hurting the wildlife",
+       "fix": "I am writing because the trash in Salado Creek is hurting the wildlife.",
+       "n": 4
+      }
+     },
+     "write": {
+      "k2": "What could make our Earth cleaner or greener near you: more trash cans, a garden, a tree? Draw it and tell a partner who could help make it happen.",
+      "g35": "Who could help fix an Earth problem you have noticed: litter on the playground, a dripping faucet, lights left on, no recycling bin? List two problems and who could solve each. Circle one.",
+      "g68": "List three environmental problems in your community you could write to someone about (a flooded crosswalk, litter at a bus stop, an empty lot that could be a garden). For one, name the person or office with the power to fix it and the exact action you'd request."
+     },
+     "teacher": "Push students to name a real reader (a role is fine). In the DOL, review where capitals and commas go in letters and addresses."
+    },
+    {
+     "kind": "draft",
+     "title": "Dear Someone Who Can Help",
+     "dol": {
+      "k2": {
+       "s": "We wrote to ms. rosa about the creek",
+       "fix": "We wrote to Ms. Rosa about the creek.",
+       "n": 3
+      },
+      "g35": {
+       "s": "On april 23 2027 Jada mailed her letter to the mayor.",
+       "fix": "On April 23, 2027, Jada mailed her letter to the mayor.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Our science class counted 300 plastic bottles at the creek and u can see why its a problem.",
+       "fix": "Our science class counted 300 plastic bottles at the creek, and you can see why it's a problem.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write a letter to someone who could help the Earth (a principal, a neighbor, a park helper). Start with Dear ___, and ask for one thing. Use Monday's idea, or ask for a class garden.",
+      "g35": "Draft the body of a friendly letter to that person: say what you noticed and what you hope they'll do. Use Monday's idea, or write to the cafeteria staff about cutting food waste.",
+      "g68": "Draft the first paragraph of a formal letter: who you are, the problem, and your request in one clear sentence. Use Monday's list, or write to your school's leaders asking for a student-run composting program."
+     },
+     "teacher": "Look for a request the reader could actually say yes to. Remind 3–5 that a date needs a comma between the day and the year."
+    },
+    {
+     "kind": "revise",
+     "title": "Make Your Ask Exact",
+     "dol": {
+      "k2": {
+       "s": "Thank you Mr. Ito for the new bins",
+       "fix": "Thank you, Mr. Ito, for the new bins.",
+       "n": 3
+      },
+      "g35": {
+       "s": "Thank you Mayor Delgado for reading are letter.",
+       "fix": "Thank you, Mayor Delgado, for reading our letter.",
+       "n": 3
+      },
+      "g68": {
+       "s": "could the city pls add more bins along the river walk",
+       "fix": "Could the city please add more bins along the River Walk?",
+       "n": 5
+      }
+     },
+     "write": {
+      "k2": "Read this: \"Please help the Earth.\" Help how? Tell exactly what: \"Please put a recycling bin next to the swings.\" Make the ask in your letter clear and exact.",
+      "g35": "Read this: \"Litter is bad and you should do something.\" Add one specific detail you saw yourself: \"Every day after lunch, I count about twenty wrappers near the picnic tables.\" Add a detail you witnessed to your letter.",
+      "g68": "Read this: \"Hey, the bus stop on our street is a total mess and somebody needs to fix it ASAP.\" Shift the register: keep the urgency, but use formal words and a specific detail (\"The bus stop on Elm Street has collected trash for three weeks; I respectfully request...\"). Rewrite two informal sentences in your draft."
+     },
+     "teacher": "Model the weak sentence first. Look for one revised line that is more exact, more specific, or more formal."
+    },
+    {
+     "kind": "quick-write",
+     "title": "If Nature Could Write",
+     "dol": {
+      "k2": {
+       "s": "We planted a tree on april 22 2027",
+       "fix": "We planted a tree on April 22, 2027.",
+       "n": 3
+      },
+      "g35": {
+       "s": "dear Mr. Ito can our class visit the recycling center",
+       "fix": "Dear Mr. Ito, can our class visit the recycling center?",
+       "n": 3
+      },
+      "g68": {
+       "s": "Our students is totally ready to help with the cleanup on saturday",
+       "fix": "Our students are ready to help with the cleanup on Saturday.",
+       "n": 4
+      }
+     },
+     "write": {
+      "k2": "Pretend you are a tree, a bird, or a river. Write a short letter to people. What do you want them to know or do?",
+      "g35": "Quick-write: Write a thank-you letter to something in nature, like the tree that shades your playground or the rain that fills the creek. Tell it what it does for you.",
+      "g68": "Quick-write, two ways: text a friend about an Earth problem you've noticed in three casual sentences. Then write the same message to a city council member. What changed besides the words?"
+     },
+     "teacher": "Keep it playful and quick. For 6–8, discuss what made the second version sound formal."
+    },
+    {
+     "kind": "edit-share",
+     "title": "Ready to Mail",
+     "dol": {
+      "k2": {
+       "s": "We love the park mayor Delgado. thank you!",
+       "fix": "We love the park, Mayor Delgado. Thank you!",
+       "n": 3
+      },
+      "g35": {
+       "s": "Thank you for you're help Mr. Ito. We will see you on may 1.",
+       "fix": "Thank you for your help, Mr. Ito. We will see you on May 1.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Thank u for reading our letter. we hope to hear from u soon.",
+       "fix": "Thank you for reading our letter. We hope to hear from you soon.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Check your letter: a capital D in Dear, a capital for names, a comma after the name, and a comma after your closing (Your friend,). Fix one thing. Then read your letter to a partner as if you are mailing it!",
+      "g35": "Edit for letter format: check the heading (date with a comma), the greeting with a comma, the body, the closing with a comma, and your signature. Then \"deliver\" your letter: read it aloud to a partner, who answers as the person you wrote to.",
+      "g68": "Edit for formal vs. informal language: hunt for slang, abbreviations, and casual phrases (*u*, *cuz*, *super*, *stuff*) and replace each with a precise formal choice. Then your partner reads your letter as the recipient and names one thing that would make them take it seriously."
+     },
+     "teacher": "Edit for the format or tone focus, then share. If letters are strong, consider actually sending a few."
+    }
+   ]
+  },
+  {
+   "week": 33,
+   "title": "Questions Worth Asking",
+   "bigIdea": "Students practice the inquiry cycle: asking real questions, choosing where to look, taking notes in their own words, and sharing where their facts came from.",
+   "iCan": {
+    "k2": "I can ask a question, find an answer, and tell where I learned it.",
+    "g35": "I can ask research questions, take notes in my own words, and name my sources.",
+    "g68": "I can write a research question, gather information from sources, and quote them correctly."
+   },
+   "days": [
+    {
+     "kind": "plan",
+     "title": "My Wonder List",
+     "dol": {
+      "k2": {
+       "s": "why is the sky blue",
+       "fix": "Why is the sky blue?",
+       "n": 2
+      },
+      "g35": {
+       "s": "how do butterflys know where to migrate",
+       "fix": "How do butterflies know where to migrate?",
+       "n": 3
+      },
+      "g68": {
+       "s": "according to the article \"octopuses can taste with their arms.\"",
+       "fix": "According to the article, \"Octopuses can taste with their arms.\"",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "What do you wonder about? Draw it (an animal, the sky, a machine). Write or tell two questions about it that start with *how*, *why*, or *what*.",
+      "g35": "Make a \"wonder list\" of five questions you truly want answered (Why do cats purr? Who invented recess?). Star one, then write three smaller questions that would help you answer the big one.",
+      "g68": "Write down three things you genuinely wonder about (why songs get stuck in your head, how a city decides where stop signs go, whether animals dream). Choose one, turn it into a research question that can't be answered with yes or no, and add three sub-questions."
+     },
+     "teacher": "Celebrate real curiosity over \"school\" questions. Look for at least one question that can't be answered with yes or no."
+    },
+    {
+     "kind": "draft",
+     "title": "Where Would I Look?",
+     "dol": {
+      "k2": {
+       "s": "how do bees maked honey",
+       "fix": "How do bees make honey?",
+       "n": 3
+      },
+      "g35": {
+       "s": "are cactus spines really leafs",
+       "fix": "Are cactus spines really leaves?",
+       "n": 3
+      },
+      "g68": {
+       "s": "the biologist explained that \"Many sharks must keep swimming to breathe\"",
+       "fix": "The biologist explained that \"many sharks must keep swimming to breathe.\"",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Where could you find the answer to your question? Draw or write two places: a book, an expert like the nurse or librarian, or looking closely yourself. Use your question from Monday, or wonder: *How do ants find food?*",
+      "g35": "List where you could look for answers to your question: a nonfiction book, an encyclopedia, an expert you know, a careful observation. For each, write what it might tell you. Use Monday's question, or research *How do bats find food in the dark?*",
+      "g68": "List three kinds of sources that could answer your question (a library book, an expert interview, a reference book or reputable website, your own survey) and, for each, what would make it trustworthy or not. Use Monday's question, or research why the Congress Avenue Bridge in Austin has so many bats."
+     },
+     "teacher": "Talk about the difference between an expert and \"someone who said so.\" Look for sources matched to the question."
+    },
+    {
+     "kind": "revise",
+     "title": "Notes in My Own Words",
+     "dol": {
+      "k2": {
+       "s": "where do frogs goes in winter.",
+       "fix": "Where do frogs go in winter?",
+       "n": 3
+      },
+      "g35": {
+       "s": "Our school library has two dictionarys and many books about wolfs",
+       "fix": "Our school library has two dictionaries and many books about wolves.",
+       "n": 3
+      },
+      "g68": {
+       "s": "dr Patel calls octopuses \"the escape artists of the sea.",
+       "fix": "Dr. Patel calls octopuses \"the escape artists of the sea.\"",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Read this note: \"Spiders have eight legs and they spin webs to catch food.\" That is a lot of words to copy! Good notes are short and in your own words: *8 legs. Webs catch bugs.* Write two short notes about your topic, or about spiders.",
+      "g35": "Read this copied sentence: \"Bats use echolocation, which means they make high-pitched sounds and listen for the echoes that bounce back.\" Take notes in your own words with key words only: *bats squeak → echo bounces back → find bugs.* Then write three short notes about your own topic.",
+      "g68": "Read this: Octopuses are smart. \"They can solve puzzles.\" This shows they're smart. The quote is dropped in with no introduction, and the explanation just repeats it. Build a quote sandwich: introduce the source (*Marine biologist Dr. Ana Reyes notes that...*), give the quote, then explain what it means in your own words. Write one quote sandwich for your topic."
+     },
+     "teacher": "Model turning a long sentence into key words. Look for notes that are shorter than the source and don't copy it."
+    },
+    {
+     "kind": "quick-write",
+     "title": "Wonder Out the Window",
+     "dol": {
+      "k2": {
+       "s": "Do fish sleep. I want to know",
+       "fix": "Do fish sleep? I want to know.",
+       "n": 2
+      },
+      "g35": {
+       "s": "why do ladybugs hide under logs and leafs in winter",
+       "fix": "Why do ladybugs hide under logs and leaves in winter?",
+       "n": 3
+      },
+      "g68": {
+       "s": "As one ranger told us \"the bats leave the Congress Avenue Bridge at sunset\"",
+       "fix": "As one ranger told us, \"The bats leave the Congress Avenue Bridge at sunset.\"",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Look out the window. What do you see that makes you wonder? Write one question and your best guess at the answer.",
+      "g35": "Quick-write: Pick something in your classroom (a pencil, a light switch, a globe) and write three research questions about it. Then guess an answer for one and tell how you could check it.",
+      "g68": "Quick-write: Interview a classmate for three minutes about something they know well (a game, a recipe, a sport). Take notes in your own words, then write two sentences that quote them correctly."
+     },
+     "teacher": "Keep it quick and curious. For 6–8 interviews, pair students and swap after three minutes."
+    },
+    {
+     "kind": "edit-share",
+     "title": "Share Your Source",
+     "dol": {
+      "k2": {
+       "s": "what do owls eat. Can I find out",
+       "fix": "What do owls eat? Can I find out?",
+       "n": 3
+      },
+      "g35": {
+       "s": "baby calfs stay close to their mothers. I read about them at two librarys.",
+       "fix": "Baby calves stay close to their mothers. I read about them at two libraries.",
+       "n": 3
+      },
+      "g68": {
+       "s": "The article states \"some bats can live for thirty years.\" It's author is a scientist at the zoo.",
+       "fix": "The article states, \"Some bats can live for thirty years.\" Its author is a scientist at the zoo.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Tell a partner your question, one fact, and where you learned it (\"I learned it from a book about ___.\"). Then check your writing: does each asking sentence end with a question mark (?)",
+      "g35": "Edit your notes or questions for plural spelling: *-y* after a consonant becomes *-ies* (*berries*), and many *-f* words become *-ves* (*leaves*). Then share one source with a partner: what it is and the coolest fact it gave you.",
+      "g68": "Edit for integrating quotations: each quote needs a signal phrase (*According to...*, *As ___ explains,*), correct commas and capitals, and end punctuation inside the closing quotation marks. Then share one source with your group: what it is, why you trust it, and the best fact it gave you."
+     },
+     "teacher": "Every share names a source. Listen for \"I learned it from...\" and praise students who admit what they still don't know."
+    }
+   ]
+  },
+  {
+   "week": 34,
+   "title": "Brave on the Page",
+   "bigIdea": "During testing season, students write true stories about nervous moments and what helped, building both calm and the craft of showing thoughts and feelings.",
+   "iCan": {
+    "k2": "I can write a true story about a time I felt nervous and then felt brave.",
+    "g35": "I can write a true story with a clear sequence and complete sentences.",
+    "g68": "I can write a personal narrative with varied sentences that build tension."
+   },
+   "days": [
+    {
+     "kind": "plan",
+     "title": "A Time I Felt Nervous",
+     "dol": {
+      "k2": {
+       "s": "i take a big breath",
+       "fix": "I take a big breath.",
+       "n": 2
+      },
+      "g35": {
+       "s": "Before the spelling bee. I took three deep breathes",
+       "fix": "Before the spelling bee, I took three deep breaths.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Because I hate public speaking. My stomach knotted before the debate",
+       "fix": "Because I hate public speaking, my stomach knotted before the debate.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Think of a time you felt nervous or scared, and then felt better. Draw what happened. Tell a partner what helped you feel calm.",
+      "g35": "List three times you had to be brave in front of others: reading aloud, a big moment in a game, a performance, a first day somewhere new. Pick one and draw a quick \"feelings line\" that shows your nerves rising and falling.",
+      "g68": "Brainstorm moments when you had to perform under pressure: a test, a tryout, a solo, a hard conversation. Choose one and jot three quick lists: what you saw, what you felt in your body, and what you told yourself."
+     },
+     "teacher": "Keep the tone light; students choose what to share. In the DOL, read each part aloud and ask, \"Can this stand alone?\" In the 3–5 DOL, also accept no comma after \"bee\" (a short opener); the must-fix is the fragment."
+    },
+    {
+     "kind": "draft",
+     "title": "Right Before the Big Moment",
+     "dol": {
+      "k2": {
+       "s": "nayeli feel brave today",
+       "fix": "Nayeli feels brave today.",
+       "n": 3
+      },
+      "g35": {
+       "s": "my hands were shaking My voice was calm",
+       "fix": "My hands were shaking. My voice was calm.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Ms. Vega my debate coach told me to slow down, breathe, and smile",
+       "fix": "Ms. Vega, my debate coach, told me to slow down, breathe, and smile.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write the start of your story: Where were you? What made you nervous? Use Monday's picture, or write about the first time you tried something new, like reading out loud.",
+      "g35": "Draft the part of your story right before the big moment: where you were, what you saw, and what you were thinking. Use Monday's idea, or write about a time you got lost and had to stay calm.",
+      "g68": "Draft the opening of your story so a reader feels the pressure building before anything happens. Use Monday's moment, or write about waiting for results you cared about."
+     },
+     "teacher": "Look for a setting and a feeling in the first few lines."
+    },
+    {
+     "kind": "revise",
+     "title": "Smooth It Out",
+     "dol": {
+      "k2": {
+       "s": "can you count to five with me",
+       "fix": "Can you count to five with me?",
+       "n": 2
+      },
+      "g35": {
+       "s": "When the judge said my word. I smiled and spelled it slow",
+       "fix": "When the judge said my word, I smiled and spelled it slowly.",
+       "n": 3
+      },
+      "g68": {
+       "s": "i had practiced for weeks but my mind still went blank",
+       "fix": "I had practiced for weeks, but my mind still went blank.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Read this: \"I felt better.\" What did you tell yourself? Add a thinking line: I thought, \"I can do this!\" Add one thinking line to your story.",
+      "g35": "Read this: \"I walked up. I said my part. I sat down.\" Use transition words to show time passing smoothly: *At first... Then... Finally...* Add two transitions to your story.",
+      "g68": "Read this: \"I walked in. I sat down. I was nervous. The test started. I took a breath.\" Combine choppy sentences to vary the rhythm with a subordinate clause, an appositive, or a compound sentence, then end on one short sentence for punch. Revise three choppy sentences in your draft."
+     },
+     "teacher": "Model the revision aloud, then have students do one. Look for at least one sentence that changed shape."
+    },
+    {
+     "kind": "quick-write",
+     "title": "Helping Someone Else Feel Brave",
+     "dol": {
+      "k2": {
+       "s": "my heart went thump. then I smiled",
+       "fix": "My heart went thump. Then I smiled.",
+       "n": 3
+      },
+      "g35": {
+       "s": "the crowd clapped Then I bowed to the audience",
+       "fix": "The crowd clapped. Then I bowed to the audience.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Lena who sat in the front row gave me a thumbs-up",
+       "fix": "Lena, who sat in the front row, gave me a thumbs-up.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write about a time you helped someone else feel calm or brave. What did you say or do?",
+      "g35": "Quick-write: Tell about a time something went wrong in front of people (you tripped, forgot a line, called your teacher by the wrong name) and how you bounced back.",
+      "g68": "Quick-write: Tell the story of a time you gave someone advice for staying calm, and whether it actually worked."
+     },
+     "teacher": "Fast and low-stakes. Look for a clear moment, not a summary of a whole day."
+    },
+    {
+     "kind": "edit-share",
+     "title": "Steady Sentences",
+     "dol": {
+      "k2": {
+       "s": "i can do hard things. you can too",
+       "fix": "I can do hard things. You can too.",
+       "n": 3
+      },
+      "g35": {
+       "s": "Because I practiced every night. I felt ready Now I know practicing help.",
+       "fix": "Because I practiced every night, I felt ready. Now I know practicing helps.",
+       "n": 3
+      },
+      "g68": {
+       "s": "After I finished my speech. The room went quiet. Then everyone clapped and I finally exhaled.",
+       "fix": "After I finished my speech, the room went quiet. Then everyone clapped, and I finally exhaled.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Check your story: Does every sentence start with a capital letter and end with a . ? or ! ? Fix two. Then share in the author's chair and tell the class one brave thing you did.",
+      "g35": "Edit for fragments and run-ons: read each sentence aloud. Does it make sense alone and stop where it should? Fix one fragment or run-on. Then share in the author's chair; listeners name the moment they felt your nerves.",
+      "g68": "Edit for sentence variety: find three sentences in a row that start the same way or are the same length, and combine or rearrange them. Check that each combined sentence is punctuated correctly. Then read a paragraph to a partner, who listens for rhythm and points to your best sentence."
+     },
+     "teacher": "Edit for the sentence focus, then share. Keep sharing voluntary this week."
+    }
+   ]
+  },
+  {
+   "week": 35,
+   "title": "Thank You for Helping Me Grow",
+   "bigIdea": "Students write thank-you letters to the people who help them grow, practicing specific, heartfelt detail while reviewing the year's capitals, commas, and punctuation.",
+   "iCan": {
+    "k2": "I can write a thank-you letter that tells a helper what they did for me.",
+    "g35": "I can write a thank-you letter with specific details and correct commas.",
+    "g68": "I can write a thank-you letter that shows real change and uses punctuation correctly."
+   },
+   "days": [
+    {
+     "kind": "plan",
+     "title": "Helpers All Around Me",
+     "dol": {
+      "k2": {
+       "s": "thank you, mrs. Flores",
+       "fix": "Thank you, Mrs. Flores.",
+       "n": 3
+      },
+      "g35": {
+       "s": "Dear Coach Rivera you teached me to dribble pass, and shoot.",
+       "fix": "Dear Coach Rivera, you taught me to dribble, pass, and shoot.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Coach Ibarra, who never let me quit taught me that effort matters more then talent",
+       "fix": "Coach Ibarra, who never let me quit, taught me that effort matters more than talent.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Who helps you learn and grow at school? Draw them (a librarian, a bus driver, a nurse, a coach). Tell a partner one thing they do for you.",
+      "g35": "List four people who have helped you grow this year: a teacher, a coach, a neighbor, an older student, a friend. Next to each, write one thing they did. Circle the one you most want to thank.",
+      "g68": "List four people who have helped you grow: a teacher from years ago, a coach, an older cousin, a neighbor, a friend who told you the truth. Next to each, write one specific moment. Circle the one you'd most like to thank."
+     },
+     "teacher": "Encourage helpers beyond the classroom teacher. This is a mixed-review week, so ask students to name each DOL error's rule."
+    },
+    {
+     "kind": "draft",
+     "title": "A Thank-You That Tells",
+     "dol": {
+      "k2": {
+       "s": "mr. Wade drives our bus in dallas",
+       "fix": "Mr. Wade drives our bus in Dallas.",
+       "n": 3
+      },
+      "g35": {
+       "s": "On May 12 2027 our class visited the library in Laredo Texas.",
+       "fix": "On May 12, 2027, our class visited the library in Laredo, Texas.",
+       "n": 3
+      },
+      "g68": {
+       "s": "You always told us \"read the question twice\" and I still do.",
+       "fix": "You always told us, \"Read the question twice,\" and I still do.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write a thank-you letter to a helper. Start with Dear ___, and tell one thing they do. Use your helper from Monday, or write to the person who keeps our school clean.",
+      "g35": "Draft a thank-you letter to your helper. In the body, tell about one time they helped you and what happened. Use Monday's list, or write to someone who taught you a game or skill.",
+      "g68": "Draft the heart of a thank-you letter: describe the specific moment and what you learned from it. Use Monday's person, or write to a teacher from an earlier grade who probably doesn't know the difference they made."
+     },
+     "teacher": "Look for one specific moment in each letter, not just \"you are nice.\""
+    },
+    {
+     "kind": "revise",
+     "title": "Then and Now",
+     "dol": {
+      "k2": {
+       "s": "We made cards on may 14 2027",
+       "fix": "We made cards on May 14, 2027.",
+       "n": 3
+      },
+      "g35": {
+       "s": "Yes Ms. Huang I remember the day you helped me with fractions",
+       "fix": "Yes, Ms. Huang, I remember the day you helped me with fractions.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Youve taught me three things, patience, courage, and the power of a good question",
+       "fix": "You've taught me three things: patience, courage, and the power of a good question.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Read this: \"Thank you for the books.\" Tell what changed because of their help: \"Thank you for the shark books. Now I want to be a shark scientist!\" Add a sentence that tells how they helped you grow.",
+      "g35": "Read this: \"Thank you for helping me. You are nice.\" Add a before-and-after: \"Before, I hated fractions. Now I can explain them to my little cousin.\" Add one before-and-after sentence to your letter.",
+      "g68": "Read this: \"Thanks for everything. You're the best teacher ever.\" It's sweet, but it could be sent to anyone. Replace the general compliment with a then-and-now contrast (\"In fourth grade I hid my writing; now I'm the one who volunteers to read aloud.\"). Add one to your letter."
+     },
+     "teacher": "Work the weak model together. Look for a sentence only this writer could have written to this reader. In the 6–8 DOL, also accept a dash in place of the colon."
+    },
+    {
+     "kind": "quick-write",
+     "title": "Helpers Who Never Knew",
+     "dol": {
+      "k2": {
+       "s": "You help me grow coach Rios",
+       "fix": "You help me grow, Coach Rios.",
+       "n": 3
+      },
+      "g35": {
+       "s": "First you listened to my idea and then you helped me fix it",
+       "fix": "First, you listened to my idea, and then you helped me fix it.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Its been two years since I was in Mr. Patels class but I still use his reading tricks.",
+       "fix": "It's been two years since I was in Mr. Patel's class, but I still use his reading tricks.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write a letter to YOU from a helper. What would your teacher, coach, or crossing guard say to you?",
+      "g35": "Quick-write: Write a thank-you letter to something that helped you grow that isn't a person: a favorite book, a tree you read under, a pencil that got you through a hard test.",
+      "g68": "Quick-write: Write a short letter to someone who helped you grow without knowing it: an author whose book got you through a tough week, a kid who stood up for you once, a stranger who was kind."
+     },
+     "teacher": "Keep it quick and playful. Watch for letter parts even in fast writing."
+    },
+    {
+     "kind": "edit-share",
+     "title": "Letters Ready to Deliver",
+     "dol": {
+      "k2": {
+       "s": "We love you mrs. Flores. you help us read!",
+       "fix": "We love you, Mrs. Flores. You help us read!",
+       "n": 3
+      },
+      "g35": {
+       "s": "Thank you Mr. Ali for the books. You are kind patient, and funny.",
+       "fix": "Thank you, Mr. Ali, for the books. You are kind, patient, and funny.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Thank you Ms. Reyes for believing in me. Your words, \"You belong here\" stayed with me.",
+       "fix": "Thank you, Ms. Reyes, for believing in me. Your words, \"You belong here,\" stayed with me.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Check your letter: capital letters for Dear and names, a comma after Dear ___, and a comma after your closing. Then give or read your letter to a partner, the way you would hand it to your helper.",
+      "g35": "Edit for commas: in the date, after the greeting, after yes or no, around a name you're talking to, in a series, and after the closing. Then share: read your favorite line aloud, and decide whether to deliver the letter.",
+      "g68": "Edit for punctuation: commas (direct address, compound sentences, introductory elements), apostrophes, quotation marks, and colons. Then read your favorite line aloud to the class, and decide whether you'll deliver the letter."
+     },
+     "teacher": "Edit for the review focus, then share. Offer to help students deliver letters this week; it matters to the helpers."
+    }
+   ]
+  },
+  {
+   "week": 36,
+   "title": "How to Summer",
+   "bigIdea": "As summer nears, students write how-to pieces for fun, doable summer activities, practicing clear order, exact details, and helpful tips while reviewing the year's conventions.",
+   "iCan": {
+    "k2": "I can write how to do something in steps that are in order.",
+    "g35": "I can write clear how-to steps with exact details and correct capitals and apostrophes.",
+    "g68": "I can write a procedure that anticipates my reader's mistakes and uses words correctly."
+   },
+   "days": [
+    {
+     "kind": "plan",
+     "title": "Summer Skills I Could Teach",
+     "dol": {
+      "k2": {
+       "s": "we swimmed at the splash pad",
+       "fix": "We swam at the splash pad.",
+       "n": 3
+      },
+      "g35": {
+       "s": "This summer my cousin's and I will build a fort in aunt Rosas backyard.",
+       "fix": "This summer my cousins and I will build a fort in Aunt Rosa's backyard.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Summer heat can effect you're energy, so drink more water then you think you need.",
+       "fix": "Summer heat can affect your energy, so drink more water than you think you need.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "What is something fun to do in summer that you could teach a friend: build a sand castle, make a paper fan, play hopscotch? Draw the steps in three boxes.",
+      "g35": "List four summer things you could teach someone to do, like making a paper boat, playing a sidewalk chalk game, or setting up a backyard picnic. Pick one and number its steps.",
+      "g68": "List summer skills you could teach in steps: how to beat boredom on a free day, how to keep a plant alive in July, how to make a snack with no stove, how to run a neighborhood pickup game. Pick one and number its steps."
+     },
+     "teacher": "Steps should be doable without money or travel. In the DOL, review the rule behind each fix aloud."
+    },
+    {
+     "kind": "draft",
+     "title": "First, Next, Then",
+     "dol": {
+      "k2": {
+       "s": "the bees likes the flowers",
+       "fix": "The bees like the flowers.",
+       "n": 3
+      },
+      "g35": {
+       "s": "Dont forget to pack sunscreen for the trip to padre island",
+       "fix": "Don't forget to pack sunscreen for the trip to Padre Island.",
+       "n": 4
+      },
+      "g68": {
+       "s": "Their are less mosquitoes if you empty standing water every few days",
+       "fix": "There are fewer mosquitoes if you empty standing water every few days.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write the first steps of your how-to. Use *First* and *Next*. Use your idea from Monday, or tell how to make a shady fort with a blanket.",
+      "g35": "Draft your how-to: a title, a \"you will need\" list, and the first three steps with order words. Use Monday's idea, or write how to make the best paper airplane.",
+      "g68": "Draft your procedure with a short intro (why someone would want to do this), a materials list, and the first three numbered steps. Use Monday's idea, or write how to set up a backyard or park obstacle course."
+     },
+     "teacher": "Look for steps in a clear order with order words or numbers."
+    },
+    {
+     "kind": "revise",
+     "title": "Exact Steps, Helpful Tips",
+     "dol": {
+      "k2": {
+       "s": "Last summer we planted two bushs",
+       "fix": "Last summer we planted two bushes.",
+       "n": 2
+      },
+      "g35": {
+       "s": "On july 4 the citys fireworks light up the sky over the Rio grande.",
+       "fix": "On July 4 the city's fireworks light up the sky over the Rio Grande.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Everyone accept Jonah laid in the shade",
+       "fix": "Everyone except Jonah lay in the shade.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Read this step: \"Put the water on the plant.\" How much? When? Add exact words: \"Pour one cup of water on the plant every morning.\" Make one of your steps more exact.",
+      "g35": "Read this step: \"Fold the paper and do the wings.\" Which way? How many times? Add exact details: \"Fold the paper in half the long way, then fold each top corner down to the middle crease.\" Make two of your steps exact enough to follow without help.",
+      "g68": "Read this: \"Mix the stuff together and wait until it's ready.\" Anticipate your reader's mistakes: add exact amounts, a sign that it's done, and a tip or warning (\"Stir for 2 minutes, until no dry powder remains.\"). Add one tip or warning to your procedure."
+     },
+     "teacher": "Have a partner \"follow\" a vague step literally for laughs, then revise. Look for numbers, sizes, and times."
+    },
+    {
+     "kind": "quick-write",
+     "title": "How to Beat the Heat",
+     "dol": {
+      "k2": {
+       "s": "the kids was hot yesterday",
+       "fix": "The kids were hot yesterday.",
+       "n": 3
+      },
+      "g35": {
+       "s": "The librarys summer reading program starts in june, and its free.",
+       "fix": "The library's summer reading program starts in June, and it's free.",
+       "n": 3
+      },
+      "g68": {
+       "s": "Whom is bringing the cooler, and who should we thank for the ice",
+       "fix": "Who is bringing the cooler, and whom should we thank for the ice?",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write a how-to for staying cool on a hot Texas day. Give at least three steps!",
+      "g35": "Quick-write: Write a how-to for eating a dripping popsicle on a hot day without getting sticky. Use at least four steps and one warning.",
+      "g68": "Quick-write: Write a funny but accurate procedure for something everyone does without thinking: how to walk barefoot on hot Texas pavement, how to wake up on the first morning of summer, or how to eat a melting snow cone."
+     },
+     "teacher": "Encourage humor, but the steps still need to be in order."
+    },
+    {
+     "kind": "edit-share",
+     "title": "Test My Steps",
+     "dol": {
+      "k2": {
+       "s": "We picked three peachs. They was so sweet!",
+       "fix": "We picked three peaches. They were so sweet!",
+       "n": 2
+      },
+      "g35": {
+       "s": "Lets make lemonade on saturday. Abuelas recipe is the best!",
+       "fix": "Let's make lemonade on Saturday. Abuela's recipe is the best!",
+       "n": 3
+      },
+      "g68": {
+       "s": "Its important to lie your towel flat. Than weigh the corners down with rocks.",
+       "fix": "It's important to lay your towel flat. Then weigh the corners down with rocks.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Check your naming words and action words: one bee, two bees; he was, we were. Fix one. Then act out your how-to steps while a partner reads them aloud.",
+      "g35": "Edit for capitals and apostrophes: names, places, months, and days get capitals; contractions and owners get apostrophes. Then trade with a partner, who tries to follow your steps and tells you where they got stuck.",
+      "g68": "Edit for usage: check every *affect/effect*, *then/than*, *its/it's*, *your/you're*, *fewer/less*, and *lie/lay* in your procedure. Then trade with a partner, who follows your steps in their head and points to the one place they'd get stuck."
+     },
+     "teacher": "Edit for the review focus, then test. A partner who can follow the steps is the best proof they work."
+    }
+   ]
+  },
+  {
+   "week": 37,
+   "title": "Then and Now",
+   "bigIdea": "In the last week of school, students write true stories about how they have grown this year and look ahead, using every convention they have practiced since August.",
+   "iCan": {
+    "k2": "I can write a true story about how I grew this year.",
+    "g35": "I can write a true story about this year that ends by looking ahead.",
+    "g68": "I can write a personal narrative that shows how I have changed this year."
+   },
+   "days": [
+    {
+     "kind": "plan",
+     "title": "How I Have Grown",
+     "dol": {
+      "k2": {
+       "s": "in august I was shy",
+       "fix": "In August I was shy.",
+       "n": 3
+      },
+      "g35": {
+       "s": "On august 17 2026 I walked into class feeling nervous.",
+       "fix": "On August 17, 2026, I walked into class feeling nervous.",
+       "n": 3
+      },
+      "g68": {
+       "s": "When I first walked into the cafeteria in august I didnt know anyone.",
+       "fix": "When I first walked into the cafeteria in August, I didn't know anyone.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Think back to the first day of school. Draw yourself then and now. Tell a partner one way you have grown.",
+      "g35": "Make a \"year map\": draw a line from August to May and mark five moments that mattered (a new friend, a hard test, a funny lunch, something you finally learned). Star the one you want to write about.",
+      "g68": "Make two columns: \"Who I was in August\" and \"Who I am now.\" Fill each with specifics (what you worried about, who you sat with, what you would never have tried). Circle the change that surprises you most."
+     },
+     "teacher": "Celebrate growth of every size. The DOL this week reviews the whole year; ask students which week taught each rule."
+    },
+    {
+     "kind": "draft",
+     "title": "My Favorite Day This Year",
+     "dol": {
+      "k2": {
+       "s": "I maked two new friend this year",
+       "fix": "I made two new friends this year.",
+       "n": 3
+      },
+      "g35": {
+       "s": "Marisol and me became best friends in october",
+       "fix": "Marisol and I became best friends in October.",
+       "n": 3
+      },
+      "g68": {
+       "s": "My friend's and me started a book club, which met every friday in the library.",
+       "fix": "My friends and I started a book club, which met every Friday in the library.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write about your favorite day this year. What happened first? Use your idea from Monday, or write about the day you learned something new and hard.",
+      "g35": "Draft the story of your starred moment, starting right when it began. Use Monday's map, or write about the first time this year you felt proud of yourself.",
+      "g68": "Draft a scene from this year that shows your change happening, in a specific place and moment, not a summary. Use Monday's list, or write about a mistake this year that taught you something."
+     },
+     "teacher": "Look for a single day or moment, told in order."
+    },
+    {
+     "kind": "revise",
+     "title": "An Ending That Looks Ahead",
+     "dol": {
+      "k2": {
+       "s": "mrs. diaz read us so many books",
+       "fix": "Mrs. Diaz read us so many books.",
+       "n": 3
+      },
+      "g35": {
+       "s": "Our class read Charlottes web, and it was the most best book all year.",
+       "fix": "Our class read Charlotte's Web, and it was the best book all year.",
+       "n": 3
+      },
+      "g68": {
+       "s": "The biggest affect of this year is that Im less afraid of making mistakes then I used to be.",
+       "fix": "The biggest effect of this year is that I'm less afraid of making mistakes than I used to be.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Read this: \"We had a party. It was good.\" Use a strong feeling word: excited, proud, giggly, surprised. \"I felt so proud when I read the whole book!\" Add a feeling word to your story.",
+      "g35": "Read this: \"This year was really fun and I learned a lot.\" End with a reflection that looks ahead: what you learned and how you will use it (\"Now when a math problem looks impossible, I remember...\"). Add a looking-ahead ending to your story.",
+      "g68": "Read this: \"This year I grew a lot as a person and learned many things.\" Show change through a mirrored detail: open and close with the same place or object, changed (\"In August I ate lunch in the library alone. In May, I saved a seat at a crowded table.\"). Add a mirrored detail to your draft."
+     },
+     "teacher": "Model the move on the weak example first. Look for an ending that does more than say \"the end.\""
+    },
+    {
+     "kind": "quick-write",
+     "title": "The Story We'll Still Tell",
+     "dol": {
+      "k2": {
+       "s": "are you ready for summer",
+       "fix": "Are you ready for summer?",
+       "n": 2
+      },
+      "g35": {
+       "s": "Next year Ill join the choir and my friends will to.",
+       "fix": "Next year I'll join the choir, and my friends will too.",
+       "n": 3
+      },
+      "g68": {
+       "s": "next year I have three goals, joining the robotics club, reading more books, and speak up in class.",
+       "fix": "Next year I have three goals: joining the robotics club, reading more books, and speaking up in class.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Write about a time this year when you made someone laugh, or someone made you laugh.",
+      "g35": "Quick-write: Tell the story of the funniest or strangest thing that happened in our classroom this year, as if you were telling it to next year's class.",
+      "g68": "Quick-write: Write the story of a moment from this year that you'll probably still be telling people about in ten years. Why that one?"
+     },
+     "teacher": "Keep it joyful and quick. Remind students to keep classmates' feelings in mind in funny stories. In the 6–8 DOL, also accept a dash in place of the colon."
+    },
+    {
+     "kind": "edit-share",
+     "title": "Last Author's Chair",
+     "dol": {
+      "k2": {
+       "s": "i cant wait for next year. It will be fun",
+       "fix": "I can't wait for next year. It will be fun.",
+       "n": 3
+      },
+      "g35": {
+       "s": "this year I learned to write dialogue. \"i can do it\" I told myself.",
+       "fix": "This year I learned to write dialogue. \"I can do it,\" I told myself.",
+       "n": 3
+      },
+      "g68": {
+       "s": "This year taught me a lot. Its strange how much a persons outlook can change in nine months",
+       "fix": "This year taught me a lot. It's strange how much a person's outlook can change in nine months.",
+       "n": 3
+      }
+     },
+     "write": {
+      "k2": "Pick your best story from this week. Check capitals, end marks, and spelling. Fix two things. Then share it in the author's chair one last time this year!",
+      "g35": "Edit your best story from the week for the whole year's conventions: capitals, end marks, commas, apostrophes, and spelling. Then share in a final author's chair, or read your favorite sentence in a class whip-around.",
+      "g68": "Edit your strongest piece from the week using everything you have learned this year: fragments and run-ons, commas, apostrophes, usage, and pronoun clarity. Then share a paragraph in a final read-around; each listener gives you one word that describes your writing."
+     },
+     "teacher": "Edit, then celebrate. Every student who wants to share gets a turn; consider ending with applause for a year of writing."
+    }
+   ]
+  }
+ ]
+}

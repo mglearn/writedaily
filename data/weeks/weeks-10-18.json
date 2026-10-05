@@ -1,0 +1,1327 @@
+{
+  "weeks": [
+    {
+      "week": 10,
+      "title": "Think Before You Click",
+      "bigIdea": "Students build persuasive writing about staying safe online: K–2 write letters that ask or persuade, 3–5 state and support an opinion, and 6–8 make a claim, back it with evidence, and answer a counterclaim.",
+      "iCan": {
+        "k2": "I can write a letter that asks someone to stay safe online and tells why.",
+        "g35": "I can state my opinion clearly and support it with reasons and examples.",
+        "g68": "I can make a claim, support it with evidence, and answer a counterclaim."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Safe Clicks Idea List",
+          "dol": {
+            "k2": {
+              "s": "can i share my password",
+              "fix": "Can I share my password?",
+              "n": 3
+            },
+            "g35": {
+              "s": "mateo doesnt think we should post our address online",
+              "fix": "Mateo doesn't think we should post our address online.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Its smart to check a website's sources before you trust it's claims",
+              "fix": "It's smart to check a website's sources before you trust its claims.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Who should you ask before you click on something new? Draw that grown-up. Then tell a partner two things you could ask them, like \"Can I play this game?\"",
+            "g35": "Opinion time: Should kids be allowed to play online games with people they have never met? Make a T-chart of reasons for yes and no, then circle the side you believe and star your best reason.",
+            "g68": "Claim brainstorm: Should apps be required to block users under 16? Write your claim in one sentence, then list three reasons and one piece of evidence (something you have read, seen, or lived) for each."
+          },
+          "teacher": "Model a quick T-chart or list on the board first. By the end, every student should have a side or a request on paper."
+        },
+        {
+          "kind": "draft",
+          "title": "A Letter With a Reason",
+          "dol": {
+            "k2": {
+              "s": "do you have a strong password.",
+              "fix": "Do you have a strong password?",
+              "n": 2
+            },
+            "g35": {
+              "s": "you shouldnt click on pop-ups that say you won a prize",
+              "fix": "You shouldn't click on pop-ups that say you won a prize.",
+              "n": 3
+            },
+            "g68": {
+              "s": "If your not sure who sent a link don't open it because their could be a virus.",
+              "fix": "If you're not sure who sent a link, don't open it because there could be a virus.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write a letter to a friend. Start with \"Dear ___,\" and ask one question about staying safe online, like \"Will you ask a grown-up before you click?\" Tell why it matters.",
+            "g35": "Draft your opening: state your opinion in one clear sentence, then give your first reason with an example. Use your T-chart from Monday, or choose: Should kids have to ask before downloading any app?",
+            "g68": "Draft one body paragraph: your claim, one reason, and evidence that backs it up (a fact, an example, or an experience). Use Monday's claim, or argue: Should schools be allowed to read what students type on school laptops?"
+          },
+          "teacher": "Remind students that drafts are messy on purpose. Look for a reason tied to the claim or request with the word \"because.\""
+        },
+        {
+          "kind": "revise",
+          "title": "Make the Reason Stronger",
+          "dol": {
+            "k2": {
+              "s": "will you help me pick a good pasword.",
+              "fix": "Will you help me pick a good password?",
+              "n": 3
+            },
+            "g35": {
+              "s": "Ana's sister isnt allowed to chat online, and she doesnt mind",
+              "fix": "Ana's sister isn't allowed to chat online, and she doesn't mind.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Your probably thinking that private accounts are safe, but there followers can still share they're posts.",
+              "fix": "You're probably thinking that private accounts are safe, but their followers can still share their posts.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Here is a weak letter line: \"Please be safe online.\" Make it stronger with **a because**: \"Please be safe online because ___.\" Now add a because to your own letter.",
+            "g35": "Weak opinion: \"I kind of think maybe kids shouldn't post pictures of themselves.\" Revise it with **confident opinion words** like *should*, *must*, or *the best choice is*. Then make one wishy-washy sentence in your own piece sound sure.",
+            "g68": "Weak argument: \"Social media is bad for teens because it just is.\" Revise it with **specific evidence**: a real example, a number you trust, or something you have seen happen. Then add one piece of evidence to your own argument."
+          },
+          "teacher": "Fix the weak model together out loud before students revise their own. Look for an added reason, example, or piece of evidence, not just recopied work."
+        },
+        {
+          "kind": "quick-write",
+          "title": "Robot Rules Debate",
+          "dol": {
+            "k2": {
+              "s": "is the robot my friend",
+              "fix": "Is the robot my friend?",
+              "n": 2
+            },
+            "g35": {
+              "s": "my robot cant keep secrets",
+              "fix": "My robot can't keep secrets.",
+              "n": 3
+            },
+            "g68": {
+              "s": "A smart speaker listens all day, so it's owners should know were they're voice recordings go.",
+              "fix": "A smart speaker listens all day, so its owners should know where their voice recordings go.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "A silly robot wants to tell the whole world your name! Write it a short letter asking it to keep your name private. Give it one reason.",
+            "g35": "Quick opinion: Should a robot be allowed to grade your spelling tests? Pick a side and write as many reasons as you can in six minutes. Save your best reason for last.",
+            "g68": "Fast argument: Should smart speakers be allowed in classrooms? Write your claim and two reasons, then a sentence that starts \"Some people argue...\" and answer it. Go fast; don't stop to fix."
+          },
+          "teacher": "Set a timer and keep it playful. Look for students who pick a side and stick with it all the way through."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Polish and Persuade",
+          "dol": {
+            "k2": {
+              "s": "Can we play outside. may I pick the game.",
+              "fix": "Can we play outside? May I pick the game?",
+              "n": 3
+            },
+            "g35": {
+              "s": "Im sure kids shouldnt chat with strangers. Theyre not always who they say they are.",
+              "fix": "I'm sure kids shouldn't chat with strangers. They're not always who they say they are.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Your safer when you're settings are private. Its easy to check them.",
+              "fix": "You're safer when your settings are private. It's easy to check them.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Read your letter to a partner. Check every asking sentence: does it end with a **question mark**? Fix it, then read your best question out loud to the class.",
+            "g35": "Edit your opinion piece for **apostrophes in contractions** (don't, can't, it's). Circle each one and check it. Then read your strongest reason to a partner, who tells you whether it convinced them.",
+            "g68": "Edit your argument for **its/it's, your/you're, and their/there/they're**: test each one by saying the long form out loud (it is, you are, they are). Then trade with a partner who stars your strongest piece of evidence."
+          },
+          "teacher": "Give three or four minutes to edit before anyone shares. Look for students checking each word one at a time, not just rereading."
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "title": "From Garden to Plate",
+      "bigIdea": "Students write clear how-to steps about growing, picking, and preparing food, practicing exact materials, order words, and precise verbs a reader can actually follow.",
+      "iCan": {
+        "k2": "I can write steps in order so someone can make or grow something.",
+        "g35": "I can write a how-to with materials, steps in order, and order words.",
+        "g68": "I can write precise directions that a reader can follow without asking questions."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Pick a Food to Teach",
+          "dol": {
+            "k2": {
+              "s": "we grew beans corn, and squash",
+              "fix": "We grew beans, corn, and squash.",
+              "n": 3
+            },
+            "g35": {
+              "s": "lupe brought too pumpkins to school for are class garden.",
+              "fix": "Lupe brought two pumpkins to school for our class garden.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The club planted three crops: tomatoes, which grow fast, corn, which grow tall, and squash, which spreads everywhere.",
+              "fix": "The club planted three crops: tomatoes, which grow fast; corn, which grows tall; and squash, which spreads everywhere.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "What food could you teach someone to make or grow? Draw it. Then draw three boxes and show the first, next, and last step.",
+            "g35": "List three foods you know how to make or help make (a sandwich, a fruit cup, a bowl of cereal). Pick one and list every material you need, then the steps in order.",
+            "g68": "Plan a how-to for something food-related you actually know: a family recipe, the perfect bowl of instant noodles, or how to pick a ripe watermelon. List materials, jot the steps in order, and star any step where a reader could mess up."
+          },
+          "teacher": "Steer younger writers toward foods that need no stove. Look for steps in order on paper by the end."
+        },
+        {
+          "kind": "draft",
+          "title": "Steps That Start Strong",
+          "dol": {
+            "k2": {
+              "s": "get bread jam, and a spoon",
+              "fix": "Get bread, jam, and a spoon.",
+              "n": 3
+            },
+            "g35": {
+              "s": "wash you're hands before you cut the apple into too pieces",
+              "fix": "Wash your hands before you cut the apple into two pieces.",
+              "n": 4
+            },
+            "g68": {
+              "s": "Rinse the rice until the water runs clear, otherwise it's grains will stick together",
+              "fix": "Rinse the rice until the water runs clear; otherwise, its grains will stick together.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Tell a partner how to make your favorite snack. Then write your first two steps. Use the words **First** and **Next**.",
+            "g35": "Write the beginning of your how-to: a title, a list of materials, and your first three steps with order words. Use your plan from Monday, or teach how to make a fruit salad.",
+            "g68": "Draft the first half of your how-to: a one-sentence intro that tells the reader why this is worth making, a materials list, and the first steps. Use Monday's plan, or explain how to make the perfect sandwich."
+          },
+          "teacher": "Ask, \"Could someone do this step without asking you a question?\" Look for one action per step. (6–8 Fix It: also accept \"clear. Otherwise,\")"
+        },
+        {
+          "kind": "revise",
+          "title": "Exact Verbs in the Kitchen",
+          "dol": {
+            "k2": {
+              "s": "i need eggs milk, and flour",
+              "fix": "I need eggs, milk, and flour.",
+              "n": 3
+            },
+            "g35": {
+              "s": "There going to slice the peppers and put them over their",
+              "fix": "They're going to slice the peppers and put them over there.",
+              "n": 3
+            },
+            "g68": {
+              "s": "You'll need three tools: a bowl, the bigger the better, a fork, not a spoon, and a towel, which catches spills",
+              "fix": "You'll need three tools: a bowl, the bigger the better; a fork, not a spoon; and a towel, which catches spills.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Weak step: \"Do the bread.\" Make it better with **an exact action word** like spread, cut, fold, or toast: \"Spread the jam on the bread.\" Now change one step in your how-to to use an exact action word.",
+            "g35": "Weak step: \"Put the stuff in and mix it.\" Revise it with **precise verbs and exact nouns**: what stuff, and how do you mix it (stir, shake, mash)? Then fix one fuzzy step in your own how-to.",
+            "g68": "Weak step: \"Cook it until it's done.\" Revise it with **a checkable detail**: a time, a color, a texture, or a sound that tells the reader it is ready. Then add one checkable detail to your own directions."
+          },
+          "teacher": "Act out the weak step literally to show why it fails. Look for revised steps a stranger could follow."
+        },
+        {
+          "kind": "quick-write",
+          "title": "Silly Sandwich Directions",
+          "dol": {
+            "k2": {
+              "s": "my silly sandwich has ham pickles, and grapes",
+              "fix": "My silly sandwich has ham, pickles, and grapes.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Their are two ways too build a taco tower",
+              "fix": "There are two ways to build a taco tower.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The contest rules was strict: no knives, only spoons, no stoves, only microwaves, and no help, even from teachers.",
+              "fix": "The contest rules were strict: no knives, only spoons; no stoves, only microwaves; and no help, even from teachers.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Make up the silliest sandwich ever! Draw it, then write how to make it in three steps. Name every food you put on it.",
+            "g35": "Write directions for a snack that could win a contest: the tallest, the silliest, or the most colorful. You have six minutes, and every step needs an order word.",
+            "g68": "Write directions for a food challenge you would actually try: a no-stove lunch, a dessert made from only three ingredients, or a snack built from whatever's left in the pantry. Include one warning step."
+          },
+          "teacher": "Keep it fast and funny. Look for order words and a clear last step."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Check Your Recipe Steps",
+          "dol": {
+            "k2": {
+              "s": "Get apples pears, and grapes. get cups spoons, and napkins.",
+              "fix": "Get apples, pears, and grapes. Get cups, spoons, and napkins.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Put the to slices of bread on a plate. Then add you're cheese and toast them for too minutes.",
+              "fix": "Put the two slices of bread on a plate. Then add your cheese and toast them for two minutes.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The recipe needs three spices: cumin, which is earthy, paprika, which is smoky, and salt. Don't skip the cumin, it's the secret.",
+              "fix": "The recipe needs three spices: cumin, which is earthy; paprika, which is smoky; and salt. Don't skip the cumin; it's the secret.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Read your how-to and look for lists. Put a **comma** between the things in a list: \"eggs, milk, and flour.\" Then act out your steps while a partner reads them aloud.",
+            "g35": "Edit your how-to for **homophones**: check every to/too/two and there/their/they're. Then trade with a partner who acts out your steps in the air and tells you about any step that confused them.",
+            "g68": "Edit your directions for **semicolons**: use one to join two closely related sentences or to separate list items that already have commas. Then read your steps aloud while a partner acts them out exactly as written."
+          },
+          "teacher": "Have partners follow the steps exactly as written; the funny mistakes show where steps need fixing. Look for the week's convention fixed in at least two places. (6–8 Fix It: also accept a period or dash before \"it's the secret.\")"
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "title": "Choose and Convince",
+      "bigIdea": "Students practice persuading with reasons about real choices: K–2 write letters that ask for a choice, 3–5 support an opinion with a strong conclusion, and 6–8 argue a claim and answer the other side.",
+      "iCan": {
+        "k2": "I can write a letter that asks for something and gives a reason.",
+        "g35": "I can give my opinion with reasons and end with a strong conclusion.",
+        "g68": "I can argue a claim with evidence and respond fairly to a counterclaim."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Two Choices, One Vote",
+          "dol": {
+            "k2": {
+              "s": "We goed to vote on a class pet",
+              "fix": "We went to vote on a class pet.",
+              "n": 2
+            },
+            "g35": {
+              "s": "Our class choosed a new name for are reading corner",
+              "fix": "Our class chose a new name for our reading corner.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The two candidates finished his speeches, then the votes was counted.",
+              "fix": "The two candidates finished their speeches; then the votes were counted.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Pretend our class gets to pick a new class pet. Draw two pets you'd choose between. Circle the one you want and tell a partner why.",
+            "g35": "List choices kids get to make: what to play at recess, which book to read next, what to name a class pet. Pick one, choose a side, and list three reasons.",
+            "g68": "Argument topic: Is it better to be great at one thing or pretty good at many things? Write your claim, then list two reasons and the best argument someone on the other side could make."
+          },
+          "teacher": "Let students talk with a partner before writing. Look for one clear choice and at least two reasons on paper. (6–8 Fix It: also accept \", and then\" or a period before \"then.\")"
+        },
+        {
+          "kind": "draft",
+          "title": "Dear Teacher, Please Pick",
+          "dol": {
+            "k2": {
+              "s": "i seen a fun game at recess",
+              "fix": "I saw a fun game at recess.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Mia brung her list of reasons and teached the class her plan",
+              "fix": "Mia brought her list of reasons and taught the class her plan.",
+              "n": 3
+            },
+            "g68": {
+              "s": "If students want to switch electives he must ask before Friday, otherwise the office can't help them.",
+              "fix": "If students want to switch electives, they must ask before Friday; otherwise, the office can't help them.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Write a letter to your teacher asking for one class choice: a game, a book, or a song. Start with \"Dear ___,\" and give one reason. You can draw a picture too.",
+            "g35": "Write the first paragraph of an opinion piece: a hook question, your opinion, and your first reason. Use Monday's list, or argue: Should students get to pick their own seats?",
+            "g68": "Draft one body paragraph with your claim, one reason, and evidence. Use Monday's topic, or argue: Should middle schoolers choose electives for the whole year or switch each semester?"
+          },
+          "teacher": "Check that each letter or paragraph names the choice clearly. Look for a reason that would matter to the reader, not just the writer. (6–8 Fix It: also accept \"Friday. Otherwise,\")"
+        },
+        {
+          "kind": "revise",
+          "title": "Answer the Other Side",
+          "dol": {
+            "k2": {
+              "s": "we runned to the swings and saw Ben",
+              "fix": "We ran to the swings and saw Ben.",
+              "n": 3
+            },
+            "g35": {
+              "s": "theo had chose the hamster before he seen the fish",
+              "fix": "Theo had chosen the hamster before he saw the fish.",
+              "n": 4
+            },
+            "g68": {
+              "s": "The cafeteria changed their menu so now students has to choose between to lunches.",
+              "fix": "The cafeteria changed its menu, so now students have to choose between two lunches.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Weak letter line: \"I want recess longer.\" Make it stronger with **a reason that helps everyone**: \"Please make recess longer so we can ___.\" Now add a reason like that to your letter.",
+            "g35": "Weak ending: \"That's my opinion. The end.\" Revise it with **a conclusion that restates your opinion in new words** and tells why it matters. Then write a stronger ending for your own piece.",
+            "g68": "Weak paragraph: \"Some people think being great at one thing is better. They're wrong.\" Revise it with **a respectful rebuttal**: state the counterclaim fairly, admit what is right about it, then explain why your claim still holds. Add a rebuttal to your own argument."
+          },
+          "teacher": "Revise the weak model together first. Look for students who change their own writing, not just the example. (3–5 Fix It: also accept \"before he had seen the fish.\")"
+        },
+        {
+          "kind": "quick-write",
+          "title": "Would You Rather?",
+          "dol": {
+            "k2": {
+              "s": "I goed to the shelf and picked two bookes",
+              "fix": "I went to the shelf and picked two books.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Nico has swam in a lake, but he has never flew in a plane",
+              "fix": "Nico has swum in a lake, but he has never flown in a plane.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Teleportation sounds amazing but their downside is huge",
+              "fix": "Teleportation sounds amazing, but its downside is huge.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Would you rather have a pet dragon or a pet unicorn? Write a letter to a friend telling which one you picked and why they should pick it too.",
+            "g35": "Would you rather be able to fly or breathe underwater? Pick one and give three reasons in six minutes. Make your best reason last.",
+            "g68": "Would you rather teleport anywhere or freeze time for one hour a day? Make a claim, give two reasons, and answer one drawback someone would point out."
+          },
+          "teacher": "Keep it quick and playful; there is no wrong side. Look for reasons that explain, not just repeat the choice."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Edit Your Best Choice",
+          "dol": {
+            "k2": {
+              "s": "ben runned to class. He seen the new fish.",
+              "fix": "Ben ran to class. He saw the new fish.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Ava brung her opinion paper. She had wrote three reasons and drawed a chart.",
+              "fix": "Ava brought her opinion paper. She had written three reasons and drawn a chart.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Evidence matters; without them, an argument falls apart. Counterclaims matters too; ignoring it makes you look unfair.",
+              "fix": "Evidence matters; without it, an argument falls apart. Counterclaims matter too; ignoring them makes you look unfair.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Read your letter and look for words that tell what already happened. Check **ran, saw, and went**: no \"runned\" or \"goed\"! Then read your letter to a partner and ask, \"Did I convince you?\"",
+            "g35": "Edit your opinion piece for **irregular verbs**: check words like brought, taught, chose, and written. Then share in a convince-me circle: read your best reason, and classmates give a thumbs-up if it worked.",
+            "g68": "Edit your argument for **pronoun–antecedent agreement**: draw an arrow from each pronoun to the noun it stands for and make sure they match in number. Then read your rebuttal to a partner, who tries to argue back in one sentence."
+          },
+          "teacher": "Give a few quiet minutes to edit before sharing. Look for students checking the week's convention word by word."
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "title": "Letters of Thanks",
+      "bigIdea": "Students write letters that thank people who serve, from school helpers to community workers and veterans, practicing letter form, specific details, and a tone that fits the reader.",
+      "iCan": {
+        "k2": "I can write a thank-you letter that tells what someone did and why it mattered.",
+        "g35": "I can write a friendly letter with a date, greeting, body, closing, and signature.",
+        "g68": "I can write a formal letter with correct capitalization and a respectful tone."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Who Helps Us?",
+          "dol": {
+            "k2": {
+              "s": "on monday we thank our bus driver",
+              "fix": "On Monday we thank our bus driver.",
+              "n": 3
+            },
+            "g35": {
+              "s": "On veterans day, our class will thank sergeant Ruiz.",
+              "fix": "On Veterans Day, our class will thank Sergeant Ruiz.",
+              "n": 3
+            },
+            "g68": {
+              "s": "We wrote to the Brazos Valley animal center about it's volunteer program.",
+              "fix": "We wrote to the Brazos Valley Animal Center about its volunteer program.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Who helps at our school? Draw three helpers, like the nurse, the cook, or the bus driver. Circle the one you want to thank in a letter.",
+            "g35": "List people who serve your school or community: crossing guards, librarians, firefighters, veterans. Pick one and jot three specific things they do that you've noticed.",
+            "g68": "Brainstorm people or groups who serve your community: a coach, a food bank, a fire station, a veteran. Pick one to thank in a letter and list what they did, who it helped, and why it matters to you."
+          },
+          "teacher": "Many schools honor veterans this week; any helper works. Look for a specific person or group and at least two real details."
+        },
+        {
+          "kind": "draft",
+          "title": "The Body of Thanks",
+          "dol": {
+            "k2": {
+              "s": "Thank you for the bookes in october",
+              "fix": "Thank you for the books in October.",
+              "n": 3
+            },
+            "g35": {
+              "s": "In november, we read a book about the civil war and veterans.",
+              "fix": "In November, we read a book about the Civil War and veterans.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Thank you for inviting us to the veterans day ceremony at Fort Sam Houston",
+              "fix": "Thank you for inviting us to the Veterans Day ceremony at Fort Sam Houston.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write a thank-you letter to a school helper. Start with \"Dear ___,\" and tell one thing they did. Draw a picture of them helping.",
+            "g35": "Draft the body of a thank-you letter: tell what the person did, give a specific example, and tell how it helped you. Use Monday's list, or thank a librarian who helped you find a great book.",
+            "g68": "Draft the first paragraph of a formal thank-you letter: who you are, why you're writing, and one specific thing the person or group did. Use Monday's choice, or write to a local fire station."
+          },
+          "teacher": "Review letter parts on the board (date, greeting, body, closing, signature). Look for one specific example in the body."
+        },
+        {
+          "kind": "revise",
+          "title": "Specific Thanks Shine",
+          "dol": {
+            "k2": {
+              "s": "on friday we will thank the nurse",
+              "fix": "On Friday we will thank the nurse.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Our principal, dr. Hall, read a poem on veterans day",
+              "fix": "Our principal, Dr. Hall, read a poem on Veterans Day.",
+              "n": 4
+            },
+            "g68": {
+              "s": "Our school's leadership club raised money for texas children's hospital in their spring fundraiser.",
+              "fix": "Our school's leadership club raised money for Texas Children's Hospital in its spring fundraiser.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Weak thank-you: \"Thank you for being nice.\" Make it better by telling **one exact thing**: \"Thank you for helping me find my lost shoe.\" Now change one line in your letter to tell an exact thing.",
+            "g35": "Weak letter line: \"Thanks for everything you do.\" Revise it with **a small, true moment**: when, where, and what they did. Then add a moment like that to your own letter.",
+            "g68": "Weak line: \"Your service is very important and appreciated.\" Revise it with **concrete impact**: name who was helped and what changed because of it. Then replace one general sentence in your own letter."
+          },
+          "teacher": "Read the weak line in a flat voice, then the revision with feeling. Look for one general sentence swapped for a specific one."
+        },
+        {
+          "kind": "quick-write",
+          "title": "Thanks for Hidden Helpers",
+          "dol": {
+            "k2": {
+              "s": "The trash truck comes on wednesday and friday",
+              "fix": "The trash truck comes on Wednesday and Friday.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Our neighbor, captain Diaz, came home for thanksgiving in november",
+              "fix": "Our neighbor, Captain Diaz, came home for Thanksgiving in November.",
+              "n": 4
+            },
+            "g68": {
+              "s": "After the texas science and engineering fair, the night crew cleaned until midnight.",
+              "fix": "After the Texas Science and Engineering Fair, the night crew cleaned until midnight.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Some helpers work when we can't see them, like people who clean at night or fix the roads. Write a short thank-you note to a helper we never see. Ask them one question!",
+            "g35": "Write a quick thank-you letter to someone or something you usually forget to thank: your shoes, the school custodian, the person who invented recess. Be funny or serious, but include a date and a closing.",
+            "g68": "Write a fast thank-you letter to someone whose work is invisible: the night custodian, the person who plans bus routes, the volunteer who runs the scoreboard. Keep it formal and specific."
+          },
+          "teacher": "Brainstorm hidden helpers together for one minute first. Look for complete letter parts even in a fast piece."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Signed, Sealed, Shared",
+          "dol": {
+            "k2": {
+              "s": "We had no school on monday. on tuesday we made cards.",
+              "fix": "We had no school on Monday. On Tuesday we made cards.",
+              "n": 3
+            },
+            "g35": {
+              "s": "On memorial day we remember fallen soldiers. In history we learned about the civil war.",
+              "fix": "On Memorial Day we remember fallen soldiers. In history we learned about the Civil War.",
+              "n": 4
+            },
+            "g68": {
+              "s": "Our class sent letters to the Brazos Valley food bank. We also invited the american legion to our assembly.",
+              "fix": "Our class sent letters to the Brazos Valley Food Bank. We also invited the American Legion to our assembly.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Look at your letter. Do days, months, and holidays start with a **capital letter**? Fix them. Then read your letter to a partner and decide who you will give it to.",
+            "g35": "Edit your letter for **capitals in holidays, titles, and historical events** (Veterans Day, Dr. Patel, the Civil War), and check your letter parts. Then read it to a partner and plan how you will deliver it.",
+            "g68": "Edit your letter for **capitalized titles, organizations, and events**, then check your tone: would the reader feel respected? Share one sentence in a read-around, then address an envelope if you plan to send it."
+          },
+          "teacher": "If you can, actually deliver a few letters; it makes the writing real. Look for capitals fixed in names, days, and groups."
+        }
+      ]
+    },
+    {
+      "week": 14,
+      "title": "Poems of Thanks",
+      "bigIdea": "Students write gratitude poems that notice small, ordinary things, using line breaks, sensory details, comparisons, and images that show thanks instead of just saying it.",
+      "iCan": {
+        "k2": "I can write a poem about something I am thankful for using words I can see, hear, or feel.",
+        "g35": "I can write a poem with line breaks, sensory details, and a simile.",
+        "g68": "I can write a poem that uses images and form to show gratitude without just saying it."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "A List of Small Thanks",
+          "dol": {
+            "k2": {
+              "s": "Me am thankful for my blanket",
+              "fix": "I am thankful for my blanket.",
+              "n": 2
+            },
+            "g35": {
+              "s": "Me and him wrote a list of things were thankful for",
+              "fix": "He and I wrote a list of things we're thankful for.",
+              "n": 4
+            },
+            "g68": {
+              "s": "My friend and me made a gratitude list for the people whom help us every day",
+              "fix": "My friend and I made a gratitude list for the people who help us every day.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "What small things make you happy? Draw five of them, like warm socks or a friend's smile. Then say \"Thank you\" to each one out loud.",
+            "g35": "List ten small things you're grateful for that most people never notice (the cool side of the pillow, a freshly sharpened pencil). Star the three you could describe best.",
+            "g68": "List ten ordinary things you're grateful for but would never post about: the first sip of water after practice, a song that fixes a bad mood. Circle one and jot what it looks, sounds, and feels like."
+          },
+          "teacher": "Model a few tiny, specific items before students list. Look for small, concrete things rather than big words like \"family\" or \"everything.\""
+        },
+        {
+          "kind": "draft",
+          "title": "First Lines of Thanks",
+          "dol": {
+            "k2": {
+              "s": "Ana gave the book to I",
+              "fix": "Ana gave the book to me.",
+              "n": 2
+            },
+            "g35": {
+              "s": "Ms. Ortiz read our poems to Ava and I on tuesday",
+              "fix": "Ms. Ortiz read our poems to Ava and me on Tuesday.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Who did you dedicate you're poem to",
+              "fix": "Whom did you dedicate your poem to?",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write a poem that starts \"Thank you, ___,\" on each line. Thank three things. Draw one of them next to your poem.",
+            "g35": "Draft the first stanza of a gratitude poem about one thing on your list. Use your senses: what does it look, sound, smell, or feel like? Use Monday's list, or write about a favorite blanket.",
+            "g68": "Draft six to eight lines about one ordinary thing you're grateful for, without using the words thankful or grateful. Let the details show it. Use Monday's list, or write about the last bell on a Friday."
+          },
+          "teacher": "Remind students that poems can break lines anywhere they want a pause. Look for at least one detail you can picture. (6–8 Fix It: also accept \"To whom did you dedicate your poem?\")"
+        },
+        {
+          "kind": "revise",
+          "title": "Compare It to Something",
+          "dol": {
+            "k2": {
+              "s": "Him gave me a hug",
+              "fix": "He gave me a hug.",
+              "n": 2
+            },
+            "g35": {
+              "s": "Our neighbor taught Leo and I a song she brung from Mexico",
+              "fix": "Our neighbor taught Leo and me a song she brought from Mexico.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The coach, who we thank after every game, gives her time to the team and it's players",
+              "fix": "The coach, whom we thank after every game, gives her time to the team and its players.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Weak poem line: \"My dog is nice.\" Make it better with **a comparison**: \"My dog is as warm as a blanket.\" Now add an \"as ___ as ___\" line to your poem.",
+            "g35": "Weak line: \"The sun is nice and warm.\" Revise it with **a simile**: \"The sun sits on my back like a sleepy cat.\" Then turn one plain line in your poem into a simile.",
+            "g68": "Weak line: \"I am grateful for my best friend.\" Revise it with **a concrete image instead of a statement**: show one moment (a joke, a look, a saved seat). Then cut one line in your poem that tells instead of shows."
+          },
+          "teacher": "Collect a few class similes on the board first. Look for one revised line that is clearly stronger than the original."
+        },
+        {
+          "kind": "quick-write",
+          "title": "Thank You, Weird Things",
+          "dol": {
+            "k2": {
+              "s": "she and me like the rain",
+              "fix": "She and I like the rain.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Thank you, tacos, for being their for my sister and I",
+              "fix": "Thank you, tacos, for being there for my sister and me.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Between you and I, my ode to socks is better than the one Leo and me wrote last year",
+              "fix": "Between you and me, my ode to socks is better than the one Leo and I wrote last year.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write a funny thank-you poem to something silly: your toes, a puddle, or a cookie. Tell it why you are thankful!",
+            "g35": "Write an ode (a poem of praise) to a weird everyday object: a sock, an eraser, a lunch tray. Thank it for three things it does, and be as dramatic as you want.",
+            "g68": "Write a gratitude poem to something nobody thanks: a phone charger that reaches the bed, the snooze button, hoodie pockets. Go dramatic or deadpan, your choice."
+          },
+          "teacher": "Read one example in an over-the-top voice to set the mood. Look for playful details and line breaks."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Polish and Perform",
+          "dol": {
+            "k2": {
+              "s": "Me read my poem. Ms. Diaz clapped for I.",
+              "fix": "I read my poem. Ms. Diaz clapped for me.",
+              "n": 2
+            },
+            "g35": {
+              "s": "Him and me read our poems aloud. Ms. Lee gave Ava and I a high five.",
+              "fix": "He and I read our poems aloud. Ms. Lee gave Ava and me a high five.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Who did the judges pick. Andrés and me read last.",
+              "fix": "Whom did the judges pick? Andrés and I read last.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Read your poem and check **I and me**: \"I\" does the action, and \"me\" gets the action. Fix any mix-ups. Then read your poem to the class in your best poet voice.",
+            "g35": "Edit your poem for **subject and object pronouns**: test a pair by reading it with just one pronoun (\"Ava and me went\" becomes \"me went\"? No!). Then share in a poetry café where listeners snap for every poet.",
+            "g68": "Edit your poem for **pronoun case**: check I/me, he/him, and who/whom (if him fits, use whom). Then read it aloud in a read-around; listeners jot one image that stuck with them."
+          },
+          "teacher": "Teach the cover-up trick: cover the other name and read the pronoun alone. Look for poets reading slowly and pausing at line breaks."
+        }
+      ]
+    },
+    {
+      "week": 15,
+      "title": "Inventors at Work",
+      "bigIdea": "Students explain how real inventions solve problems, practicing topic sentences, facts in a logical order, and precise words, while building the conventions that make explanations clear.",
+      "iCan": {
+        "k2": "I can tell facts about an invention and use words that tell how and when.",
+        "g35": "I can write an informational paragraph with a topic sentence and facts that explain.",
+        "g68": "I can explain a topic with precise facts, definitions, and examples in a clear structure."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Everyday Inventions Web",
+          "dol": {
+            "k2": {
+              "s": "the robot moves quick",
+              "fix": "The robot moves quickly.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Rosas idea was a backpack that carrys itself",
+              "fix": "Rosa's idea was a backpack that carries itself.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The childrens museum displayed the seventh graders inventions in it's main hall.",
+              "fix": "The children's museum displayed the seventh graders' inventions in its main hall.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Think of an invention you use every day: a zipper, a pencil, a wheel, a light switch. Draw it and tell a partner three things you know about it.",
+            "g35": "Pick an everyday invention (the zipper, the pencil sharpener, the bicycle, the refrigerator). Make a web: what problem it solves, how it works, and who uses it. Put a question mark next to anything you'd want to check.",
+            "g68": "Choose an invention that changed daily life: the refrigerator, the printing press, vaccines, the smartphone. Plan three subtopics (life before it, how it works, what changed) and jot what you know for each."
+          },
+          "teacher": "Remind students to write what they already know; question marks are fine. Look for ideas grouped into parts."
+        },
+        {
+          "kind": "draft",
+          "title": "How Does It Work?",
+          "dol": {
+            "k2": {
+              "s": "rosa worked quiet on her robot",
+              "fix": "Rosa worked quietly on her robot.",
+              "n": 3
+            },
+            "g35": {
+              "s": "The bikes chain turn the back wheel when you push the pedals",
+              "fix": "The bike's chain turns the back wheel when you push the pedals.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The womens team tested the shoes springy soles",
+              "fix": "The women's team tested the shoes' springy soles.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write an all-about page for one invention. Start with \"A ___ is...\" and tell what it does. Use a word that tells how, like *quickly* or *gently*.",
+            "g35": "Draft a paragraph explaining how an invention works. Start with a topic sentence, then give two or three facts in order. Use Monday's web, or explain how a bicycle moves.",
+            "g68": "Draft a paragraph explaining how your invention works, step by step, and define any technical word a younger student might not know. Use Monday's plan, or explain how a refrigerator keeps food cold."
+          },
+          "teacher": "Point out that informational writing teaches; it does not tell a story. Look for a topic sentence that names the invention."
+        },
+        {
+          "kind": "revise",
+          "title": "Facts, Not Fluff",
+          "dol": {
+            "k2": {
+              "s": "yesterday I fixed my toy careful",
+              "fix": "Yesterday I fixed my toy carefully.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Hymen lipman got a patent for putting an eraser on a pencils end",
+              "fix": "Hymen Lipman got a patent for putting an eraser on a pencil's end.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The Wright brothers first flight lasted only twelve seconds but it changed the worlds future.",
+              "fix": "The Wright brothers' first flight lasted only twelve seconds, but it changed the world's future.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Weak sentence: \"The wheel is good.\" Make it better with **a fact**: \"A wheel helps a wagon roll.\" Now change one \"good\" or \"nice\" in your writing into a fact.",
+            "g35": "Weak paragraph: \"The light bulb is a cool invention. It is really cool. People like it a lot.\" Revise it by **replacing opinions with facts**: what does it do, and how did life change? Then swap one opinion in your draft for a fact.",
+            "g68": "Weak sentence: \"The printing press was a really big deal for lots of people.\" Revise it with **a precise detail and a domain word**: who, when, and what changed (movable type, books, reading). Then sharpen one vague sentence in your own draft."
+          },
+          "teacher": "Sort a few sentences aloud: fact or opinion? Look for a vague word replaced with a specific fact."
+        },
+        {
+          "kind": "quick-write",
+          "title": "Explain It to a Time Traveler",
+          "dol": {
+            "k2": {
+              "s": "Mia built her fort quick yesterday",
+              "fix": "Mia built her fort quickly yesterday.",
+              "n": 2
+            },
+            "g35": {
+              "s": "Ana borrowed Jaydens magnet and sticked it to the fridge",
+              "fix": "Ana borrowed Jayden's magnet and stuck it to the fridge.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The two inventors sketches showed a feeder that keeps mouses away from the birds seed",
+              "fix": "The two inventors' sketches showed a feeder that keeps mice away from the birds' seed.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Pretend a kid from long ago visits our class. Tell them all about one thing they've never seen, like a light switch or a water fountain. Draw it with labels.",
+            "g35": "A time traveler from the year 1900 lands in your classroom. Write a quick explanation of one modern thing that would confuse them (a microwave oven, an automatic door, a smoke detector). Explain what it is and how it works.",
+            "g68": "Explain a piece of technology you use every day to someone from 1950, with no slang and no assumptions: what it is, how it works in simple terms, and why people rely on it. Aim for clarity, not cleverness."
+          },
+          "teacher": "Have students say their explanation to a partner in one breath before writing. Look for explanations a newcomer could follow."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Proof It, Then Present",
+          "dol": {
+            "k2": {
+              "s": "We built the tower slow. Then it fell down quick.",
+              "fix": "We built the tower slowly. Then it fell down quickly.",
+              "n": 2
+            },
+            "g35": {
+              "s": "Tias invention used an old fan. The fans blades spun Mr. Kims windmill.",
+              "fix": "Tia's invention used an old fan. The fan's blades spun Mr. Kim's windmill.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The childrens questions surprised the two judges. Both judges scores rose after the peoples vote.",
+              "fix": "The children's questions surprised the two judges. Both judges' scores rose after the people's vote.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Check your writing for **words that tell how and when** (slowly, carefully, today, later). Add one if you can! Then show your invention page to a partner and teach them one fact.",
+            "g35": "Edit your informational writing for **singular possessive nouns**: when one person or thing owns something, add 's (the bike's chain). Then do a gallery walk; classmates write one thing they learned in the margin of your paper.",
+            "g68": "Edit your informational piece for **plural and irregular possessives** (inventors', children's, people's). Then be a one-minute expert: read your clearest paragraph to a small group and answer one question."
+          },
+          "teacher": "Model the possessive check on one sentence first. Look for apostrophes placed by asking, \"Who owns it, one or many?\""
+        }
+      ]
+    },
+    {
+      "week": 16,
+      "title": "Step-by-Step Codes",
+      "bigIdea": "Students write precise, ordered instructions, just like code, for patterns, games, and secret messages, practicing sequence words, exact verbs, and transitions that show order and cause.",
+      "iCan": {
+        "k2": "I can write steps in order, like code, that a friend can follow.",
+        "g35": "I can write how-to steps with sequence words and commas after them.",
+        "g68": "I can write precise procedures that use transitions to show order and cause."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Patterns All Around",
+          "dol": {
+            "k2": {
+              "s": "do you see the pattern",
+              "fix": "Do you see the pattern?",
+              "n": 2
+            },
+            "g35": {
+              "s": "First draw too red squares and a blue circle",
+              "fix": "First, draw two red squares and a blue circle.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The robot follows it's commands exactly, therefore a single typo breaks the whole program",
+              "fix": "The robot follows its commands exactly; therefore, a single typo breaks the whole program.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Look around the room for patterns: stripes, tiles, colors that repeat. Draw one pattern. Then say its rule out loud: \"red, blue, red, blue...\"",
+            "g35": "Plan directions for a pattern a friend could make without seeing yours: a clap-and-stomp rhythm, a row of shapes, or a color pattern. Number the steps and list anything they need.",
+            "g68": "Plan a procedure that works like an algorithm: a secret handshake, a way to sort a stack of papers by name, or a rule for passing notes in code. List every step, then mark any step that has a decision (if this, then that)."
+          },
+          "teacher": "Around Computer Science Education Week, connect directions to code: computers do exactly what we say. Look for steps that are numbered and in order. (6–8 Fix It: also accept \"exactly. Therefore,\")"
+        },
+        {
+          "kind": "draft",
+          "title": "Write Code for a Friend",
+          "dol": {
+            "k2": {
+              "s": "Clap two times. then stomp",
+              "fix": "Clap two times. Then stomp.",
+              "n": 2
+            },
+            "g35": {
+              "s": "Next tap you're head two times",
+              "fix": "Next, tap your head two times.",
+              "n": 3
+            },
+            "g68": {
+              "s": "First the program checks the password, next, it opens Mayas saved game.",
+              "fix": "First, the program checks the password; next, it opens Maya's saved game.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write code for a friend to follow, like a robot: \"Step 1: Stand up. Step 2: Turn around.\" Write at least three steps. Then let your friend try it!",
+            "g35": "Draft the steps for a clapping pattern or a dance move. Start each step with a sequence word (First, Next, Then, Finally). Use your plan from Monday, or write steps for drawing a smiley face.",
+            "g68": "Draft your procedure: an intro that says what the reader will be able to do, then numbered steps with at least one if-then step. Use Monday's plan, or write steps for folding a paper airplane that actually flies."
+          },
+          "teacher": "Let a volunteer be the \"robot\" who follows directions exactly. Look for steps with one clear action each. (6–8 Fix It: also accept a period before \"Next,\")"
+        },
+        {
+          "kind": "revise",
+          "title": "Debug the Directions",
+          "dol": {
+            "k2": {
+              "s": "what a cool code",
+              "fix": "What a cool code!",
+              "n": 2
+            },
+            "g35": {
+              "s": "After that draw a triangle on Miguels paper",
+              "fix": "After that, draw a triangle on Miguel's paper.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The robot turned left instead of right, consequently the instructions clearly said right.",
+              "fix": "The robot turned left instead of right; however, the instructions clearly said right.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Here are buggy directions: \"Draw. Color it.\" A friend won't know what to draw! Fix them with **exact words**: \"Draw a big circle. Color it yellow.\" Now fix one buggy step in your own code.",
+            "g35": "Buggy step: \"Do the thing with your hands.\" Debug it with **exact verbs and numbers**: clap twice, snap once, pat your knees three times. Then debug one step in your own directions.",
+            "g68": "Buggy procedure: \"Fold the paper. Fold it again. Then do the other side.\" Debug it with **transitions that show order and condition** (after that, if, otherwise, once). Then add two transitions to your own steps."
+          },
+          "teacher": "Call revision \"debugging\" today. Look for vague words like \"it\" or \"the thing\" replaced with exact ones."
+        },
+        {
+          "kind": "quick-write",
+          "title": "Secret Code Quick-Write",
+          "dol": {
+            "k2": {
+              "s": "Can you read my secret code. It is fun",
+              "fix": "Can you read my secret code? It is fun.",
+              "n": 2
+            },
+            "g35": {
+              "s": "To crack Lucias code switch each letter with the one after it",
+              "fix": "To crack Lucia's code, switch each letter with the one after it.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Our cipher is simple, in fact, it's key fits on a sticky note",
+              "fix": "Our cipher is simple; in fact, its key fits on a sticky note.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Make up a secret code! Maybe a clap means \"yes\" and a stomp means \"no.\" Write the steps to use your code. End with a question for your partner.",
+            "g35": "Invent a secret code (A=1, B=2, or swap every letter with the next one in the alphabet). Write fast directions so a friend could decode a message, and give one example.",
+            "g68": "Explain how to create and use a simple cipher so a friend could decode your messages but a snoop couldn't. Include one step that warns the reader about a common mistake."
+          },
+          "teacher": "Let partners try to decode each other's examples if time allows. Look for steps someone else could actually use. (6–8 Fix It: also accept \"simple. In fact,\")"
+        },
+        {
+          "kind": "edit-share",
+          "title": "Run the Code",
+          "dol": {
+            "k2": {
+              "s": "Did the robot move. Yes, it did",
+              "fix": "Did the robot move? Yes, it did.",
+              "n": 2
+            },
+            "g35": {
+              "s": "First pick a color. Next draw three dots. Finally connect them.",
+              "fix": "First, pick a color. Next, draw three dots. Finally, connect them.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The code looked perfect, however, it failed. Therefore we checked it until we found Jamals typo.",
+              "fix": "The code looked perfect; however, it failed. Therefore, we checked it until we found Jamal's typo.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Check your code for **end marks**: a period (.) for telling, a question mark (?) for asking, and an exclamation point (!) for strong feelings. Then let a partner act out your steps like a robot.",
+            "g35": "Edit your directions for **commas after sequence and introductory words** (First, Next, After that, Finally). Then trade with a partner who follows your steps exactly, and talk about any step that went wrong.",
+            "g68": "Edit your procedure for **transitions and conjunctive adverbs**: check that each one fits the logic and is punctuated right (; however, and ; therefore,). Then have a partner run your procedure aloud and report any bug."
+          },
+          "teacher": "Share by testing: partners follow directions exactly as written. Look for the week's convention fixed before sharing. (6–8 Fix It: also accept \"perfect. However,\")"
+        }
+      ]
+    },
+    {
+      "week": 17,
+      "title": "Stories of Our Traditions",
+      "bigIdea": "Before winter break, students write true stories about traditions and cozy moments, practicing a strong opening, dialogue that brings people to life, and details that slow down the important part.",
+      "iCan": {
+        "k2": "I can tell a true story about a tradition with a beginning, middle, and end.",
+        "g35": "I can write a personal narrative that uses dialogue to bring people to life.",
+        "g68": "I can write a narrative with correctly punctuated dialogue and details that show what a moment meant."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Traditions We Keep",
+          "dol": {
+            "k2": {
+              "s": "we make tamales for christmas",
+              "fix": "We make tamales for Christmas.",
+              "n": 3
+            },
+            "g35": {
+              "s": "My tía said, we always make tamales together.",
+              "fix": "My tía said, \"We always make tamales together.\"",
+              "n": 3
+            },
+            "g68": {
+              "s": "\"Grab the masa\" Abuela said \"And don't let you're cousins eat it all.\"",
+              "fix": "\"Grab the masa,\" Abuela said, \"and don't let your cousins eat it all.\"",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "What is something you do every year or every week with people you love? A special meal, a song, a game night? Draw it and tell a partner about it.",
+            "g35": "List traditions you know: a special food, a game night, a birthday ritual, a song someone always sings. Pick one memory of it and jot who was there, what they said, and how it felt.",
+            "g68": "List traditions in your life, big or small: a holiday ritual, a Friday-night routine, an inside joke your friends keep repeating. Pick one moment and sketch a quick timeline: before, the key moment, after."
+          },
+          "teacher": "Traditions can be any size, from a holiday to a Saturday pancake breakfast; no one has to share a holiday. Look for one specific memory chosen."
+        },
+        {
+          "kind": "draft",
+          "title": "A Story Begins at Home",
+          "dol": {
+            "k2": {
+              "s": "We went to see the lights in san antonio",
+              "fix": "We went to see the lights in San Antonio.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Can I stir the pot? i asked.",
+              "fix": "\"Can I stir the pot?\" I asked.",
+              "n": 3
+            },
+            "g68": {
+              "s": "\"Whos ready for the first game\" uncle Ray asked",
+              "fix": "\"Who's ready for the first game?\" Uncle Ray asked.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Write the beginning of a story about something special you do. Start with \"Every year...\" or \"One cold night...\" Tell who was there.",
+            "g35": "Draft the beginning of your tradition story. Start with someone talking, so your first line is dialogue in quotation marks. Use Monday's idea, or write about a time you helped make something special.",
+            "g68": "Draft your opening scene by dropping the reader into the middle of the moment: a sound, a line of dialogue, or an action. Use Monday's timeline, or write about the first time you were allowed to help with a tradition."
+          },
+          "teacher": "Share two or three strong first lines aloud as models. Look for a beginning that pulls the reader in."
+        },
+        {
+          "kind": "revise",
+          "title": "Slow Down the Moment",
+          "dol": {
+            "k2": {
+              "s": "we light candles for hanukkah",
+              "fix": "We light candles for Hanukkah.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Be careful with the lights, Ms. Rivera warned",
+              "fix": "\"Be careful with the lights,\" Ms. Rivera warned.",
+              "n": 3
+            },
+            "g68": {
+              "s": "\"I can't believe it snowed in houston,\" my brother whispered \"it never snows here.\"",
+              "fix": "\"I can't believe it snowed in Houston,\" my brother whispered. \"It never snows here.\"",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Weak story line: \"We ate food. It was good.\" Make it better with **a sense word**: what did it smell, taste, or feel like? \"The hot soup steamed up my nose.\" Now add a sense word to your story.",
+            "g35": "Weak line: \"Mr. Ochoa told me to help.\" Revise it with **dialogue** so we hear him: \"Grab a spoon,\" Mr. Ochoa said, \"and stir slowly.\" Then turn one telling sentence in your story into dialogue.",
+            "g68": "Weak paragraph: \"We played the game. Then we ate. It was fun.\" Revise it with **slow motion**: stretch one moment over three or four sentences with action, sound, and thought. Then slow down the most important moment in your own story."
+          },
+          "teacher": "Act out a slow-motion moment as a class before writing. Look for the most important part getting the most sentences."
+        },
+        {
+          "kind": "quick-write",
+          "title": "The Coldest Day Ever",
+          "dol": {
+            "k2": {
+              "s": "It snowed in amarillo",
+              "fix": "It snowed in Amarillo.",
+              "n": 2
+            },
+            "g35": {
+              "s": "\"Look at my breath! diego yelled",
+              "fix": "\"Look at my breath!\" Diego yelled.",
+              "n": 3
+            },
+            "g68": {
+              "s": "\"Put on your gloves\" said Ms. Tran \"Or your fingers will freeze.\"",
+              "fix": "\"Put on your gloves,\" said Ms. Tran, \"or your fingers will freeze.\"",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Tell about the coldest, windiest, or rainiest day you remember. Where were you? What did you do? Draw it and write two sentences.",
+            "g35": "Write fast about a time the weather surprised you: freezing wind, a sudden storm, a day so cold your breath looked like smoke. Include at least two lines of dialogue.",
+            "g68": "Quick-write about a time weather changed your plans: a canceled game, a power outage, an ice day. Show what you did with the unexpected time, and include one exchange of dialogue."
+          },
+          "teacher": "Texas weather swings make great stories; any weather surprise counts. Look for a real moment told in order."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Share a Cozy Story",
+          "dol": {
+            "k2": {
+              "s": "We sang on christmas eve. We ate in houston.",
+              "fix": "We sang on Christmas Eve. We ate in Houston.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Pass the cocoa, Lena said. It smells amazing, I answered.",
+              "fix": "\"Pass the cocoa,\" Lena said. \"It smells amazing,\" I answered.",
+              "n": 4
+            },
+            "g68": {
+              "s": "\"Is it time\" Mateo asked. \"almost\" said Grandma.",
+              "fix": "\"Is it time?\" Mateo asked. \"Almost,\" said Grandma.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Check your story for **capital letters on holidays and places** (like Texas or New Year's Day). Then share it in the author's chair: read it to the class and take one question.",
+            "g35": "Edit your story for **quotation marks in dialogue**: put them around the exact words someone says, and check the comma or end mark inside. Then read it to a partner using a different voice for each speaker.",
+            "g68": "Edit your narrative for **dialogue punctuation**: commas and end marks inside the quotes, a new paragraph for each new speaker, and a capital where a quote starts a sentence. Then read your best scene aloud with a partner playing the other voice."
+          },
+          "teacher": "This is the last week before break, so celebrate the stories. Look for the week's convention fixed in at least two places."
+        }
+      ]
+    },
+    {
+      "week": 18,
+      "title": "Goals Worth Explaining",
+      "bigIdea": "Back from break, students write informational pieces about goals, habits, and how people improve, organizing facts and tips into clear, complete, well-connected sentences.",
+      "iCan": {
+        "k2": "I can write complete sentences that tell facts about goals.",
+        "g35": "I can write an informational paragraph with a topic sentence, facts, and a closing, with no run-ons.",
+        "g68": "I can write an informational piece with complex sentences that show how ideas connect."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Goals on the Board",
+          "dol": {
+            "k2": {
+              "s": "I want to read. A big book",
+              "fix": "I want to read a big book.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Lucia set a goal she wants to read twenty books",
+              "fix": "Lucia set a goal. She wants to read twenty books.",
+              "n": 3
+            },
+            "g68": {
+              "s": "when you write you're goal down you are more likely to remember it",
+              "fix": "When you write your goal down, you are more likely to remember it.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "What do you want to learn this year? Draw yourself doing it: riding a bike, reading a chapter book, tying your shoes. Tell a partner how you will learn it.",
+            "g35": "Make a web for an informational piece about goals: what a goal is, examples of good goals, and tips for reaching one. Write one goal of your own in the middle.",
+            "g68": "Plan an informational piece on how habits form or how people reach goals. List what you already know (practice, routines, reminders, setbacks), then group your notes into three subtopics."
+          },
+          "teacher": "Welcome students back and keep the first day light. Look for notes grouped by idea, not a story about break. (3–5 Fix It: also accept a semicolon or a comma + and instead of the period.)"
+        },
+        {
+          "kind": "draft",
+          "title": "What Is a Goal?",
+          "dol": {
+            "k2": {
+              "s": "Ana can jump rope. Fast and high",
+              "fix": "Ana can jump rope fast and high.",
+              "n": 3
+            },
+            "g35": {
+              "s": "A goal is something you work toward it can be big or small",
+              "fix": "A goal is something you work toward. It can be big or small.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Although New Year's goals are popular many people give up by february",
+              "fix": "Although New Year's goals are popular, many people give up by February.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write an all-about page called \"Goals.\" Tell what a goal is and give one example. Use complete sentences that tell who and what they do.",
+            "g35": "Draft your topic sentence and two facts or tips about reaching goals. Use your web from Monday, or explain why breaking a big goal into small steps helps.",
+            "g68": "Draft a paragraph explaining one strategy that helps people stick to goals (tracking progress, telling a friend, starting small). Use at least one sentence with because, when, or although. Use Monday's plan, or explain why habits are easier to keep than resolutions."
+          },
+          "teacher": "Remind students that informational writing explains how things work for anyone, not just a personal story. Look for a clear topic sentence. (3–5 Fix It: also accept a semicolon or a comma + and instead of the period.)"
+        },
+        {
+          "kind": "revise",
+          "title": "Connect the Ideas",
+          "dol": {
+            "k2": {
+              "s": "My goal is. To swim far",
+              "fix": "My goal is to swim far.",
+              "n": 3
+            },
+            "g35": {
+              "s": "marcus practices piano every day, his fingers are getting faster.",
+              "fix": "Marcus practices piano every day. His fingers are getting faster.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Since I started tracking my reading I have finished six books, and its only January",
+              "fix": "Since I started tracking my reading, I have finished six books, and it's only January.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Weak sentences: \"I want to run. I want to jump. I want to swim.\" Make them better by **joining them with and**: \"I want to run, jump, and swim.\" Now join two short sentences in your writing.",
+            "g35": "Weak paragraph: \"Goals are good. You should have one. They help.\" Revise it with **a specific example**: what does a goal help with, and what is one real goal someone could set? Then add an example to your own draft.",
+            "g68": "Weak sentences: \"People quit goals. Goals are too big.\" Revise them with **a subordinating conjunction that shows the connection**: \"Because their goals are too big, many people quit early.\" Then combine two choppy sentences in your own piece."
+          },
+          "teacher": "Model the revision on the board, thinking aloud. Look for sentences that are combined or expanded, not just copied. (3–5 Fix It: also accept a semicolon or a comma + and instead of the period.)"
+        },
+        {
+          "kind": "quick-write",
+          "title": "Teach Us Your Skill",
+          "dol": {
+            "k2": {
+              "s": "I can tie my shoes. And zip my coat",
+              "fix": "I can tie my shoes and zip my coat.",
+              "n": 3
+            },
+            "g35": {
+              "s": "My cousin learned to juggle she practiced every night",
+              "fix": "My cousin learned to juggle. She practiced every night.",
+              "n": 3
+            },
+            "g68": {
+              "s": "If you want to learn a new skill practice it in short sessions so that you're brain has time to rest",
+              "fix": "If you want to learn a new skill, practice it in short sessions so that your brain has time to rest.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "What are you really good at? Write an all-about page that teaches us about it. Tell two facts, like what you need and how you do it.",
+            "g35": "Choose a skill you're good at (a cartwheel, a card trick, braiding hair, drawing a dog) and write fast to explain how someone gets good at it. Include at least three facts or tips.",
+            "g68": "Explain how someone gets really good at something you know well: a sport, an instrument, a game, a craft. Write fast, and use at least two complex sentences with although, because, or until."
+          },
+          "teacher": "Every student is an expert at something; help quiet writers name theirs. Look for facts and tips, not just \"I like it.\" (3–5 Fix It: also accept a semicolon or a comma + and instead of the period.)"
+        },
+        {
+          "kind": "edit-share",
+          "title": "Fresh Start, Final Draft",
+          "dol": {
+            "k2": {
+              "s": "I set a goal. To read every day. I will do it",
+              "fix": "I set a goal to read every day. I will do it.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Set a small goal first it is easier to keep. Then add a new goal each month it will add up.",
+              "fix": "Set a small goal first. It is easier to keep. Then add a new goal each month. It will add up.",
+              "n": 4
+            },
+            "g68": {
+              "s": "Because habits take time most goals needs a plan. When you miss a day don't quit.",
+              "fix": "Because habits take time, most goals need a plan. When you miss a day, don't quit.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Read your writing. Does every sentence tell **who and what they do**? Fix any part that is not a complete sentence. Then read your page to a partner and give them a high five.",
+            "g35": "Edit your informational piece for **run-on sentences**: when two complete thoughts crash together, split them with a period and a capital. Then share your best tip in a quick round-robin.",
+            "g68": "Edit for **complex sentences**: when a clause that starts with because, when, although, or if comes first, put a comma after it. Then read your strongest paragraph to a partner, who restates your main idea in one sentence."
+          },
+          "teacher": "For run-ons, a period and capital is the expected fix, but accept a comma plus and when students explain it. Look for every sentence checked, not just the first few."
+        }
+      ]
+    }
+  ]
+}

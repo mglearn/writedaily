@@ -1,0 +1,1327 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "title": "First Days, Fresh Starts",
+      "bigIdea": "Students launch the year by telling true stories about new beginnings, building a daily writing habit and the check that every sentence is complete.",
+      "iCan": {
+        "k2": "I can tell about something that happened to me and start each sentence with a capital letter.",
+        "g35": "I can write a true story with a clear beginning, and every sentence is complete.",
+        "g68": "I can write a personal narrative that shows feelings through details and has no sentence fragments."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Picking a First to Tell",
+          "dol": {
+            "k2": {
+              "s": "my new backpack is blue",
+              "fix": "My new backpack is blue.",
+              "n": 2
+            },
+            "g35": {
+              "s": "On the first day, Lucia found her new classroom. Next to the libary.",
+              "fix": "On the first day, Lucia found her new classroom next to the library.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Before the first bell rang, Andre checked his schedule twice. Because he didnt want to get lost in the new building.",
+              "fix": "Before the first bell rang, Andre checked his schedule twice because he didn't want to get lost in the new building.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Draw three small pictures of your first days of school this year: something new, something fun, and something a little scary. Circle the one you want to tell about.",
+            "g35": "List five “firsts” from your life: first lost tooth, first time on a bike, first day somewhere new. Star the one you remember best and jot three details: where you were, who was there, and how you felt.",
+            "g68": "List times you started something new: a school, a team, a neighborhood, a friend group, a job at home. Pick one and sketch a quick timeline: the beginning, the moment it got real, and how you felt after."
+          },
+          "teacher": "Model your own list or sketch first, out loud. Before time ends, every student should have one idea circled or starred."
+        },
+        {
+          "kind": "draft",
+          "title": "Starting the Story",
+          "dol": {
+            "k2": {
+              "s": "we walkd to our new room",
+              "fix": "We walked to our new room.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Mrs. Ortiz smiled at the class. And wrote her name on the bord.",
+              "fix": "Mrs. Ortiz smiled at the class and wrote her name on the board.",
+              "n": 3
+            },
+            "g68": {
+              "s": "walking into the cafeteria with a full tray. Andre searched for a familar face.",
+              "fix": "Walking into the cafeteria with a full tray, Andre searched for a familiar face.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Use the picture you circled yesterday, or think about this morning at school. Write: “On the first day, I…” Then draw what you saw.",
+            "g35": "Use your starred idea from Monday, or pick any first you remember well. Write the beginning of the story: put us right there, with where you were and the first thing you saw or heard.",
+            "g68": "Draft the opening paragraph of a story about a new beginning (Monday's timeline or a fresh one). Start in the middle of the action, not with “One day.” Stop right before the big moment."
+          },
+          "teacher": "Point out that the Fix It sentence starts with a capital. Look for story beginnings that name a real place and a real moment."
+        },
+        {
+          "kind": "revise",
+          "title": "Show the Feeling",
+          "dol": {
+            "k2": {
+              "s": "my frend sat by me",
+              "fix": "My friend sat by me.",
+              "n": 3
+            },
+            "g35": {
+              "s": "During recess, we played tag. Until the whistle blew",
+              "fix": "During recess, we played tag until the whistle blew.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The new schedule confused everyone. Especially the sixth graders who kept walking into the wrong classroom",
+              "fix": "The new schedule confused everyone, especially the sixth graders who kept walking into the wrong classroom.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Listen: “I went to school.” Now add a feeling: “I walked into school with butterflies in my tummy.” Add one feeling word to your own story.",
+            "g35": "Read this: “I went in the room. It was nice. I sat down.” Craft move: **show, don't tell**. Swap “nice” for what you saw, heard, or smelled (new crayons? a humming fan?). Find one telling word in your story and replace it with a sensory detail.",
+            "g68": "Weak model: “I was nervous on my first day. It was really scary. I was so nervous.” Craft move: **show the feeling through the body and actions**: sweaty palms, rereading the same text, a locker that won't open. Rewrite two sentences of your draft so readers feel it without you naming it."
+          },
+          "teacher": "Read the weak model aloud, then revise it together before students touch their own work. Look for one real change, not a recopied draft."
+        },
+        {
+          "kind": "quick-write",
+          "title": "First Bite, First Try",
+          "dol": {
+            "k2": {
+              "s": "can I sit here",
+              "fix": "Can I sit here?",
+              "n": 2
+            },
+            "g35": {
+              "s": "my little brother started kindergarten. With a dinosaur lunchbox.",
+              "fix": "My little brother started kindergarten with a dinosaur lunchbox.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Since the bus was late on the first morning. Half the class missed homeroom, and the principel made an announcment.",
+              "fix": "Since the bus was late on the first morning, half the class missed homeroom, and the principal made an announcement.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Tell about a time you tried a new food. What was it? Did you like it? Draw your face when you tasted it!",
+            "g35": "Quick-write: tell the true story of a time you tried something that scared you a little: a high dive, a new food, reading aloud, a sleepover. Write for six minutes without stopping to erase.",
+            "g68": "Fast write: the first time you did something on your own, like cooking a meal, walking to a store, or watching a younger kid. Tell it as a story in seven minutes and include one line of what you were thinking."
+          },
+          "teacher": "Set a timer and write alongside students. The goal is fluency; spelling waits until Friday."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Check Every Sentence",
+          "dol": {
+            "k2": {
+              "s": "school is fun. we like our class",
+              "fix": "School is fun. We like our class.",
+              "n": 3
+            },
+            "g35": {
+              "s": "We have a new class pet. A turtle named Speedy. he lives by the window.",
+              "fix": "We have a new class pet, a turtle named Speedy. He lives by the window.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Andre survived his first week. Even though he got lost twice. By Friday, he knew every shortcut in the building",
+              "fix": "Andre survived his first week even though he got lost twice. By Friday, he knew every shortcut in the building.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Pick your best sentence from this week. Does every sentence start with a **capital letter**? Fix any that don't. Then read it to a partner and show your picture.",
+            "g35": "Choose one story from this week and edit for **complete sentences**: read each one aloud and ask, “Who or what? Doing what?” Join any fragment to the sentence next to it. Then read your best two sentences in the author's chair.",
+            "g68": "Edit one piece from this week for **sentence fragments**: read it from the last sentence to the first so each one has to stand alone. Fix any “because…” or “-ing” fragments. Then share with a partner, who names the line that felt most real."
+          },
+          "teacher": "Model the check on one student's sentence (with permission) before partners start. Celebrate fixes, not perfection. (3–5 Fix It: also accept a colon or dash before \"a turtle\"; 6–8: also accept a comma before \"even though.\")"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "Better Together",
+      "bigIdea": "Students write true stories about friends and teams, zooming in on the moment a group came together or fell apart, while they practice ending sentences correctly.",
+      "iCan": {
+        "k2": "I can tell a story about a friend and end each sentence with a period or a question mark.",
+        "g35": "I can write a story about teamwork with dialogue, and I use capital letters and end punctuation correctly.",
+        "g68": "I can write a narrative that zooms in on a turning point, with no run-ons or comma splices."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Mapping Teamwork Moments",
+          "dol": {
+            "k2": {
+              "s": "do you want to play",
+              "fix": "Do you want to play?",
+              "n": 2
+            },
+            "g35": {
+              "s": "rosa and kenji built a fort out of couch cushions",
+              "fix": "Rosa and Kenji built a fort out of couch cushions.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Our science team had one hour to build a bridge out of straws, nobody agreed on the desing",
+              "fix": "Our science team had one hour to build a bridge out of straws, but nobody agreed on the design.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Think of a time you played or worked with a friend. Draw it. Tell a partner: Who was there? What did you do together?",
+            "g35": "Make a web with “Friends and Teamwork” in the middle. Add times you worked with someone: a game, a chore, a project, a fort. Pick the one with the most action and list three things that happened, in order.",
+            "g68": "Brainstorm three moments when a group either clicked or fell apart: a team, a group project, a band, a group chat. Choose one and jot the problem, the turning point, and what it taught you about working with people."
+          },
+          "teacher": "Share a short teamwork story of your own as a model. Look for a chosen moment, not just a topic like “soccer.” (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        },
+        {
+          "kind": "draft",
+          "title": "Drafting the Middle",
+          "dol": {
+            "k2": {
+              "s": "we bilt a big tower",
+              "fix": "We built a big tower.",
+              "n": 3
+            },
+            "g35": {
+              "s": "kenji held the blanket while Rosa tied the knots did it stay up",
+              "fix": "Kenji held the blanket while Rosa tied the knots. Did it stay up?",
+              "n": 4
+            },
+            "g68": {
+              "s": "Maya wanted to paint the bridge red, Jordan wanted to leave it plain, they argued until the bell rang.",
+              "fix": "Maya wanted to paint the bridge red, but Jordan wanted to leave it plain. They argued until the bell rang.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write about a time you and a friend did something together. Start with “One day, my friend and I…” End with how you felt.",
+            "g35": "Use your web from Monday, or think of a time a team helped you. Draft the middle of the story: what went wrong, and what did you and your teammate say and do to fix it? Include one line of talking.",
+            "g68": "Draft the turning point of your teamwork story (Monday's idea or a new one): the moment the group came together or broke apart. Slow it down: what was said, who looked at whom, what changed."
+          },
+          "teacher": "Remind students that the middle is where the problem lives. Look for at least one line where someone speaks. (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        },
+        {
+          "kind": "revise",
+          "title": "Let Them Talk",
+          "dol": {
+            "k2": {
+              "s": "will you play with me",
+              "fix": "Will you play with me?",
+              "n": 2
+            },
+            "g35": {
+              "s": "Our team won the game on saturday we cheered so loudly",
+              "fix": "Our team won the game on Saturday. We cheered so loudly.",
+              "n": 4
+            },
+            "g68": {
+              "s": "We finally tested the bridge, it held twelve textbooks. Which was a class record.",
+              "fix": "We finally tested the bridge, and it held twelve textbooks, which was a class record.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Listen: “We played.” That is short! Add what and where: “We played tag by the big slide.” Find one short sentence in your story and add where it happened.",
+            "g35": "Weak model: “We played. We won. It was fun.” Craft move: **add dialogue**. Let the people talk: “Pass it to me!” Kenji yelled. Add one line of dialogue to your own teamwork story.",
+            "g68": "Weak model: “The group project was hard, but we worked it out in the end.” Craft move: **zoom in on one small moment**: an eye roll, a muttered comment, someone finally laughing. Replace one summary sentence in your draft with a three- or four-sentence zoomed-in scene."
+          },
+          "teacher": "Revise the weak model together on the board first. Look for students adding words to their draft, not starting over. (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        },
+        {
+          "kind": "quick-write",
+          "title": "Learning Someone's Game",
+          "dol": {
+            "k2": {
+              "s": "who is your best friend",
+              "fix": "Who is your best friend?",
+              "n": 2
+            },
+            "g35": {
+              "s": "have you ever played on a team with your cousin my cousin Ana is a great goalie",
+              "fix": "Have you ever played on a team with your cousin? My cousin Ana is a great goalie.",
+              "n": 4
+            },
+            "g68": {
+              "s": "My friends and I tried to make pancakes for the whole team, the first batch burned the smoke alarm went off.",
+              "fix": "My friends and I tried to make pancakes for the whole team, but the first batch burned, and the smoke alarm went off.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Tell about a time someone taught you a game, or you taught someone else. What happened when you played? Draw and write.",
+            "g35": "Quick-write: tell about a time you and a sibling, cousin, neighbor, or friend had to share one thing: the last slice, the front seat, one controller. How did it turn out?",
+            "g68": "Fast write: a time you were the new person in a group that already knew each other, like a team, a club, or a lunch table. Tell the moment you went from outsider to part of it (or didn't)."
+          },
+          "teacher": "Write fast with the class. Invite two volunteers to read one sentence aloud. (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        },
+        {
+          "kind": "edit-share",
+          "title": "End Marks Matter",
+          "dol": {
+            "k2": {
+              "s": "is it time to play. Yes, it is",
+              "fix": "Is it time to play? Yes, it is.",
+              "n": 3
+            },
+            "g35": {
+              "s": "our class team is called the Comets. who thinks we can win",
+              "fix": "Our class team is called the Comets. Who thinks we can win?",
+              "n": 3
+            },
+            "g68": {
+              "s": "The team lost the final game, nobody was angry. Coach Ruiz bought everyone tacos, we laughed about the missed goal",
+              "fix": "The team lost the final game, but nobody was angry. Coach Ruiz bought everyone tacos, and we laughed about the missed goal.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Look at your story from this week. Does each telling sentence end with a **period**? Does each asking sentence end with a **question mark**? Fix them, then read your story to a partner.",
+            "g35": "Edit one story from this week for **capital letters and end punctuation**: a capital at every sentence start and for names; a period, question mark, or exclamation point at every end. Then share with a partner, who asks you one question about your story.",
+            "g68": "Edit one piece for **run-ons and comma splices**: find every comma that joins two complete thoughts and fix it with a period, a semicolon, or a comma plus *and*, *but*, or *so*. Share your turning-point scene in the author's chair."
+          },
+          "teacher": "Have students point to each end mark as they reread. Listen during sharing for voices that drop at periods and rise at questions. (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "title": "All About Our School",
+      "bigIdea": "Students become the experts on their own school, writing facts a newcomer needs while practicing capital letters for names and places.",
+      "iCan": {
+        "k2": "I can write facts about our school and use capital letters for names and the word I.",
+        "g35": "I can write an informational paragraph about our school with a topic sentence, facts, and capitalized proper nouns.",
+        "g68": "I can write an informational section with specific details and correctly capitalized proper nouns and adjectives."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Choosing What to Teach",
+          "dol": {
+            "k2": {
+              "s": "my friend is sam",
+              "fix": "My friend is Sam.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Our school is on oak street in San Antonio",
+              "fix": "Our school is on Oak Street in San Antonio.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Lone Oak Middle School was named after a tree near the guadalupe river, the tree is still standing",
+              "fix": "Lone Oak Middle School was named after a tree near the Guadalupe River, and the tree is still standing.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Draw four places in our school: the library, the gym, the cafeteria, and the office. Put a star on the place you know the most about.",
+            "g35": "You are the expert on our school! List topics a new student would need to know: the cafeteria, recess rules, the library, the best water fountain. Choose one and list three facts about it.",
+            "g68": "A new student starts tomorrow. Brainstorm what nobody officially tells you about this school: lunch lines, passing periods, which stairs to take. Pick one topic and organize it into three subtopics you could explain."
+          },
+          "teacher": "Talk about the difference between facts and opinions as students list. Look for topics small enough to explain in a paragraph. (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        },
+        {
+          "kind": "draft",
+          "title": "A Paragraph of Facts",
+          "dol": {
+            "k2": {
+              "s": "sam and i like the library",
+              "fix": "Sam and I like the library.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Every friday we visit the library. And check out books from Ms. Chen",
+              "fix": "Every Friday we visit the library and check out books from Ms. Chen.",
+              "n": 4
+            },
+            "g68": {
+              "s": "Our school's mexican folk dance team performed at the texas State Capitol in austin.",
+              "fix": "Our school's Mexican folk dance team performed at the Texas State Capitol in Austin.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write about one place in our school. Tell two facts: “The gym has ___. In the gym, we ___.” Draw it and add labels.",
+            "g35": "Use your topic from Monday, or choose one place in our school. Write a paragraph that teaches a new student about it: a topic sentence first, then three facts.",
+            "g68": "Draft one section of a “Survival Guide” for our school (Monday's plan or a new topic). Give it a heading and write a paragraph with a clear main idea and details a newcomer could actually use."
+          },
+          "teacher": "Model a topic sentence that names the place and hints at what is coming. Look for facts, not just “it is fun.”"
+        },
+        {
+          "kind": "revise",
+          "title": "Exact Facts Win",
+          "dol": {
+            "k2": {
+              "s": "i eat lunch with maria",
+              "fix": "I eat lunch with Maria.",
+              "n": 3
+            },
+            "g35": {
+              "s": "the art room has paint from mexico and clay from Japan",
+              "fix": "The art room has paint from Mexico and clay from Japan.",
+              "n": 3
+            },
+            "g68": {
+              "s": "After the field trip to the alamo, our class wrote reports. About spanish missions in Texas.",
+              "fix": "After the field trip to the Alamo, our class wrote reports about Spanish missions in Texas.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Listen: “The library is good.” That does not teach us much. Try: “The library has books about sharks and a soft blue rug.” Change one “good” or “fun” in your writing to a real fact.",
+            "g35": "Weak model: “The cafeteria is a place where we eat. It is big. We eat there.” Craft move: **use exact numbers and names**: How many tables? What's on the menu Tuesday? Add two exact facts to your own paragraph.",
+            "g68": "Weak model: “The library is a nice place with lots of resources that help students.” Craft move: **replace general words with specifics**: which resources? Graphic novels? A quiet corner? Charging spots? Revise one vague sentence in your draft so a reader can picture it."
+          },
+          "teacher": "Ask, “Could a visitor picture this?” after each revised sentence. Look for numbers, names, and exact nouns."
+        },
+        {
+          "kind": "quick-write",
+          "title": "Tour Guide for a Day",
+          "dol": {
+            "k2": {
+              "s": "i ride bus 12 with ben",
+              "fix": "I ride bus 12 with Ben.",
+              "n": 3
+            },
+            "g35": {
+              "s": "did you know that coach Garza started our school garden in april",
+              "fix": "Did you know that Coach Garza started our school garden in April?",
+              "n": 4
+            },
+            "g68": {
+              "s": "The PTA sold japanese rice crackers and french bread at the fall festival, it raised enough money for new books.",
+              "fix": "The PTA sold Japanese rice crackers and French bread at the fall festival, and it raised enough money for new books.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write all about our playground. What can you do there? What rules keep us safe? Draw and label it.",
+            "g35": "Quick-write: you are the tour guide for a class visiting from another school. Write what you would tell them at one stop on the tour, including the most surprising fact about our school.",
+            "g68": "Fast write: explain one school routine to someone from another country who has never been inside a Texas middle school, like passing periods, lockers, or pep rallies. Assume they know nothing."
+          },
+          "teacher": "Encourage students to write as the expert. Look for facts explained clearly enough for an outsider. (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        },
+        {
+          "kind": "edit-share",
+          "title": "Names Get Capitals",
+          "dol": {
+            "k2": {
+              "s": "jon and i paint. Lily and i read.",
+              "fix": "Jon and I paint. Lily and I read.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Our principal, dr. Patel, grew up in el Paso. She moved here last july.",
+              "fix": "Our principal, Dr. Patel, grew up in El Paso. She moved here last July.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Our librarian displayed books by korean and vietnamese authors. She added a poster of big bend National Park.",
+              "fix": "Our librarian displayed books by Korean and Vietnamese authors. She added a poster of Big Bend National Park.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Check your writing about our school. Did you use a **capital letter for names** and for the word **I**? Fix them, then read your page to a partner.",
+            "g35": "Edit one piece from this week for **proper nouns**: names of people, places, streets, days, and months need capitals. Underline each one as you check. Then do a gallery walk: leave your paragraph on your desk and read three classmates' work.",
+            "g68": "Edit one section for **proper nouns and proper adjectives** (*Texas*, *Mexican*, *Vietnamese*, *Alamo*). Then put your section together with two classmates' sections to make a mini survival guide, and read it aloud as a group."
+          },
+          "teacher": "Have students underline every capital and explain why it is there. Save the best pieces for a real new-student welcome."
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "title": "How Helpers Do It",
+      "bigIdea": "Students explain, step by step, how community helpers do their jobs and how they themselves do useful tasks, while practicing clear, complete sentences.",
+      "iCan": {
+        "k2": "I can write the steps of a helper's job in order, using sentences that tell who and what they do.",
+        "g35": "I can write clear steps in order with exact words, and I use commas in a series.",
+        "g68": "I can write a procedure a beginner can follow, with tips, and I punctuate compound sentences correctly."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Helpers and Their Steps",
+          "dol": {
+            "k2": {
+              "s": "the vet help sick pets",
+              "fix": "The vet helps sick pets.",
+              "n": 3
+            },
+            "g35": {
+              "s": "A baker needs flour sugar and eggs",
+              "fix": "A baker needs flour, sugar, and eggs.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Firefighters check their gear every morning they also clean the truck",
+              "fix": "Firefighters check their gear every morning, and they also clean the truck.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Think of a helper: a cook, a doctor, a bus driver, a teacher. What steps do they do? Fold your paper into three boxes and draw the steps in order: first, next, last.",
+            "g35": "List jobs that help our community: crossing guard, mechanic, cafeteria cook, firefighter. Pick one task one helper does, like fixing a flat tire, and list the tools and the steps in order.",
+            "g68": "Brainstorm skills you already have that someone might pay you for someday: braiding hair, fixing a bike chain, editing a video, cooking rice. Pick one and outline the steps a total beginner would need."
+          },
+          "teacher": "If Monday is a holiday, start the week here on Tuesday. Look for steps in a real order, not a list of facts. (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        },
+        {
+          "kind": "draft",
+          "title": "Step by Step Draft",
+          "dol": {
+            "k2": {
+              "s": "first, the cook wash her hands",
+              "fix": "First, the cook washes her hands.",
+              "n": 3
+            },
+            "g35": {
+              "s": "mr. Davis uses a jack a wrench and a new tire",
+              "fix": "Mr. Davis uses a jack, a wrench, and a new tire.",
+              "n": 4
+            },
+            "g68": {
+              "s": "the baker at esperanza's Bakery wakes up at four, she mixes the dough before sunrise",
+              "fix": "The baker at Esperanza's Bakery wakes up at four, and she mixes the dough before sunrise.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Use your boxes from Monday, or pick a helper now. Write how they do one job. Use “First,” “Next,” and “Last.”",
+            "g35": "Use your list from Monday, or explain how a crossing guard helps kids cross the street. Draft the steps in order with words like first, then, after that, and finally.",
+            "g68": "Draft the steps for teaching a beginner your skill (Monday's plan or a new one, like changing a bike tube or making arroz). Number them and start each step with a command verb."
+          },
+          "teacher": "Model one step aloud, starting with a time-order word or a command verb. Look for steps a reader could actually follow. (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        },
+        {
+          "kind": "revise",
+          "title": "Name the Exact Thing",
+          "dol": {
+            "k2": {
+              "s": "my teacher. reads to us",
+              "fix": "My teacher reads to us.",
+              "n": 3
+            },
+            "g35": {
+              "s": "the crossing guard has a whistle a stop sign and a bright vest",
+              "fix": "The crossing guard has a whistle, a stop sign, and a bright vest.",
+              "n": 4
+            },
+            "g68": {
+              "s": "Nurses at brazos valley Hospital work twelve-hour shifts so they need comfortable shoes",
+              "fix": "Nurses at Brazos Valley Hospital work twelve-hour shifts, so they need comfortable shoes.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Listen: “Put on the stuff.” What stuff? Try: “Put on your gloves and mask.” Find one step in your how-to and use the exact name of a thing.",
+            "g35": "Weak model: “Get the stuff. Do the thing with the tire. Then you're done.” Craft move: **name exact tools and actions**: “Loosen the bolts with a wrench.” Rewrite two of your steps so a reader could follow them with no questions.",
+            "g68": "Weak model: “Next, you cook the rice and make sure it's good.” Craft move: **add a tip or warning**: tell readers what goes wrong and how to avoid it (“Don't lift the lid, or the steam escapes.”). Add one tip or warning to your steps."
+          },
+          "teacher": "Act out the weak model literally to show why it fails. Look for exact nouns and verbs in the revisions."
+        },
+        {
+          "kind": "quick-write",
+          "title": "Robot Helper Rules",
+          "dol": {
+            "k2": {
+              "s": "the mail carrier bring letters",
+              "fix": "The mail carrier brings letters.",
+              "n": 3
+            },
+            "g35": {
+              "s": "ms. Flores sweeps mops and locks the doors each night",
+              "fix": "Ms. Flores sweeps, mops, and locks the doors each night.",
+              "n": 4
+            },
+            "g68": {
+              "s": "The city bus driver checks her mirors at every stop, she waits for riders to sit down",
+              "fix": "The city bus driver checks her mirrors at every stop, and she waits for riders to sit down.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "How do you help at school or at home? Maybe you water a plant or clean up blocks. Draw and write the steps.",
+            "g35": "Quick-write: write instructions for a robot starting its first day as a school custodian. It does exactly what you say, nothing more, so every step must be exact!",
+            "g68": "Fast write: a step-by-step guide to a job nobody gets paid for, like organizing a group project, calming down a younger kid, or keeping a group chat from blowing up. Make it practical and a little funny."
+          },
+          "teacher": "Let students read one robot step aloud while a partner acts it out literally. Look for precise verbs. (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        },
+        {
+          "kind": "edit-share",
+          "title": "Test Your Steps",
+          "dol": {
+            "k2": {
+              "s": "the cook makes tacos. Mia eat them",
+              "fix": "The cook makes tacos. Mia eats them.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Firefighters wear helmets boots and heavy coats. They carry hoses axes and ladders.",
+              "fix": "Firefighters wear helmets, boots, and heavy coats. They carry hoses, axes, and ladders.",
+              "n": 4
+            },
+            "g68": {
+              "s": "The vet checked the puppy's ears, she found an infection. She gave the owner medecine but the puppy hated it.",
+              "fix": "The vet checked the puppy's ears, and she found an infection. She gave the owner medicine, but the puppy hated it.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Read your how-to. Does each sentence tell **who** and **what they do**? (“The cook stirs the soup.”) Fix one that is missing a part. Then act out your steps for a partner!",
+            "g35": "Edit one how-to from this week for **commas in a series**: when you list three or more things, put a comma after each item before *and*. Then partner test: your partner reads your steps aloud and acts them out.",
+            "g68": "Edit your procedure for **compound sentences**: find two complete thoughts joined by *and*, *but*, *or*, or *so*, and check for a comma before the joining word. Then trade with a partner. Can they follow your steps without asking you a question?"
+          },
+          "teacher": "Partner testing shows writers where steps are missing. Listen for “Wait, what do I do now?” and send writers back to add a step. (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "title": "Stories We Carry",
+      "bigIdea": "Students tell the stories families and communities keep retelling, a natural fit as many schools begin Hispanic Heritage Month, while they bring characters to life with action and dialogue.",
+      "iCan": {
+        "k2": "I can tell a story about people I care about and spell plurals with -s or -es.",
+        "g35": "I can write a family or community story with actions that show character, and I use commas in dates and addresses.",
+        "g68": "I can write a narrative where dialogue and action reveal character, with commas after introductory elements."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Stories Told Again",
+          "dol": {
+            "k2": {
+              "s": "my abuela has three dishs",
+              "fix": "My abuela has three dishes.",
+              "n": 3
+            },
+            "g35": {
+              "s": "My grandpa was born on May 4 1958 in Laredo Texas.",
+              "fix": "My grandpa was born on May 4, 1958, in Laredo, Texas.",
+              "n": 3
+            },
+            "g68": {
+              "s": "When my tía was young she sold paletas from a cart in brownsville",
+              "fix": "When my tía was young, she sold paletas from a cart in Brownsville.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Think of a happy time with people you love, or a story someone at home likes to tell. Draw it. Tell a partner who was there.",
+            "g35": "List stories people at home tell again and again: the time someone got lost, a funny baby story, a big storm. If none come to mind, list special times with people you care about. Star one and jot who, where, and what happened.",
+            "g68": "List stories you have heard more than once from family or neighbors: how someone came to Texas, a legendary cooking disaster, where a nickname came from. Pick one and note what you know, what you'd ask, and why people keep telling it."
+          },
+          "teacher": "Keep “family” broad: anyone students live with or care about counts. Look for one chosen story by the end."
+        },
+        {
+          "kind": "draft",
+          "title": "Setting the Scene",
+          "dol": {
+            "k2": {
+              "s": "we packed lunchs for the park",
+              "fix": "We packed lunches for the park.",
+              "n": 3
+            },
+            "g35": {
+              "s": "On Saturday August 15 2026 we had a reunion",
+              "fix": "On Saturday, August 15, 2026, we had a reunion.",
+              "n": 4
+            },
+            "g68": {
+              "s": "After the long drive from monterrey my grandmother hugged everyone, she even hugged the mail carrier.",
+              "fix": "After the long drive from Monterrey, my grandmother hugged everyone, and she even hugged the mail carrier.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write about a time with people you love. Start with “One time, we…” Tell what you did and how it felt.",
+            "g35": "Use Monday's list, or think of a time people at home laughed really hard. Draft the beginning: who is there, where are you, and what starts to happen? Use your senses: what did the room smell or sound like?",
+            "g68": "Draft the story you chose Monday, or a story about an object at home with a history: a pot, a blanket, a photo, a tool. Write it as a scene with a setting and at least one person speaking."
+          },
+          "teacher": "Remind students that a story told at home can be written as a scene. Look for a clear setting in the first lines. (6–8 Fix It: also accept a period or semicolon instead of the comma + conjunction.)"
+        },
+        {
+          "kind": "revise",
+          "title": "Show Them in Action",
+          "dol": {
+            "k2": {
+              "s": "abuelo picked three peachs",
+              "fix": "Abuelo picked three peaches.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Send the photos to 1420 pecan lane Austin Texas 78701.",
+              "fix": "Send the photos to 1420 Pecan Lane, Austin, Texas 78701.",
+              "n": 4
+            },
+            "g68": {
+              "s": "Yes I remember that story. Without a doubt it was the funniest night of my life",
+              "fix": "Yes, I remember that story. Without a doubt, it was the funniest night of my life.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Listen: “We ate food.” What food? How did it taste? Try: “We ate warm, soft tortillas.” Change one plain word in your story to a tasty, exact word.",
+            "g35": "Weak model: “My grandma told me a story. It was about when she was little. It was funny.” Craft move: **show a person with a small action**: how does she tell it? (“She slapped the table and laughed until she cried.”) Add one action like that to your story.",
+            "g68": "Weak model: “My uncle is a really funny person and everybody loves him.” Craft move: **let dialogue reveal character**: give the person one line only they would say. Revise your draft so a character's words do the work instead of your description."
+          },
+          "teacher": "Revise the model together, then give students quiet time to add one move to their own draft. Look for an action or line of dialogue that sounds like a real person."
+        },
+        {
+          "kind": "quick-write",
+          "title": "The Story of a Name",
+          "dol": {
+            "k2": {
+              "s": "the boxs are full of toys",
+              "fix": "The boxes are full of toys.",
+              "n": 3
+            },
+            "g35": {
+              "s": "My cousin turned ten on Friday October 2 2026",
+              "fix": "My cousin turned ten on Friday, October 2, 2026.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Honestly nobody in my family can sing but we sing loudly at every birthday anyway",
+              "fix": "Honestly, nobody in my family can sing, but we sing loudly at every birthday anyway.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Tell about a time you cooked or made something with a grown-up. What did you make? Draw it and write what happened.",
+            "g35": "Quick-write: tell the story of your name or a nickname. Who gave it to you? Is there a story behind it? If you don't know, tell about a time someone said your name wrong (or perfectly).",
+            "g68": "Fast write: a time a celebration or tradition went wrong: burned food, a lost costume piece, a power outage at a party. Write it fast, and end with why it became a story people still tell."
+          },
+          "teacher": "Names can be sensitive; let students choose the nickname option. Look for a real moment, not a summary."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Share a Story Circle",
+          "dol": {
+            "k2": {
+              "s": "Tía made two dresss. I got three bow",
+              "fix": "Tía made two dresses. I got three bows.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Our block party is on Saturday September 19 2026. Meet us at 300 Elm Street Waco Texas.",
+              "fix": "Our block party is on Saturday, September 19, 2026. Meet us at 300 Elm Street, Waco, Texas.",
+              "n": 4
+            },
+            "g68": {
+              "s": "After we finished dinner we looked at old photos. Laughing my grandpa pointed at his embarassing 1980s haircut.",
+              "fix": "After we finished dinner, we looked at old photos. Laughing, my grandpa pointed at his embarrassing 1980s haircut.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Look at your story. When you wrote about more than one thing, did you add **-s or -es**? (one box, two boxes) Fix one. Then share your story and picture with a partner.",
+            "g35": "Edit one story for **commas in dates and addresses**. If your story has no date or place, add one (on Saturday, May 2, in Laredo, Texas) and check the commas. Then share in the author's chair.",
+            "g68": "Edit one piece for **commas after introductory words, phrases, and clauses** (*Yes,* / *After dinner,* / *When she was ten,*). Then form a story circle: read one scene to a small group and ask what they want to know more about."
+          },
+          "teacher": "Invite students to take a story home and read it to the person in it. During sharing, listen for voices and actions that bring people to life."
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "title": "Poems of Change",
+      "bigIdea": "Students write poems about fall and the changes around and inside them, trading general words for sensory images while practicing describing and comparing words.",
+      "iCan": {
+        "k2": "I can write a poem with describing words and use a and an correctly.",
+        "g35": "I can write a poem with sensory details and a simile, and I use comparing words correctly.",
+        "g68": "I can write a poem with concrete images and use comparative and superlative forms correctly."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Gathering Fall Words",
+          "dol": {
+            "k2": {
+              "s": "i see a orange leaf",
+              "fix": "I see an orange leaf.",
+              "n": 3
+            },
+            "g35": {
+              "s": "this leaf is more redder than that one",
+              "fix": "This leaf is redder than that one.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Of all the trees on our street the cypress has the most brightest leaves",
+              "fix": "Of all the trees on our street, the cypress has the brightest leaves.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Look out the window or go outside. What changes when fall comes? Draw it. Say three describing words to a partner: crunchy, cool, orange.",
+            "g35": "Make a senses list for fall in Texas (even if it's still hot!): what you see, hear, smell, taste, and feel. Write at least two words for each sense. Circle your favorites to use in a poem.",
+            "g68": "Fall in Texas is complicated: still 95 degrees, but football, shorter days, and pan de muerto in the bakery case. List signs of change you notice in the weather, at school, or in yourself. Star the three most surprising."
+          },
+          "teacher": "Take the list outside if you can. Look for specific sensory words, not just “pretty.”"
+        },
+        {
+          "kind": "draft",
+          "title": "Lines That Paint",
+          "dol": {
+            "k2": {
+              "s": "we found a acorn under the big tree",
+              "fix": "We found an acorn under the big tree.",
+              "n": 3
+            },
+            "g35": {
+              "s": "october is the most colorfulest month of the year",
+              "fix": "October is the most colorful month of the year.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Honestly this week felt more cooler than last week, but the forecast says Friday will be the hotter day of all.",
+              "fix": "Honestly, this week felt cooler than last week, but the forecast says Friday will be the hottest day of all.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write a fall poem with three lines. Start each line with “Fall is…” like “Fall is crunchy leaves.” Draw a picture around it.",
+            "g35": "Use your senses list from Monday, or look out the window right now. Write a five-line poem about one thing that changes in fall, using a different sense in each line. No rhyming needed!",
+            "g68": "Draft a free-verse poem from Monday's list, or about something that is changing for you this year. Write at least eight short lines, and break each line where you want the reader to pause."
+          },
+          "teacher": "Read a short poem aloud first and point out the line breaks. Look for images, not explanations."
+        },
+        {
+          "kind": "revise",
+          "title": "Compare It With a Simile",
+          "dol": {
+            "k2": {
+              "s": "the porch had an big pumpkin",
+              "fix": "The porch had a big pumpkin.",
+              "n": 3
+            },
+            "g35": {
+              "s": "My scarf is more warmer than yours, but the classroom rug is the warmer of all",
+              "fix": "My scarf is warmer than yours, but the classroom rug is the warmest of all.",
+              "n": 3
+            },
+            "g68": {
+              "s": "This fall's storms were badder than last year's, but the worse one was in October",
+              "fix": "This fall's storms were worse than last year's, but the worst one was in October.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Listen: “The leaf fell.” Add a describing word: “The red leaf fell.” Add one more: “The red, crunchy leaf fell.” Add a describing word to one line of your poem.",
+            "g35": "Weak model: “The leaves are falling down. The wind is blowing. It is fall.” Craft move: **use a simile**: compare with *like* or *as*: “Leaves fall like tiny parachutes.” Add one simile to your own poem.",
+            "g68": "Weak model: “Change is hard / but it is also good / things change all the time.” Craft move: **trade an abstract idea for a concrete image**: instead of “change is hard,” show the jacket you outgrew or the empty seat on the bus. Replace one abstract line in your poem with an image."
+          },
+          "teacher": "Brainstorm three similes for the model together before students revise. Look for one line that is clearly sharper."
+        },
+        {
+          "kind": "quick-write",
+          "title": "Talking to the Weather",
+          "dol": {
+            "k2": {
+              "s": "we saw an big owl",
+              "fix": "We saw a big owl.",
+              "n": 3
+            },
+            "g35": {
+              "s": "our class pumpkin was more heavier than the one at the store",
+              "fix": "Our class pumpkin was heavier than the one at the store.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Of the three poems I wrote this week this one is the better",
+              "fix": "Of the three poems I wrote this week, this one is the best.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Pretend you are a leaf on a tree. Write a short poem: What do you see? Where do you go when you fall? Draw yourself!",
+            "g35": "Quick-write: write a poem that talks to the weather. Start with “Dear Wind,” or “Hey, Rain,” and tell it what you think of it. Make it funny or serious.",
+            "g68": "Fast write: a “Then and Now” poem. Write two short stanzas about yourself, one starting “Last year I…” and one starting “This year I…,” that show how you've changed."
+          },
+          "teacher": "Keep it playful and fast. Invite a few students to read their first line only."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Poetry Café",
+          "dol": {
+            "k2": {
+              "s": "i see a owl. It has big eyes",
+              "fix": "I see an owl. It has big eyes.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Fall is more cooler then summer. Winter is the most coldest season.",
+              "fix": "Fall is cooler than summer. Winter is the coldest season.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Pecans taste gooder after the first cold front. Honestly the worse part of fall is the itchy grass.",
+              "fix": "Pecans taste better after the first cold front. Honestly, the worst part of fall is the itchy grass.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Read your poem. Did you use describing words? Check **a** and **an**: use *an* before a vowel sound (an apple, an owl). Fix one, then read your poem aloud like a poet.",
+            "g35": "Edit one poem for **comparative and superlative adjectives**: *-er* compares two (colder), *-est* compares three or more (coldest), and never use *more* with *-er*. Then hold a poetry café: read to a small group and snap for each other.",
+            "g68": "Edit one poem for **comparative and superlative forms**, including irregular ones (*good, better, best*; *bad, worse, worst*; *far, farther, farthest*). Then share one strong line in a class line-around, with no applause until the last reader."
+          },
+          "teacher": "Dim the lights for the café if you like. Listen for poets reading slowly enough to land each image."
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "title": "Animal Experts",
+      "bigIdea": "Students teach true, surprising facts about animals, replacing vague praise with exact information and connecting ideas with transitions, while they make subjects and verbs agree.",
+      "iCan": {
+        "k2": "I can write true facts about an animal and match my nouns and verbs (a frog jumps, frogs jump).",
+        "g35": "I can write an informational paragraph about an animal with exact facts and correct subject–verb agreement.",
+        "g68": "I can write an informational piece with connected ideas and correct agreement, even with tricky subjects."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Pick Your Animal",
+          "dol": {
+            "k2": {
+              "s": "bats sleeps in the day",
+              "fix": "Bats sleep in the day.",
+              "n": 3
+            },
+            "g35": {
+              "s": "texas armadillos digs burrows with strong claws",
+              "fix": "Texas armadillos dig burrows with strong claws.",
+              "n": 3
+            },
+            "g68": {
+              "s": "The herd of bison graze on the prairie at caprock canyons State Park",
+              "fix": "The herd of bison grazes on the prairie at Caprock Canyons State Park.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Which animal do you know a lot about? Draw it in the middle of your page. Around it, write or draw three facts: what it eats, where it lives, how it moves.",
+            "g35": "List animals you know about: pets, zoo animals, backyard critters, Texas animals like armadillos or horned lizards. Choose one and sort what you know into four boxes: Looks, Home, Food, Cool Facts.",
+            "g68": "Brainstorm animals with surprising abilities: bats that find food with sound, octopuses that change color, monarchs that migrate through Texas. Pick one and map three subtopics you could explain, plus one question you still have."
+          },
+          "teacher": "Remind students to stick to what they know is true; a question mark next to a shaky fact is fine. Look for facts sorted into groups."
+        },
+        {
+          "kind": "draft",
+          "title": "Hook Your Reader",
+          "dol": {
+            "k2": {
+              "s": "an owl are awake at night",
+              "fix": "An owl is awake at night.",
+              "n": 3
+            },
+            "g35": {
+              "s": "a horned lizard squirt blood from its eyes to scare coyotes",
+              "fix": "A horned lizard squirts blood from its eyes to scare coyotes.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Each of the monarchs travel thousands of miles to mexico",
+              "fix": "Each of the monarchs travels thousands of miles to Mexico.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write an “all about” page for your animal. Start with “Did you know…?” Then tell two facts. Draw it and add labels.",
+            "g35": "Use your boxes from Monday, or pick an animal you know well. Write one paragraph for one box, like Food. Start with a topic sentence that makes a reader want to keep going.",
+            "g68": "Draft the introduction to an informational piece about your animal (Monday's plan or a new one). Open with a surprising fact or a question, then say what your piece will explain."
+          },
+          "teacher": "Share two or three strong openers aloud. Look for a hook and a clear topic."
+        },
+        {
+          "kind": "revise",
+          "title": "Facts Beat Opinions",
+          "dol": {
+            "k2": {
+              "s": "dogs runs fast",
+              "fix": "Dogs run fast.",
+              "n": 3
+            },
+            "g35": {
+              "s": "My cousin's turtles eats lettuce worms and strawberries",
+              "fix": "My cousin's turtles eat lettuce, worms, and strawberries.",
+              "n": 4
+            },
+            "g68": {
+              "s": "There is four kinds of venomous snakes in Texas, and the rattlesnake is the more common",
+              "fix": "There are four kinds of venomous snakes in Texas, and the rattlesnake is the most common.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Listen: “Cheetahs are fast.” How fast? Make it a wow fact: “Cheetahs can run faster than cars drive on our street!” Make one of your facts more exact.",
+            "g35": "Weak model: “Bats are cool. They do cool stuff. They are really cool animals.” Craft move: **swap an opinion word for a fact**: “One bat can eat hundreds of insects in a night.” Replace one “cool” or “awesome” in your paragraph with a real fact.",
+            "g68": "Weak model: “Octopuses are smart. Also they can change color. Also they have eight arms.” Craft move: **use transitions that show connections**: *because*, *for example*, *as a result*, *unlike*. Revise one list-like part of your draft so each sentence connects to the one before."
+          },
+          "teacher": "Model the revision on the board. Look for at least one exact fact or a new transition in each draft."
+        },
+        {
+          "kind": "quick-write",
+          "title": "Nature Reporter",
+          "dol": {
+            "k2": {
+              "s": "a bee make honey",
+              "fix": "A bee makes honey.",
+              "n": 3
+            },
+            "g35": {
+              "s": "the hummingbird flap its wings very fast",
+              "fix": "The hummingbird flaps its wings very fast.",
+              "n": 3
+            },
+            "g68": {
+              "s": "neither the coyote nor the foxes was spotted on our trail camera last week",
+              "fix": "Neither the coyote nor the foxes were spotted on our trail camera last week.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "If you could be any animal for a day, which would you be? Write two true facts about it and draw yourself as that animal.",
+            "g35": "Quick-write: be a nature reporter. Write a short news report about an animal you can see near school, like a squirrel, a grackle, an ant, or a lizard. Tell what it does, where, and one thing you noticed up close.",
+            "g68": "Fast write: animal myth-buster. Pick a common belief (bats are blind, goldfish forget everything in three seconds, bulls hate the color red) and explain what's actually true. If you aren't sure, explain how you would find out."
+          },
+          "teacher": "For myth-busters: bats can see, goldfish remember for months, and bulls react to motion, not color. Look for writing that sounds like an expert explaining."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Teach Your Best Fact",
+          "dol": {
+            "k2": {
+              "s": "Frogs jumps. A frog swim",
+              "fix": "Frogs jump. A frog swims.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Owls hunts at night. A barn owl eat mice and other small animals",
+              "fix": "Owls hunt at night. A barn owl eats mice and other small animals.",
+              "n": 3
+            },
+            "g68": {
+              "s": "the class's collection of animal skulls are on display. Everyone in the sixth grade want to see the coyote skull.",
+              "fix": "The class's collection of animal skulls is on display. Everyone in the sixth grade wants to see the coyote skull.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Read your animal page. Do your nouns and verbs match? (One frog **jumps**. Two frogs **jump**.) Fix one. Then make a class zoo: leave your page on your desk and visit three classmates' animals.",
+            "g35": "Edit one paragraph for **subject–verb agreement**: find each subject, then check its verb (*The bat eats*; *The bats eat*). Then read your best fact aloud and let the class guess the animal before you name it.",
+            "g68": "Edit one section for **subject–verb agreement with tricky subjects** (*each of*, *everyone*, *neither…nor*, *a group of*, *there is/are*). Then teach your most surprising fact to a small group in thirty seconds."
+          },
+          "teacher": "Model finding the true subject by crossing out the phrase in between (“collection of animal skulls”). Look for students checking every verb, not just one."
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "title": "Letters of Kindness",
+      "bigIdea": "Students write letters that notice and thank people for real kindness, learning that a letter's format and tone should fit its reader.",
+      "iCan": {
+        "k2": "I can write a kind letter with capitals and commas in the greeting and the closing.",
+        "g35": "I can write a friendly letter with all five parts and correct commas.",
+        "g68": "I can write a formal letter that recognizes someone's kindness, with business letter format and a professional tone."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Who Deserves a Thank-You?",
+          "dol": {
+            "k2": {
+              "s": "dear Mr. Bell / thank you for fixing our sink.",
+              "fix": "Dear Mr. Bell, / Thank you for fixing our sink.",
+              "n": 3
+            },
+            "g35": {
+              "s": "October 5 2026 / dear Ms. Reyes / Thank you for reading us stories at lunch.",
+              "fix": "October 5, 2026 / Dear Ms. Reyes, / Thank you for reading us stories at lunch.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Hey Ms. Holloway, / Our class can't thank you enough for organizing the food drive",
+              "fix": "Dear Ms. Holloway: / Our class cannot thank you enough for organizing the food drive.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Who has been kind to you? A friend, a helper, a teacher? Draw them. Tell a partner one kind thing they did.",
+            "g35": "List people who make your days better: a cafeteria worker, a neighbor, a coach, a friend. Next to each name, write one specific kind thing they did. Star the person you most want to thank.",
+            "g68": "Brainstorm people or groups whose kindness deserves official recognition: a custodian, a crossing guard, a local food bank, a coach. Choose one and list what they did, who it helped, and who has the power to honor them (a principal, a manager, a city council member)."
+          },
+          "teacher": "In the Fix It, a slash ( / ) shows where a new line starts in the letter. Look for kindness that is specific, not just “they are nice.”"
+        },
+        {
+          "kind": "draft",
+          "title": "Write the Body",
+          "dol": {
+            "k2": {
+              "s": "dear Lin / You are a good friend",
+              "fix": "Dear Lin, / You are a good friend.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Dear Officer Nguyen / Thank you for visiting our class. we loved seeing your patrol car",
+              "fix": "Dear Officer Nguyen, / Thank you for visiting our class. We loved seeing your patrol car.",
+              "n": 3
+            },
+            "g68": {
+              "s": "dear Store Manager / An employee at your store helped my grandmother when she fell, his name is Marcus.",
+              "fix": "Dear Store Manager: / An employee at your store helped my grandmother when she fell. His name is Marcus.",
+              "n": 4
+            }
+          },
+          "write": {
+            "k2": "Write a thank-you letter to someone kind. Start with “Dear ___,” and tell what they did. Draw a picture for them.",
+            "g35": "Use your starred person from Monday, or write to someone who helped you this year. Draft the body of a friendly letter: tell exactly what they did and how it made a difference to you.",
+            "g68": "Draft a formal letter recognizing someone's kindness (Monday's idea or a new one), addressed to a person who can honor them. In the first paragraph, state your purpose clearly in one or two sentences."
+          },
+          "teacher": "Show the five parts of a letter on the board. Look for a body that names a real action. (6–8 Fix It: also accept a semicolon instead of the period before \"his.\")"
+        },
+        {
+          "kind": "revise",
+          "title": "Kindness With a Because",
+          "dol": {
+            "k2": {
+              "s": "dear Sam / Thank you for the two book.",
+              "fix": "Dear Sam, / Thank you for the two books.",
+              "n": 3
+            },
+            "g35": {
+              "s": "You are the best neighbor on Elm Street. / your friend / Diego / P.S. tell your dog hi!",
+              "fix": "You are the best neighbor on Elm Street. / Your friend, / Diego / P.S. Tell your dog hi!",
+              "n": 3
+            },
+            "g68": {
+              "s": "Your volunteers was patient with every family, we can't thank them enough",
+              "fix": "Your volunteers were patient with every family. We cannot thank them enough.",
+              "n": 5
+            }
+          },
+          "write": {
+            "k2": "Listen: “Thank you for being nice.” Nice how? Try: “Thank you for helping me tie my shoes.” Change one sentence in your letter to tell exactly what they did.",
+            "g35": "Weak model: “Thanks for everything. You are nice. Bye.” Craft move: **tell the effect**: how did their kindness change your day? (“Because you saved me a seat, my first day felt less scary.”) Add one “because” sentence to your letter.",
+            "g68": "Weak model: “Mr. Lopez is super nice and helps everybody all the time and he's awesome.” Craft move: **use a formal tone and a specific example**: “Mr. Lopez stays after his shift to help students find lost belongings.” Revise two sentences of your letter so they sound professional and specific."
+          },
+          "teacher": "Ask, “How would this person know exactly what you mean?” Look for one sentence that names an effect or a concrete example. (6–8 Fix It: also accept a semicolon instead of the period before \"we.\")"
+        },
+        {
+          "kind": "quick-write",
+          "title": "A Note for a Smile",
+          "dol": {
+            "k2": {
+              "s": "love / Ella / P.S. you are my best friend.",
+              "fix": "Love, / Ella / P.S. You are my best friend.",
+              "n": 3
+            },
+            "g35": {
+              "s": "Dear Coach Tran / We hope your knee is feeling better we miss you at practice",
+              "fix": "Dear Coach Tran, / We hope your knee is feeling better. We miss you at practice.",
+              "n": 4
+            },
+            "g68": {
+              "s": "Dear Superintendent Wallace: / The bus drivers at our school deserves recognition, they arrive before sunrise every day.",
+              "fix": "Dear Superintendent Wallace: / The bus drivers at our school deserve recognition. They arrive before sunrise every day.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write a short note to someone who might need a smile: the bus driver, a lunch helper, a new kid. End with “Love,” or “Your friend,” and your name.",
+            "g35": "Quick-write: write a thank-you letter to an object that is kind to you, like your pillow, your favorite hoodie, or the classroom fan. Use all five parts: date, greeting, body, closing, signature. Be funny!",
+            "g68": "Fast write: write a short formal letter to the principal proposing one free act of kindness the whole school could try, like sticky-note compliments or a “no one eats alone” table. Keep the tone polite and professional."
+          },
+          "teacher": "Keep notes kind and real. If students want to deliver them, plan a time on Friday. (6–8 Fix It: also accept a semicolon instead of the period before \"they.\")"
+        },
+        {
+          "kind": "edit-share",
+          "title": "Ready to Send",
+          "dol": {
+            "k2": {
+              "s": "Dear Abby / You are kind. / love / Max / P.S. Smile!",
+              "fix": "Dear Abby, / You are kind. / Love, / Max / P.S. Smile!",
+              "n": 3
+            },
+            "g35": {
+              "s": "October 9 2026 / Dear Coach Tran / Thank you for believing in our team. / Your player / Sofia / P.S. We won!",
+              "fix": "October 9, 2026 / Dear Coach Tran, / Thank you for believing in our team. / Your player, / Sofia / P.S. We won!",
+              "n": 3
+            },
+            "g68": {
+              "s": "Dear Mr. Castillo / The volunteers from your company donated coats, their kindness kept many students warm.",
+              "fix": "Dear Mr. Castillo: / The volunteers from your company donated coats. Their kindness kept many students warm.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Check your letter: a **capital** on *Dear* and the name, a **comma** after the name, and a comma after *Love,* or *Your friend,*. Fix them. Then give your letter to the person, or read it to a partner.",
+            "g35": "Edit one letter from this week for **friendly letter parts and commas**: date (October 9, 2026), greeting (Dear Sam,), body, closing (Your friend,), and signature. Then deliver it or read it aloud to the class.",
+            "g68": "Edit your formal letter for **business letter conventions and formal tone**: a colon after the greeting, no slang or contractions, and *Sincerely,* with your full name. Read it to a partner who flags anything too casual, then decide whether to send it."
+          },
+          "teacher": "Real letters deserve real readers: help students deliver the ones they choose to send. Check greetings and closings before they go. (6–8 Fix It: also accept a semicolon instead of the period before \"their.\")"
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "title": "Solve the Mystery",
+      "bigIdea": "Students invent mysteries with clues and suspense, learning to slow down the scary moments and keep their verbs in the right time.",
+      "iCan": {
+        "k2": "I can write a made-up mystery story and use -ed for things that already happened.",
+        "g35": "I can write a mystery with a detective, clues, and suspense, using the right verb tense.",
+        "g68": "I can write a mystery that builds suspense and keeps a consistent verb tense."
+      },
+      "days": [
+        {
+          "kind": "plan",
+          "title": "Map a Mystery",
+          "dol": {
+            "k2": {
+              "s": "yesterday we look for the lost hat",
+              "fix": "Yesterday we looked for the lost hat.",
+              "n": 3
+            },
+            "g35": {
+              "s": "yesterday the class hamster escapes from its cage",
+              "fix": "Yesterday the class hamster escaped from its cage.",
+              "n": 3
+            },
+            "g68": {
+              "s": "When Lucia opened the old trunk in the attic she finds a map with a red X",
+              "fix": "When Lucia opened the old trunk in the attic, she found a map with a red X.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Something is missing from our classroom! What is it? Who took it? Draw the lost thing and the one you think took it.",
+            "g35": "Plan a mystery story with three quick lists: a detective (who?), a mystery (what is missing or strange?), and at least three clues. Circle your favorite from each list.",
+            "g68": "Plan a short mystery or “strange happening” story. Jot down the main character, the setting, the weird event, two clues (one real, one misleading), and the twist. Don't write the story yet; just make the map."
+          },
+          "teacher": "Remind students this week's stories are made up. Look for a clear problem and at least one clue."
+        },
+        {
+          "kind": "draft",
+          "title": "Something Is Missing",
+          "dol": {
+            "k2": {
+              "s": "mia look under the rug yesterday",
+              "fix": "Mia looked under the rug yesterday.",
+              "n": 3
+            },
+            "g35": {
+              "s": "tomorrow the detective will searched the library for clues",
+              "fix": "Tomorrow the detective will search the library for clues.",
+              "n": 3
+            },
+            "g68": {
+              "s": "Marcus crept down the hallway and pushes open the door, a cold wind rushed past him.",
+              "fix": "Marcus crept down the hallway and pushed open the door. A cold wind rushed past him.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Write the beginning of your mystery. Start with “One morning, the ___ was gone!” Tell who saw that it was missing.",
+            "g35": "Use your lists from Monday, or start with this: the class pet is gone, and the cage door is open. Draft the beginning: introduce your detective and show the moment they notice something is wrong.",
+            "g68": "Draft the opening scene of your mystery (Monday's map, or start with a text from an unknown number that says “Don't open your locker.”). Build suspense by holding information back."
+          },
+          "teacher": "Read one strong mystery opening aloud as a model. Look for a problem by the end of the first few lines. (6–8 Fix It: also accept a semicolon or \", and\" instead of the period before \"a cold wind.\")"
+        },
+        {
+          "kind": "revise",
+          "title": "Slow the Scary Part",
+          "dol": {
+            "k2": {
+              "s": "last night the door creak",
+              "fix": "Last night the door creaked.",
+              "n": 3
+            },
+            "g35": {
+              "s": "right now detective Kim looked at the muddy footprints",
+              "fix": "Right now Detective Kim looks at the muddy footprints.",
+              "n": 4
+            },
+            "g68": {
+              "s": "When the clock struck midnight the lights flickered, and then the music box starts to play by itself",
+              "fix": "When the clock struck midnight, the lights flickered, and then the music box started to play by itself.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Listen: “The door opened.” Make it spooky with a sound word: “Creeeak! The door opened slowly.” Add a sound word to your mystery.",
+            "g35": "Weak model: “Kim found a clue. It was a footprint. She went to find who did it.” Craft move: **build suspense with a short sentence**: after a long sentence, add a tiny one: “Then she saw it. A footprint.” Add one short, suspenseful sentence to your story.",
+            "g68": "Weak model: “Then I heard a scary noise and I was scared and I went to see what it was.” Craft move: **slow the moment down** with senses and the character's thoughts, one beat per sentence. Rewrite the scariest moment in your draft so it takes four or five sentences instead of one."
+          },
+          "teacher": "Read the weak model, then the revision, in a hushed voice so students hear the difference. Look for pacing that slows at the key moment. (3–5 Fix It: also accept \"Right now Detective Kim is looking.\")"
+        },
+        {
+          "kind": "quick-write",
+          "title": "The Tiny Door",
+          "dol": {
+            "k2": {
+              "s": "last week a frog hop into our class",
+              "fix": "Last week a frog hopped into our class.",
+              "n": 3
+            },
+            "g35": {
+              "s": "last week our class solve the mystery of the missing trophy",
+              "fix": "Last week our class solved the mystery of the missing trophy.",
+              "n": 3
+            },
+            "g68": {
+              "s": "As the fog rolled in, Ana grabbed her flashlight and runs toward the port Isabel Lighthouse",
+              "fix": "As the fog rolled in, Ana grabbed her flashlight and ran toward the Port Isabel Lighthouse.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "You open your lunch box and something magic is inside! What is it? What happens next? Draw and write.",
+            "g35": "Quick-write: you find a tiny door at the bottom of a tree on the playground. It's open just a crack. Write what happens when you knock. Keep the story moving!",
+            "g68": "Fast write: every morning this week, someone has left one paper crane on your desk before you arrive. Write the scene where you finally find out who, or don't. Stay in past tense the whole way."
+          },
+          "teacher": "Let students choose any ending, even a cliffhanger. Look for a story that keeps moving."
+        },
+        {
+          "kind": "edit-share",
+          "title": "Mystery Read-Around",
+          "dol": {
+            "k2": {
+              "s": "Yesterday we look in the box. The cat jump out!",
+              "fix": "Yesterday we looked in the box. The cat jumped out!",
+              "n": 2
+            },
+            "g35": {
+              "s": "Yesterday Kim finds the trophy. Tomorrow she will returned it to coach Lane.",
+              "fix": "Yesterday Kim found the trophy. Tomorrow she will return it to Coach Lane.",
+              "n": 3
+            },
+            "g68": {
+              "s": "After weeks of guessing the crane maker turned out to be ms. Ortiz. She smiles and handed me one last crane.",
+              "fix": "After weeks of guessing, the crane maker turned out to be Ms. Ortiz. She smiled and handed me one last crane.",
+              "n": 3
+            }
+          },
+          "write": {
+            "k2": "Read your mystery. Did it already happen? Then use **-ed**: look → looked, jump → jumped. Fix two words. Then read your mystery to a partner in your best spooky voice.",
+            "g35": "Edit one story for **verb tense**: past (*looked*), present (*looks*), or future (*will look*). Make sure each verb fits when the action happens. Then read in the author's chair and stop at the most suspenseful part so the class can guess the ending.",
+            "g68": "Edit one piece for **consistent verb tense**: choose past or present, then underline every verb to check that you stayed there. Then share in a mystery read-around: read your opening and let listeners predict the twist."
+          },
+          "teacher": "Model underlining verbs on a short paragraph first. During sharing, ask listeners which clue they noticed."
+        }
+      ]
+    }
+  ]
+}

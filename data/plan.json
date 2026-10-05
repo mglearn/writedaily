@@ -1,0 +1,596 @@
+{
+ "weeks": [
+  {
+   "week": 1,
+   "monday": "2026-08-17",
+   "theme": "New Beginnings",
+   "note": "first week of school",
+   "genre": {
+    "k2": "narrative",
+    "g35": "narrative",
+    "g68": "narrative"
+   },
+   "conv": {
+    "k2": "Capitalize the first word of a sentence",
+    "g35": "Complete sentences, not fragments",
+    "g68": "Sentence fragments"
+   }
+  },
+  {
+   "week": 2,
+   "monday": "2026-08-24",
+   "theme": "Friends and Teamwork",
+   "note": "",
+   "genre": {
+    "k2": "narrative",
+    "g35": "narrative",
+    "g68": "narrative"
+   },
+   "conv": {
+    "k2": "End marks: period and question mark",
+    "g35": "Capital letters and end punctuation",
+    "g68": "Run-ons and comma splices"
+   }
+  },
+  {
+   "week": 3,
+   "monday": "2026-08-31",
+   "theme": "Our School",
+   "note": "",
+   "genre": {
+    "k2": "informational",
+    "g35": "informational",
+    "g68": "informational"
+   },
+   "conv": {
+    "k2": "Capitalize names and the word I",
+    "g35": "Capitalizing proper nouns",
+    "g68": "Capitalizing proper nouns and proper adjectives"
+   }
+  },
+  {
+   "week": 4,
+   "monday": "2026-09-07",
+   "theme": "Helpers and Jobs",
+   "note": "Monday is Labor Day",
+   "genre": {
+    "k2": "procedural",
+    "g35": "procedural",
+    "g68": "procedural"
+   },
+   "conv": {
+    "k2": "Complete sentences: who + what they do",
+    "g35": "Commas in a series",
+    "g68": "Compound sentences: comma + FANBOYS"
+   }
+  },
+  {
+   "week": 5,
+   "monday": "2026-09-14",
+   "theme": "Family Stories",
+   "note": "many schools begin celebrating Hispanic Heritage Month around now",
+   "genre": {
+    "k2": "narrative",
+    "g35": "narrative",
+    "g68": "narrative"
+   },
+   "conv": {
+    "k2": "Plural nouns (-s, -es)",
+    "g35": "Commas in dates and addresses",
+    "g68": "Commas after introductory words, phrases, and clauses"
+   }
+  },
+  {
+   "week": 6,
+   "monday": "2026-09-21",
+   "theme": "Autumn and Change",
+   "note": "",
+   "genre": {
+    "k2": "poetry",
+    "g35": "poetry",
+    "g68": "poetry"
+   },
+   "conv": {
+    "k2": "Adjectives and the articles a/an",
+    "g35": "Comparative and superlative adjectives",
+    "g68": "Comparative and superlative forms, including irregular ones"
+   }
+  },
+  {
+   "week": 7,
+   "monday": "2026-09-28",
+   "theme": "Amazing Animals",
+   "note": "",
+   "genre": {
+    "k2": "informational",
+    "g35": "informational",
+    "g68": "informational"
+   },
+   "conv": {
+    "k2": "Subject–verb agreement (is/are, runs/run)",
+    "g35": "Subject–verb agreement",
+    "g68": "Subject–verb agreement with tricky subjects"
+   }
+  },
+  {
+   "week": 8,
+   "monday": "2026-10-05",
+   "theme": "Kindness Counts",
+   "note": "",
+   "genre": {
+    "k2": "correspondence",
+    "g35": "correspondence",
+    "g68": "correspondence"
+   },
+   "conv": {
+    "k2": "Capitals and commas in a letter (Dear ___, / Love, ___)",
+    "g35": "Friendly letter parts and commas",
+    "g68": "Business letter conventions and formal tone"
+   }
+  },
+  {
+   "week": 9,
+   "monday": "2026-10-12",
+   "theme": "Mysteries and Wonders",
+   "note": "",
+   "genre": {
+    "k2": "fiction",
+    "g35": "fiction",
+    "g68": "fiction"
+   },
+   "conv": {
+    "k2": "Past-tense verbs (-ed)",
+    "g35": "Verb tense: past, present, future",
+    "g68": "Consistent verb tense"
+   }
+  },
+  {
+   "week": 10,
+   "monday": "2026-10-19",
+   "theme": "Smart and Safe Online",
+   "note": "around Digital Citizenship Week",
+   "genre": {
+    "k2": "correspondence",
+    "g35": "argument",
+    "g68": "argument"
+   },
+   "conv": {
+    "k2": "Question marks and asking sentences",
+    "g35": "Apostrophes in contractions",
+    "g68": "its/it's, your/you're, their/there/they're"
+   }
+  },
+  {
+   "week": 11,
+   "monday": "2026-10-26",
+   "theme": "Harvest and Food",
+   "note": "",
+   "genre": {
+    "k2": "procedural",
+    "g35": "procedural",
+    "g68": "procedural"
+   },
+   "conv": {
+    "k2": "Commas in a series",
+    "g35": "Homophones (to/too/two, there/their/they're)",
+    "g68": "Semicolons"
+   }
+  },
+  {
+   "week": 12,
+   "monday": "2026-11-02",
+   "theme": "Making Choices",
+   "note": "",
+   "genre": {
+    "k2": "correspondence",
+    "g35": "argument",
+    "g68": "argument"
+   },
+   "conv": {
+    "k2": "Irregular past-tense verbs (ran, saw, went)",
+    "g35": "Irregular verbs",
+    "g68": "Pronoun–antecedent agreement"
+   }
+  },
+  {
+   "week": 13,
+   "monday": "2026-11-09",
+   "theme": "Service and Thanks",
+   "note": "many schools honor veterans this week",
+   "genre": {
+    "k2": "correspondence",
+    "g35": "correspondence",
+    "g68": "correspondence"
+   },
+   "conv": {
+    "k2": "Capitalize days, months, and holidays",
+    "g35": "Capitalizing holidays, titles, and historical events",
+    "g68": "Capitalizing titles, organizations, and events"
+   }
+  },
+  {
+   "week": 14,
+   "monday": "2026-11-16",
+   "theme": "Gratitude",
+   "note": "",
+   "genre": {
+    "k2": "poetry",
+    "g35": "poetry",
+    "g68": "poetry"
+   },
+   "conv": {
+    "k2": "Pronouns (I/me, he/him, she/her)",
+    "g35": "Subject and object pronouns",
+    "g68": "Pronoun case (I/me, who/whom)"
+   }
+  },
+  {
+   "week": 15,
+   "monday": "2026-11-30",
+   "theme": "Inventions and Problem Solving",
+   "note": "first week back after Thanksgiving break",
+   "genre": {
+    "k2": "informational",
+    "g35": "informational",
+    "g68": "informational"
+   },
+   "conv": {
+    "k2": "Adverbs that tell how and when",
+    "g35": "Singular possessive nouns",
+    "g68": "Plural and irregular possessive nouns"
+   }
+  },
+  {
+   "week": 16,
+   "monday": "2026-12-07",
+   "theme": "Codes and Patterns",
+   "note": "around Computer Science Education Week",
+   "genre": {
+    "k2": "procedural",
+    "g35": "procedural",
+    "g68": "procedural"
+   },
+   "conv": {
+    "k2": "End marks review (. ? !)",
+    "g35": "Commas after introductory and sequence words",
+    "g68": "Transitions and conjunctive adverbs"
+   }
+  },
+  {
+   "week": 17,
+   "monday": "2026-12-14",
+   "theme": "Winter and Traditions",
+   "note": "last week before winter break",
+   "genre": {
+    "k2": "narrative",
+    "g35": "narrative",
+    "g68": "narrative"
+   },
+   "conv": {
+    "k2": "Capitalize names of holidays and places",
+    "g35": "Quotation marks in dialogue",
+    "g68": "Punctuating dialogue"
+   }
+  },
+  {
+   "week": 18,
+   "monday": "2027-01-04",
+   "theme": "New Year, New Goals",
+   "note": "first week back after winter break",
+   "genre": {
+    "k2": "informational",
+    "g35": "informational",
+    "g68": "informational"
+   },
+   "conv": {
+    "k2": "Complete sentences review",
+    "g35": "Run-on sentences",
+    "g68": "Complex sentences: subordinating conjunctions and commas"
+   }
+  },
+  {
+   "week": 19,
+   "monday": "2027-01-11",
+   "theme": "Dreams and Leaders",
+   "note": "the week before Martin Luther King Jr. Day",
+   "genre": {
+    "k2": "correspondence",
+    "g35": "argument",
+    "g68": "argument"
+   },
+   "conv": {
+    "k2": "Verbs was and were",
+    "g35": "Compound sentences with coordinating conjunctions",
+    "g68": "Parallel structure"
+   }
+  },
+  {
+   "week": 20,
+   "monday": "2027-01-18",
+   "theme": "Kind Words",
+   "note": "Monday is Martin Luther King Jr. Day",
+   "genre": {
+    "k2": "correspondence",
+    "g35": "correspondence",
+    "g68": "correspondence"
+   },
+   "conv": {
+    "k2": "Contractions (can't, don't, it's)",
+    "g35": "Commas with yes, no, and names (direct address)",
+    "g68": "Commas with appositives and nonessential clauses"
+   }
+  },
+  {
+   "week": 21,
+   "monday": "2027-01-25",
+   "theme": "Weather and Sky",
+   "note": "",
+   "genre": {
+    "k2": "informational",
+    "g35": "informational",
+    "g68": "informational"
+   },
+   "conv": {
+    "k2": "Plural nouns review",
+    "g35": "Adverbs, including comparative adverbs",
+    "g68": "Misplaced and dangling modifiers"
+   }
+  },
+  {
+   "week": 22,
+   "monday": "2027-02-01",
+   "theme": "News and Facts",
+   "note": "around National News Literacy Week",
+   "genre": {
+    "k2": "informational",
+    "g35": "informational",
+    "g68": "informational"
+   },
+   "conv": {
+    "k2": "Capitalize names of places",
+    "g35": "Capitalizing geographic names",
+    "g68": "Quotation marks for direct quotations and article titles"
+   }
+  },
+  {
+   "week": 23,
+   "monday": "2027-02-08",
+   "theme": "Friendship",
+   "note": "Valentine's Day is this weekend",
+   "genre": {
+    "k2": "poetry",
+    "g35": "poetry",
+    "g68": "poetry"
+   },
+   "conv": {
+    "k2": "Describing words for the five senses",
+    "g35": "Prepositions and prepositional phrases",
+    "g68": "Commas between coordinate adjectives"
+   }
+  },
+  {
+   "week": 24,
+   "monday": "2027-02-15",
+   "theme": "Leaders Who Made a Difference",
+   "note": "Monday is Presidents' Day; many schools celebrate Black History Month",
+   "genre": {
+    "k2": "informational",
+    "g35": "informational",
+    "g68": "informational"
+   },
+   "conv": {
+    "k2": "Capitalize titles of people (Mr., Mrs., Dr.)",
+    "g35": "Abbreviations and titles of people",
+    "g68": "Active and passive voice"
+   }
+  },
+  {
+   "week": 25,
+   "monday": "2027-02-22",
+   "theme": "Texas, Our Home",
+   "note": "Texas Independence Day is early next week",
+   "genre": {
+    "k2": "informational",
+    "g35": "informational",
+    "g68": "informational"
+   },
+   "conv": {
+    "k2": "Commas in dates",
+    "g35": "Commas with cities, states, and dates",
+    "g68": "Commas review: dates, places, introductory elements"
+   }
+  },
+  {
+   "week": 26,
+   "monday": "2027-03-01",
+   "theme": "Books We Love",
+   "note": "many schools celebrate reading this week",
+   "genre": {
+    "k2": "correspondence",
+    "g35": "argument",
+    "g68": "argument"
+   },
+   "conv": {
+    "k2": "Capitalize book titles",
+    "g35": "Titles of books and stories",
+    "g68": "Italics vs. quotation marks for titles"
+   }
+  },
+  {
+   "week": 27,
+   "monday": "2027-03-08",
+   "theme": "Into the Future",
+   "note": "last week before spring break",
+   "genre": {
+    "k2": "fiction",
+    "g35": "fiction",
+    "g68": "fiction"
+   },
+   "conv": {
+    "k2": "Prepositions (in, on, under, behind)",
+    "g35": "Commas in compound sentences review",
+    "g68": "Relative pronouns: who, that, which"
+   }
+  },
+  {
+   "week": 28,
+   "monday": "2027-03-22",
+   "theme": "Earth and Nature",
+   "note": "first week back after spring break; Friday is Good Friday",
+   "genre": {
+    "k2": "poetry",
+    "g35": "poetry",
+    "g68": "poetry"
+   },
+   "conv": {
+    "k2": "Spelling high-frequency words",
+    "g35": "Good/well and irregular comparisons (good, better, best)",
+    "g68": "Commonly confused words (affect/effect, than/then, accept/except)"
+   }
+  },
+  {
+   "week": 29,
+   "monday": "2027-03-29",
+   "theme": "Speak Up!",
+   "note": "",
+   "genre": {
+    "k2": "correspondence",
+    "g35": "argument",
+    "g68": "argument"
+   },
+   "conv": {
+    "k2": "Subject–verb agreement review",
+    "g35": "Pronoun–antecedent agreement",
+    "g68": "Vague pronouns and pronoun clarity"
+   }
+  },
+  {
+   "week": 30,
+   "monday": "2027-04-05",
+   "theme": "Play and Sports",
+   "note": "",
+   "genre": {
+    "k2": "narrative",
+    "g35": "narrative",
+    "g68": "narrative"
+   },
+   "conv": {
+    "k2": "Contractions review",
+    "g35": "Plural vs. possessive nouns",
+    "g68": "Apostrophes review"
+   }
+  },
+  {
+   "week": 31,
+   "monday": "2027-04-12",
+   "theme": "Art and Imagination",
+   "note": "",
+   "genre": {
+    "k2": "fiction",
+    "g35": "fiction",
+    "g68": "fiction"
+   },
+   "conv": {
+    "k2": "Exclamation points",
+    "g35": "Interjections and exclamation points",
+    "g68": "Colons and dashes"
+   }
+  },
+  {
+   "week": 32,
+   "monday": "2027-04-19",
+   "theme": "Our Earth",
+   "note": "around Earth Day",
+   "genre": {
+    "k2": "correspondence",
+    "g35": "correspondence",
+    "g68": "correspondence"
+   },
+   "conv": {
+    "k2": "Letter capitals and commas review",
+    "g35": "Letter format review",
+    "g68": "Formal vs. informal language"
+   }
+  },
+  {
+   "week": 33,
+   "monday": "2027-04-26",
+   "theme": "I Wonder…",
+   "note": "",
+   "genre": {
+    "k2": "research",
+    "g35": "research",
+    "g68": "research"
+   },
+   "conv": {
+    "k2": "Asking sentences review",
+    "g35": "Spelling plurals (-y → -ies, -f → -ves)",
+    "g68": "Integrating quotations from sources"
+   }
+  },
+  {
+   "week": 34,
+   "monday": "2027-05-03",
+   "theme": "Calm and Confident",
+   "note": "testing season in many schools",
+   "genre": {
+    "k2": "narrative",
+    "g35": "narrative",
+    "g68": "narrative"
+   },
+   "conv": {
+    "k2": "Capitals and end marks review",
+    "g35": "Fragments and run-ons review",
+    "g68": "Sentence variety: combining sentences"
+   }
+  },
+  {
+   "week": 35,
+   "monday": "2027-05-10",
+   "theme": "People Who Help Us Grow",
+   "note": "many schools celebrate teachers and families now",
+   "genre": {
+    "k2": "correspondence",
+    "g35": "correspondence",
+    "g68": "correspondence"
+   },
+   "conv": {
+    "k2": "Mixed review: capitals and commas",
+    "g35": "Mixed review: commas",
+    "g68": "Mixed review: punctuation"
+   }
+  },
+  {
+   "week": 36,
+   "monday": "2027-05-17",
+   "theme": "Summer Is Coming",
+   "note": "",
+   "genre": {
+    "k2": "procedural",
+    "g35": "procedural",
+    "g68": "procedural"
+   },
+   "conv": {
+    "k2": "Mixed review: verbs and nouns",
+    "g35": "Mixed review: capitals and apostrophes",
+    "g68": "Mixed review: usage and commonly confused words"
+   }
+  },
+  {
+   "week": 37,
+   "monday": "2027-05-24",
+   "theme": "Looking Back, Looking Ahead",
+   "note": "last week of school",
+   "genre": {
+    "k2": "narrative",
+    "g35": "narrative",
+    "g68": "narrative"
+   },
+   "conv": {
+    "k2": "Mixed review: the whole year",
+    "g35": "Mixed review: the whole year",
+    "g68": "Mixed review: the whole year"
+   }
+  }
+ ]
+}
