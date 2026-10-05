@@ -152,3 +152,13 @@ body.projecting { overflow: hidden; }
   .fp { box-shadow: none; }
   .fp-teacher[open] > div, .fp-fix[open] > div { display: block; }
 }
+
+/* site nav + credit (every page) */
+.sitenav { display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: baseline; justify-content: space-between; padding-bottom: 10px; border-bottom: 1.5px solid var(--line); }
+.sn-home { font-family: var(--f-date); font-weight: 900; font-size: 1.15rem; letter-spacing: .02em; text-transform: uppercase; color: var(--ink); text-decoration: none; }
+.sn-links { display: flex; flex-wrap: wrap; gap: 2px 4px; }
+.sn-links a { padding: 3px 9px; border-radius: 999px; color: var(--ink); text-decoration: none; font-weight: 700; font-size: .9rem; }
+.sn-links a:hover { background: var(--chip); }
+.sn-links a[aria-current="page"] { background: var(--ink); color: var(--paper); }
+.foot a, .credit a { color: inherit; }
+.credit { margin: 10px 0 0; padding-top: 10px; border-top: 1px solid var(--line); font-size: .82rem; }

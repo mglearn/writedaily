@@ -1,0 +1,38 @@
+/* Teacher pages: one paper sheet of running text; tables scroll inside their own box. */
+.doc { position: relative; min-width: 0; background: var(--paper); border: 2px solid var(--ink); border-radius: 4px 4px 10px 10px; padding: 28px clamp(16px, 5vw, 56px) 32px;
+  box-shadow: 0 2px 0 var(--paper), 0 3px 0 var(--line), 0 5px 0 var(--paper), 0 6px 0 var(--line), 0 18px 40px var(--shadow); }
+.doc > * { max-width: 78ch; }
+.doc > .tbl, .doc > .cols3, .doc > .cols2, .doc > .udl { max-width: none; }
+.doc h1 { margin: 0 0 .3em; font-size: clamp(2.2rem, 6vw, 3.4rem); }
+.doc h2 { margin: 1.6em 0 .5em; font-family: var(--f-date); font-weight: 900; font-size: 1.7rem; letter-spacing: .02em; text-transform: uppercase; text-wrap: balance; }
+.doc h3 { margin: .2em 0 .4em; font-size: 1.05rem; }
+.doc p, .doc li, .doc dd { line-height: 1.6; }
+.doc a { color: var(--ink); text-decoration-color: var(--pen); text-underline-offset: 3px; }
+.doc ul { padding-left: 1.2em; }
+.doc li + li { margin-top: .3em; }
+.doc .lede { font-size: 1.12rem; }
+.callout { padding: 12px 16px; border: 2px dashed var(--ink); border-radius: 10px; }
+.quote { padding: 10px 14px; border-left: 4px solid var(--margin); background: var(--chip); font-family: var(--f-read); }
+.cite { margin-top: 2em; padding-top: 10px; border-top: 1px solid var(--line); font-size: .85rem; color: var(--muted); }
+.sel { user-select: all; font-weight: 700; }
+.tbl { overflow-x: auto; margin: 12px 0; border: 1.5px solid var(--line); border-radius: 8px; }
+.tbl table { border-collapse: collapse; width: 100%; font-size: .92rem; }
+.tbl th, .tbl td { padding: 9px 12px; text-align: left; vertical-align: top; border-top: 1px solid var(--line); line-height: 1.45; }
+.tbl thead th { background: var(--ink); color: var(--paper); border-top: 0; font-size: .82rem; letter-spacing: .04em; text-transform: uppercase; }
+.tbl tbody th { font-weight: 800; white-space: nowrap; }
+.scope { min-width: 860px; }
+.scope tbody th { white-space: normal; }
+.scope .wk { display: block; white-space: nowrap; font-family: var(--f-date); font-size: 1.15rem; }
+.scope .dt, .scope .conv { font-size: .82rem; color: var(--muted); }
+.scope .dt { font-weight: 700; }
+.code { font-size: .8rem; font-weight: 700; color: var(--muted); font-variant-numeric: tabular-nums; }
+.defs { display: grid; grid-template-columns: minmax(0, 14rem) minmax(0, 1fr); gap: 8px 20px; }
+.defs dt { font-weight: 800; }
+.defs dd { margin: 0; }
+.cols3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 12px 24px; }
+.cols2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 12px 28px; }
+.cols3 ul { margin: 0; }
+.udl .apply { margin-top: 12px; padding: 12px 16px; background: var(--chip); border-radius: 8px; }
+.udl .apply ul { margin: 6px 0 0; }
+@media (max-width: 640px) { .defs { grid-template-columns: minmax(0, 1fr); } .defs dd { margin-bottom: 8px; } }
+@media print { .sitenav, .skip { display: none !important; } .doc { box-shadow: none; border: 0; padding: 0; } .tbl { overflow: visible; } .scope { min-width: 0; } }

@@ -64,9 +64,13 @@ const settings = `<section class="panel" id="calSettings" hidden aria-label="Sch
     <button type="button" class="btn" id="calReset">Reset</button>
     <p class="muted">Week 1 starts on your first day; each following school week gets the next week of writing. Saved in this browser for both the calendar and the day pages.</p>
   </section>`;
-const footer = `<footer class="foot muted">
+const NAV = [['', 'Calendar'], ['day/', 'Today'], ['guide/', 'Guide'], ['teks/', 'TEKS'], ['elps/', 'ELPS'], ['sst/', 'SST'], ['udl/', 'UDL'], ['about/', 'About']];
+const sitenav = (root, cur) => `<nav class="sitenav" aria-label="Site"><a class="sn-home" href="${root || './'}">Daily Writing a Day</a><span class="sn-links">${NAV.map(([p, l]) => `<a href="${root}${p}"${l === cur ? ' aria-current="page"' : ''}>${l}</a>`).join('')}</span></nav>`;
+const sitefoot = root => `<p class="credit">Daily Writing a Day © 2026 TCEA, created by Miguel Guhlin · Content <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> · Code MIT · <a href="${root}about/">Licensing &amp; provenance</a></p>`;
+const footer = root => `<footer class="foot muted">
     <p><strong>How a week works.</strong> Monday plan, Tuesday draft, Wednesday revise, Thursday quick-write, Friday edit and share. Every prompt also works on its own, so you can skip a day.</p>
-    <p><strong>Standards.</strong> Codes refer to the Texas English Language Arts and Reading TEKS (19 TAC §110.2–110.24). In K–5, the writing process is strand (11), genres are (12), and inquiry is (13). In 6–8 they are (10), (11), and (12). Fix It practices oral language (1) and editing for conventions. Sub-letters can vary slightly by grade, so check your grade's chapter.</p>
+    <p><strong>Standards.</strong> Codes refer to the Texas English Language Arts and Reading TEKS (19 TAC §110.2–110.24). In K–5, the writing process is strand (11), genres are (12), and inquiry is (13). In 6–8 they are (10), (11), and (12). Fix It practices oral language (1) and editing for conventions. Sub-letters can vary slightly by grade, so check your grade's chapter. <a href="${root}teks/">Full TEKS alignment</a> · <a href="${root}elps/">ELPS</a> · <a href="${root}sst/">SST</a> · <a href="${root}udl/">UDL</a></p>
+    ${sitefoot(root)}
   </footer>`;
 
 // ---- month calendar (front page): titles only, no prompt text ----
@@ -76,6 +80,7 @@ ${fonts}
 <style>${asset('page.css')}${asset('month.css')}</style>
 <a class="skip" href="#mSheet">Skip to the calendar</a>
 <main class="wrap">
+  ${sitenav('', 'Calendar')}
   <header class="top">
     ${brand}
     <div class="controls" role="toolbar" aria-label="Calendar controls">
@@ -96,7 +101,7 @@ ${fonts}
   </div>
   <p class="sr-only" id="mLive" aria-live="polite"></p>
   <p class="help muted">Pick a day to open its page · ← → flip months · T goes to this month · striped days are holidays and breaks</p>
-  ${footer}
+  ${footer('')}
 </main>
 <script>window.DW=${json(MONTH)};</script>
 <script>${asset('core.js')}</script>
@@ -108,6 +113,7 @@ ${fonts}
 <style>${asset('page.css')}</style>
 <a class="skip" href="#calFlip">Skip to today's page</a>
 <main class="wrap">
+  ${sitenav('../', 'Today')}
   <header class="top">
     ${brand}
     <div class="controls" role="toolbar" aria-label="Calendar controls">
@@ -128,7 +134,7 @@ ${fonts}
   </div>
   <p class="sr-only" id="calLive" aria-live="polite"></p>
   <p class="help muted">← → turn pages · T jumps to today · swipe on a phone · links like <code>day/#2026-10-20</code> open that day</p>
-  ${footer}
+  ${footer('../')}
 </main>
 <script>window.DW=${json(DATA)};</script>
 <script>${asset('core.js')}</script>
@@ -145,6 +151,19 @@ const out = (rel, html) => { const p = path.join(ROOT, rel); fs.mkdirSync(path.d
 console.log(`${contiguous.length} weeks:`,
   out('index.html', wrapDoc(monthBody, 'A month-by-month calendar of Daily Oral Language sentences and TEKS-aligned writing prompts for grades K–2, 3–5, and 6–8, 2026–27.')), '·',
   out('day/index.html', wrapDoc(dayBody, 'Today’s Fix It sentence and writing prompt for grades K–2, 3–5, and 6–8, aligned to the Texas ELAR TEKS.')));
+// ---- teacher pages ----
+for (const pg of require('./docs')({ plan, esc })) {
+  const body = `<title>${esc(pg.title)} · Daily Writing a Day</title>
+${fonts}
+<style>${asset('page.css')}${asset('doc.css')}</style>
+<a class="skip" href="#main">Skip to content</a>
+<main class="wrap">
+  ${sitenav('../', pg.nav)}
+  <article class="doc" id="main">${pg.body}</article>
+  <footer class="foot muted">${sitefoot('../')}</footer>
+</main>`;
+  console.log('  ' + out(`${pg.dir}/index.html`, wrapDoc(body, pg.desc)));
+}
 // --fragment <dir>: body-only copies (no doctype/head) for previewing as an Artifact
 const i = process.argv.indexOf('--fragment');
 if (i > 0) { fs.writeFileSync(path.join(process.argv[i + 1], 'month.html'), monthBody); fs.writeFileSync(path.join(process.argv[i + 1], 'day.html'), dayBody); }

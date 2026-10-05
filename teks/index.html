@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="How Daily Writing a Day aligns to the Texas ELAR TEKS writing strands, with the full week-by-week scope and sequence.">
+</head><body>
+<title>TEKS Alignment · Daily Writing a Day</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Big+Shoulders+Display:wght@700;900&family=Bitter:wght@500;700;800&display=swap">
+<style>/* Layout: one notebook page centered on a desk; the page is the hero, controls sit above it. */
+:root {
+  --desk: #e9eef4;        /* cool desk surface behind the page */
+  --paper: #fbfcfe;       /* notebook paper */
+  --rule: #c9d8ec;        /* blue ruled lines */
+  --margin: #e58a8a;      /* red margin line */
+  --ink: #1c2a44;         /* navy ink */
+  --muted: #5a6880;
+  --pen: #c62828;         /* teacher's red pen: corrections */
+  --pencil: #f2b705;      /* pencil yellow: primary buttons */
+  --pencil-ink: #2a2100;
+  --chip: #e6edf7;
+  --line: #b8c4d6;
+  --shadow: rgba(28, 42, 68, .16);
+  --f-date: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+  --f-ui: "Bitter", Georgia, "Times New Roman", serif;
+  --f-read: "Andika", "Trebuchet MS", Verdana, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --desk: #0f1626; --paper: #18233a; --rule: #2a3a58; --margin: #9a4a50; --ink: #e8eef9; --muted: #9fb0cc;
+  --pen: #ff8a80; --pencil: #f5c542; --pencil-ink: #241c00; --chip: #22314f; --line: #3a4c6e; --shadow: rgba(0, 0, 0, .45); color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --desk: #0f1626; --paper: #18233a; --rule: #2a3a58; --margin: #9a4a50; --ink: #e8eef9; --muted: #9fb0cc;
+  --pen: #ff8a80; --pencil: #f5c542; --pencil-ink: #241c00; --chip: #22314f; --line: #3a4c6e; --shadow: rgba(0, 0, 0, .45); color-scheme: dark; }
+
+*, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--desk); color: var(--ink); font: 16px/1.5 var(--f-ui); }
+button, input { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--pencil); outline-offset: 2px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.skip { position: absolute; left: -999px; } .skip:focus { left: 16px; top: 8px; background: var(--paper); padding: 6px 10px; z-index: 99; }
+.muted { color: var(--muted); }
+code { font-size: .9em; }
+
+.wrap { max-width: 1040px; margin: 0 auto; padding-inline: 16px; padding-block: 24px 40px; display: grid; gap: 18px; }
+.top { display: flex; flex-wrap: wrap; gap: 16px 28px; justify-content: space-between; align-items: flex-end; }
+.brand { min-width: 0; flex: 1 1 380px; }
+.eyebrow { margin: 0; font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 700; }
+h1 { margin: .1em 0 .2em; font-family: var(--f-date); font-weight: 900; font-size: clamp(2.4rem, 6vw, 3.6rem); line-height: .95; letter-spacing: .01em; text-wrap: balance; }
+.lede { margin: 0; max-width: 58ch; color: var(--muted); }
+.controls { display: grid; gap: 8px; justify-items: end; }
+.btns { display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-end; }
+.btn { border: 1.5px solid var(--line); background: var(--paper); border-radius: 999px; padding: 6px 14px; font-size: .9rem; font-weight: 700; cursor: pointer; }
+.btn:hover { border-color: var(--ink); }
+.btn-go { background: var(--pencil); color: var(--pencil-ink); border-color: var(--pencil); }
+.seg { display: inline-flex; border: 1.5px solid var(--ink); border-radius: 999px; overflow: hidden; }
+.seg button { border: 0; background: transparent; padding: 7px 16px; font-weight: 800; cursor: pointer; font-variant-numeric: tabular-nums; }
+.seg button + button { border-left: 1.5px solid var(--ink); }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+
+.panel { background: var(--paper); border: 1.5px solid var(--line); border-radius: 10px; padding: 14px 16px; }
+#calSettings { display: flex; flex-wrap: wrap; gap: 10px 20px; align-items: center; font-size: .92rem; }
+#calSettings p { flex-basis: 100%; margin: 0; }
+#calSettings input[type=date] { padding: 4px 8px; border: 1.5px solid var(--line); border-radius: 6px; background: var(--paper); }
+
+
+/* the page */
+.flip-wrap { display: grid; grid-template-columns: 52px minmax(0, 1fr) 52px; gap: 10px; align-items: start; perspective: 1800px; }
+.flip { position: relative; display: grid; min-width: 0; }
+.flip > .fp { grid-area: 1 / 1; }
+.flip-nav { position: sticky; top: 40vh; width: 52px; height: 52px; border-radius: 50%; border: 1.5px solid var(--line); background: var(--paper); font-size: 2rem; line-height: 1; cursor: pointer; }
+.flip-nav:hover:not(:disabled) { border-color: var(--ink); }
+.flip-nav:disabled { opacity: .3; cursor: default; }
+
+.fp { position: relative; min-width: 0; background: var(--paper); border: 2px solid var(--ink); border-radius: 4px 4px 10px 10px; padding: 34px clamp(16px, 4vw, 40px) 22px clamp(28px, 6vw, 64px);
+  box-shadow: 0 2px 0 var(--paper), 0 3px 0 var(--line), 0 5px 0 var(--paper), 0 6px 0 var(--line), 0 18px 40px var(--shadow);
+  background-image: linear-gradient(to right, transparent calc(clamp(28px, 6vw, 64px) - 14px), var(--margin) calc(clamp(28px, 6vw, 64px) - 14px), var(--margin) calc(clamp(28px, 6vw, 64px) - 12px), transparent calc(clamp(28px, 6vw, 64px) - 12px)),
+    repeating-linear-gradient(to bottom, transparent 0 31px, var(--rule) 31px 32px);
+  transform-origin: top center; }
+.fp-holes { position: absolute; top: 10px; left: 0; right: 0; display: flex; justify-content: center; gap: clamp(18px, 6vw, 64px); }
+.fp-holes span { width: 12px; height: 12px; border-radius: 50%; background: var(--desk); border: 1.5px solid var(--line); }
+
+.fp-head { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 4px 20px; align-items: end; padding-bottom: 14px; border-bottom: 2px solid var(--ink); }
+.fp-num { grid-row: span 3; font-family: var(--f-date); font-weight: 900; font-size: clamp(4.5rem, 13vw, 7.5rem); line-height: .8; font-variant-numeric: tabular-nums; color: var(--ink); }
+.fp-dow { font-family: var(--f-date); font-weight: 700; font-size: clamp(1.4rem, 3.4vw, 2rem); line-height: 1; text-transform: uppercase; letter-spacing: .04em; }
+.fp-mon { font-size: .95rem; color: var(--muted); font-weight: 700; }
+.fp-sub { font-size: .85rem; color: var(--muted); }
+.fp-note { margin: 12px 0 0; padding: 6px 10px; background: var(--chip); border-radius: 6px; font-size: .9rem; }
+
+.fp-week { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: baseline; margin: 14px 0 4px; }
+.fp-theme { font-weight: 800; font-size: 1.05rem; }
+.chip { display: inline-block; padding: 2px 10px; border-radius: 999px; background: var(--chip); font-size: .78rem; font-weight: 700; letter-spacing: .02em; }
+.chip.kind { background: var(--ink); color: var(--paper); text-transform: uppercase; letter-spacing: .06em; }
+
+.fp-sec { margin-top: 18px; }
+.fp-label { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin: 0 0 8px; }
+.fp-label h2 { margin: 0; font-family: var(--f-date); font-weight: 900; font-size: 1.6rem; letter-spacing: .03em; text-transform: uppercase; }
+.fp-label .focus { font-size: .88rem; color: var(--muted); }
+.fp-label .focus strong { color: var(--ink); }
+
+/* DOL sentence on primary-ruled writing lines: solid top, dashed midline, solid baseline */
+.dol { --top: .9em; --mid: 1.14em; --base: 1.64em; position: relative; isolation: isolate; margin: 0; padding: 0 12px; font-family: var(--f-read); font-size: clamp(1.35rem, 3.2vw, 2rem); line-height: 2.6em; overflow-wrap: anywhere;
+  background: linear-gradient(to bottom, transparent var(--top), var(--rule) var(--top) calc(var(--top) + 2px), transparent calc(var(--top) + 2px) var(--base), var(--ink) var(--base) calc(var(--base) + 2px), transparent calc(var(--base) + 2px)) 0 0 / 100% 2.6em repeat-y var(--paper); border-radius: 4px; }
+.dol::before { content: ""; position: absolute; inset: 0; z-index: -1; background: repeating-linear-gradient(to right, var(--rule) 0 9px, transparent 9px 16px);
+  -webkit-mask: linear-gradient(to bottom, transparent var(--mid), #000 var(--mid) calc(var(--mid) + 2px), transparent calc(var(--mid) + 2px)) 0 0 / 100% 2.6em repeat-y;
+          mask: linear-gradient(to bottom, transparent var(--mid), #000 var(--mid) calc(var(--mid) + 2px), transparent calc(var(--mid) + 2px)) 0 0 / 100% 2.6em repeat-y; }
+.dol-meta { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; margin-top: 6px; font-size: .88rem; color: var(--muted); }
+.errs { font-weight: 800; color: var(--pen); border: 1.5px solid var(--pen); border-radius: 999px; padding: 0 10px; }
+.marks { font-size: .8rem; }
+.marks b { font-family: var(--f-read); color: var(--pen); font-size: 1rem; }
+.fix { font-family: var(--f-read); font-size: clamp(1.2rem, 2.8vw, 1.7rem); line-height: 1.6; }
+.fix mark { background: transparent; color: var(--pen); font-weight: 700; text-decoration: underline 2px; text-underline-offset: 4px; }
+.fix ins { text-decoration: none; }
+
+.prompt { margin: 0; font-family: var(--f-read); font-size: clamp(1.25rem, 3vw, 1.85rem); line-height: 1.45; max-width: 46ch; }
+.ican { margin: 14px 0 0; padding: 10px 14px; border: 2px dashed var(--ink); border-radius: 10px; font-family: var(--f-read); font-size: 1.15rem; }
+.ican span { display: block; font-family: var(--f-ui); font-size: .78rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); font-weight: 800; }
+
+details { margin-top: 12px; border-top: 1.5px dashed var(--line); padding-top: 8px; }
+summary { cursor: pointer; font-weight: 800; font-size: .92rem; width: fit-content; }
+details > div { padding: 6px 0 2px; font-size: .95rem; max-width: 70ch; }
+.fp-teks { margin-top: 18px; padding-top: 10px; border-top: 2px solid var(--ink); display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: .8rem; color: var(--muted); }
+.fp-teks b { color: var(--ink); }
+
+.help { text-align: center; font-size: .85rem; margin: 0; }
+.foot { font-size: .85rem; max-width: 75ch; }
+.foot p { margin: 0 0 8px; }
+
+/* tear-off flip */
+.fp.leave-next, .mc.leave-next { animation: tearNext .45s ease-in forwards; z-index: 2; }
+.fp.leave-prev, .mc.leave-prev { animation: tearPrev .45s ease-in forwards; z-index: 2; }
+.fp.enter-prev, .mc.enter-prev { animation: dropIn .4s ease-out; z-index: 3; }
+@keyframes tearNext { to { transform: rotateX(95deg) translateY(-30px); opacity: 0; } }
+@keyframes tearPrev { to { transform: translateY(16px); opacity: 0; } }
+@keyframes dropIn { from { transform: rotateX(80deg); opacity: 0; } to { transform: none; opacity: 1; } }
+@media (prefers-reduced-motion: reduce) {
+  .fp.leave-next, .fp.leave-prev, .mc.leave-next, .mc.leave-prev { animation: fade .2s forwards; } .fp.enter-prev, .mc.enter-prev { animation: none; }
+  @keyframes fade { to { opacity: 0; } }
+}
+
+/* projector mode */
+.projecting .flip-wrap { position: fixed; inset: 0; z-index: 50; background: var(--desk); padding: 2vh 2vw; overflow: auto; grid-template-columns: 64px minmax(0, 1fr) 64px; }
+.projecting .fp { max-width: 1500px; width: 100%; justify-self: center; }
+.projecting .fp-teacher, .projecting .fp-teks { display: none; }
+.projecting .dol { font-size: clamp(2rem, 3.6vw, 3.2rem); }
+.projecting .prompt { font-size: clamp(1.8rem, 3vw, 2.8rem); max-width: none; }
+body.projecting { overflow: hidden; }
+
+@media (max-width: 700px) {
+  .controls { justify-items: start; } .btns { justify-content: flex-start; }
+  .flip-wrap { grid-template-columns: minmax(0, 1fr); }
+  .flip-nav { position: fixed; top: auto; bottom: calc(14px + env(safe-area-inset-bottom, 0px)); z-index: 40; box-shadow: 0 4px 14px var(--shadow); }
+  .flip-nav.prev { left: 14px; } .flip-nav.next { right: 14px; }
+  .wrap { padding-block: 16px 90px; }
+}
+@media print {
+  body { background: #fff; }
+  .top .controls, .flip-nav, .panel, .help, .skip { display: none !important; }
+  .fp { box-shadow: none; }
+  .fp-teacher[open] > div, .fp-fix[open] > div { display: block; }
+}
+
+/* site nav + credit (every page) */
+.sitenav { display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: baseline; justify-content: space-between; padding-bottom: 10px; border-bottom: 1.5px solid var(--line); }
+.sn-home { font-family: var(--f-date); font-weight: 900; font-size: 1.15rem; letter-spacing: .02em; text-transform: uppercase; color: var(--ink); text-decoration: none; }
+.sn-links { display: flex; flex-wrap: wrap; gap: 2px 4px; }
+.sn-links a { padding: 3px 9px; border-radius: 999px; color: var(--ink); text-decoration: none; font-weight: 700; font-size: .9rem; }
+.sn-links a:hover { background: var(--chip); }
+.sn-links a[aria-current="page"] { background: var(--ink); color: var(--paper); }
+.foot a, .credit a { color: inherit; }
+.credit { margin: 10px 0 0; padding-top: 10px; border-top: 1px solid var(--line); font-size: .82rem; }
+/* Teacher pages: one paper sheet of running text; tables scroll inside their own box. */
+.doc { position: relative; min-width: 0; background: var(--paper); border: 2px solid var(--ink); border-radius: 4px 4px 10px 10px; padding: 28px clamp(16px, 5vw, 56px) 32px;
+  box-shadow: 0 2px 0 var(--paper), 0 3px 0 var(--line), 0 5px 0 var(--paper), 0 6px 0 var(--line), 0 18px 40px var(--shadow); }
+.doc > * { max-width: 78ch; }
+.doc > .tbl, .doc > .cols3, .doc > .cols2, .doc > .udl { max-width: none; }
+.doc h1 { margin: 0 0 .3em; font-size: clamp(2.2rem, 6vw, 3.4rem); }
+.doc h2 { margin: 1.6em 0 .5em; font-family: var(--f-date); font-weight: 900; font-size: 1.7rem; letter-spacing: .02em; text-transform: uppercase; text-wrap: balance; }
+.doc h3 { margin: .2em 0 .4em; font-size: 1.05rem; }
+.doc p, .doc li, .doc dd { line-height: 1.6; }
+.doc a { color: var(--ink); text-decoration-color: var(--pen); text-underline-offset: 3px; }
+.doc ul { padding-left: 1.2em; }
+.doc li + li { margin-top: .3em; }
+.doc .lede { font-size: 1.12rem; }
+.callout { padding: 12px 16px; border: 2px dashed var(--ink); border-radius: 10px; }
+.quote { padding: 10px 14px; border-left: 4px solid var(--margin); background: var(--chip); font-family: var(--f-read); }
+.cite { margin-top: 2em; padding-top: 10px; border-top: 1px solid var(--line); font-size: .85rem; color: var(--muted); }
+.sel { user-select: all; font-weight: 700; }
+.tbl { overflow-x: auto; margin: 12px 0; border: 1.5px solid var(--line); border-radius: 8px; }
+.tbl table { border-collapse: collapse; width: 100%; font-size: .92rem; }
+.tbl th, .tbl td { padding: 9px 12px; text-align: left; vertical-align: top; border-top: 1px solid var(--line); line-height: 1.45; }
+.tbl thead th { background: var(--ink); color: var(--paper); border-top: 0; font-size: .82rem; letter-spacing: .04em; text-transform: uppercase; }
+.tbl tbody th { font-weight: 800; white-space: nowrap; }
+.scope { min-width: 860px; }
+.scope tbody th { white-space: normal; }
+.scope .wk { display: block; white-space: nowrap; font-family: var(--f-date); font-size: 1.15rem; }
+.scope .dt, .scope .conv { font-size: .82rem; color: var(--muted); }
+.scope .dt { font-weight: 700; }
+.code { font-size: .8rem; font-weight: 700; color: var(--muted); font-variant-numeric: tabular-nums; }
+.defs { display: grid; grid-template-columns: minmax(0, 14rem) minmax(0, 1fr); gap: 8px 20px; }
+.defs dt { font-weight: 800; }
+.defs dd { margin: 0; }
+.cols3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 12px 24px; }
+.cols2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 12px 28px; }
+.cols3 ul { margin: 0; }
+.udl .apply { margin-top: 12px; padding: 12px 16px; background: var(--chip); border-radius: 8px; }
+.udl .apply ul { margin: 6px 0 0; }
+@media (max-width: 640px) { .defs { grid-template-columns: minmax(0, 1fr); } .defs dd { margin-bottom: 8px; } }
+@media print { .sitenav, .skip { display: none !important; } .doc { box-shadow: none; border: 0; padding: 0; } .tbl { overflow: visible; } .scope { min-width: 0; } }
+</style>
+<a class="skip" href="#main">Skip to content</a>
+<main class="wrap">
+  <nav class="sitenav" aria-label="Site"><a class="sn-home" href="../">Daily Writing a Day</a><span class="sn-links"><a href="../">Calendar</a><a href="../day/">Today</a><a href="../guide/">Guide</a><a href="../teks/" aria-current="page">TEKS</a><a href="../elps/">ELPS</a><a href="../sst/">SST</a><a href="../udl/">UDL</a><a href="../about/">About</a></span></nav>
+  <article class="doc" id="main">
+<h1>TEKS Alignment</h1>
+<p class="lede">Daily Writing a Day is aligned to the writing and oral-language strands of the Texas English Language Arts and Reading TEKS (19 TAC Chapter 110, Subchapters A and B), adopted in 2017.</p>
+<p class="callout">Codes are aligned to, not reproduced from, the official standards. K–5 share one strand numbering and 6–8 shift down by one, but sub-letters can vary slightly by grade. Confirm against your grade's chapter (§110.2–§110.7 for K–5, §110.22–§110.24 for 6–8) before adopting.</p>
+
+<h2>Where the strands show up</h2>
+<p>In K–5, the writing process is strand (11), genres are (12), and inquiry and research is (13). In 6–8, the same strands are (10), (11), and (12). Oral language is strand (1) in every grade.</p>
+<div class="tbl"><table class=""><thead><tr><th scope="col">Part of the day</th><th scope="col">K–2</th><th scope="col">3–5</th><th scope="col">6–8</th></tr></thead><tbody><tr><th scope="row">Fix It (daily)</th><td>(1) oral language · (11)(D) edit for conventions</td><td>(1) oral language · (11)(D) edit for conventions</td><td>(1) oral language · (10)(D) edit for conventions</td></tr><tr><th scope="row">Monday: Plan</th><td>(11)(A)</td><td>(11)(A)</td><td>(10)(A)</td></tr><tr><th scope="row">Tuesday: Draft</th><td>(11)(B)</td><td>(11)(B)</td><td>(10)(B)</td></tr><tr><th scope="row">Wednesday: Revise</th><td>(11)(C)</td><td>(11)(C)</td><td>(10)(C)</td></tr><tr><th scope="row">Thursday: Quick-write</th><td>genre of the week: (12)(A)–(C)</td><td>genre of the week: (12)(A)–(D)</td><td>genre of the week: (11)(A)–(D)</td></tr><tr><th scope="row">Friday: Edit & share</th><td>(11)(D), (11)(E)</td><td>(11)(D), (11)(E)</td><td>(10)(D), (10)(E)</td></tr><tr><th scope="row">Friday "I can"</th><td>(11)(E) share · self-assessment</td><td>(11)(E) publish · self-assessment</td><td>(10)(E) publish · self-assessment</td></tr></tbody></table></div>
+<dl class="defs">
+  <dt>(1) Oral language</dt><dd>Students listen actively, speak clearly, and work with others. Fix It is done out loud: students explain each fix to a partner and the class.</dd>
+  <dt>(11)(A) / (10)(A) Plan</dt><dd>Generate ideas and plan a draft for a chosen genre and purpose (K–2: through drawing and discussion).</dd>
+  <dt>(11)(B) / (10)(B) Draft</dt><dd>Develop drafts into a focused, structured, coherent piece with an engaging idea and details.</dd>
+  <dt>(11)(C) / (10)(C) Revise</dt><dd>Revise for clarity, word choice, and sentence structure by adding, deleting, combining, and rearranging.</dd>
+  <dt>(11)(D) / (10)(D) Edit</dt><dd>Edit drafts using standard English conventions: complete sentences, verbs, nouns and pronouns, modifiers, conjunctions, capitalization, punctuation, and spelling. This is the daily Fix It focus.</dd>
+  <dt>(11)(E) / (10)(E) Publish</dt><dd>Publish or share writing for an appropriate audience. This is Friday's share.</dd>
+  <dt>(12) / (11) Genres</dt><dd>(A) literary texts: personal narrative, fiction, poetry. (B) informational texts, including procedural writing. (C) argumentative texts: opinion essays in 3–5, argumentative essays in 6–8; correspondence in K–2. (D) correspondence such as letters in 3–8.</dd>
+  <dt>(13) / (12) Inquiry and research</dt><dd>Generate questions, find and record information from sources, and share what was learned. Week 33 is the research week.</dd>
+</dl>
+
+<h2>Genres across the year</h2>
+<div class="cols3"><section><h3>K–2</h3><ul><li>Letter (12)(C): <b>10</b> weeks</li><li>All-about writing (12)(B): <b>8</b> weeks</li><li>Personal narrative (12)(A): <b>7</b> weeks</li><li>How-to writing (12)(B): <b>4</b> weeks</li><li>Poem (12)(A): <b>4</b> weeks</li><li>Story (12)(A): <b>3</b> weeks</li><li>Wonder &amp; research (13): <b>1</b> week</li></ul></section><section><h3>3–5</h3><ul><li>Informational writing (12)(B): <b>8</b> weeks</li><li>Personal narrative (12)(A): <b>7</b> weeks</li><li>Letter (12)(D): <b>5</b> weeks</li><li>Opinion essay (12)(C): <b>5</b> weeks</li><li>How-to (procedural) writing (12)(B): <b>4</b> weeks</li><li>Poetry (12)(A): <b>4</b> weeks</li><li>Fiction (12)(A): <b>3</b> weeks</li><li>Research writing (13): <b>1</b> week</li></ul></section><section><h3>6–8</h3><ul><li>Informational essay (11)(B): <b>8</b> weeks</li><li>Personal narrative (11)(A): <b>7</b> weeks</li><li>Letter (11)(D): <b>5</b> weeks</li><li>Argumentative writing (11)(C): <b>5</b> weeks</li><li>Procedural writing (11)(B): <b>4</b> weeks</li><li>Poetry (11)(A): <b>4</b> weeks</li><li>Fiction (11)(A): <b>3</b> weeks</li><li>Research writing (12): <b>1</b> week</li></ul></section></div>
+
+<h2>Scope and sequence</h2>
+<p>Each band's genre (with its TEKS code) and Fix It conventions focus for every week. Dates assume the typical Texas 2026–27 calendar that the site uses by default.</p>
+<div class="tbl"><table class="scope"><thead><tr><th scope="col">Week</th><th scope="col">Theme</th><th scope="col">K–2</th><th scope="col">3–5</th><th scope="col">6–8</th></tr></thead><tbody><tr><th scope="row"><span class="wk">Week 1</span><span class="dt">Aug 17</span></th><td><b>New Beginnings</b><br><span class="muted">first week of school</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Capitalize the first word of a sentence</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Complete sentences, not fragments</span></td><td>Personal narrative <span class="code">(11)(A)</span><br><span class="conv">Sentence fragments</span></td></tr><tr><th scope="row"><span class="wk">Week 2</span><span class="dt">Aug 24</span></th><td><b>Friends and Teamwork</b></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">End marks: period and question mark</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Capital letters and end punctuation</span></td><td>Personal narrative <span class="code">(11)(A)</span><br><span class="conv">Run-ons and comma splices</span></td></tr><tr><th scope="row"><span class="wk">Week 3</span><span class="dt">Aug 31</span></th><td><b>Our School</b></td><td>All-about writing <span class="code">(12)(B)</span><br><span class="conv">Capitalize names and the word I</span></td><td>Informational writing <span class="code">(12)(B)</span><br><span class="conv">Capitalizing proper nouns</span></td><td>Informational essay <span class="code">(11)(B)</span><br><span class="conv">Capitalizing proper nouns and proper adjectives</span></td></tr><tr><th scope="row"><span class="wk">Week 4</span><span class="dt">Sep 7</span></th><td><b>Helpers and Jobs</b><br><span class="muted">Monday is Labor Day</span></td><td>How-to writing <span class="code">(12)(B)</span><br><span class="conv">Complete sentences: who + what they do</span></td><td>How-to (procedural) writing <span class="code">(12)(B)</span><br><span class="conv">Commas in a series</span></td><td>Procedural writing <span class="code">(11)(B)</span><br><span class="conv">Compound sentences: comma + FANBOYS</span></td></tr><tr><th scope="row"><span class="wk">Week 5</span><span class="dt">Sep 14</span></th><td><b>Family Stories</b><br><span class="muted">many schools begin celebrating Hispanic Heritage Month around now</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Plural nouns (-s, -es)</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Commas in dates and addresses</span></td><td>Personal narrative <span class="code">(11)(A)</span><br><span class="conv">Commas after introductory words, phrases, and clauses</span></td></tr><tr><th scope="row"><span class="wk">Week 6</span><span class="dt">Sep 21</span></th><td><b>Autumn and Change</b></td><td>Poem <span class="code">(12)(A)</span><br><span class="conv">Adjectives and the articles a/an</span></td><td>Poetry <span class="code">(12)(A)</span><br><span class="conv">Comparative and superlative adjectives</span></td><td>Poetry <span class="code">(11)(A)</span><br><span class="conv">Comparative and superlative forms, including irregular ones</span></td></tr><tr><th scope="row"><span class="wk">Week 7</span><span class="dt">Sep 28</span></th><td><b>Amazing Animals</b></td><td>All-about writing <span class="code">(12)(B)</span><br><span class="conv">Subject–verb agreement (is/are, runs/run)</span></td><td>Informational writing <span class="code">(12)(B)</span><br><span class="conv">Subject–verb agreement</span></td><td>Informational essay <span class="code">(11)(B)</span><br><span class="conv">Subject–verb agreement with tricky subjects</span></td></tr><tr><th scope="row"><span class="wk">Week 8</span><span class="dt">Oct 5</span></th><td><b>Kindness Counts</b></td><td>Letter <span class="code">(12)(C)</span><br><span class="conv">Capitals and commas in a letter (Dear ___, / Love, ___)</span></td><td>Letter <span class="code">(12)(D)</span><br><span class="conv">Friendly letter parts and commas</span></td><td>Letter <span class="code">(11)(D)</span><br><span class="conv">Business letter conventions and formal tone</span></td></tr><tr><th scope="row"><span class="wk">Week 9</span><span class="dt">Oct 12</span></th><td><b>Mysteries and Wonders</b></td><td>Story <span class="code">(12)(A)</span><br><span class="conv">Past-tense verbs (-ed)</span></td><td>Fiction <span class="code">(12)(A)</span><br><span class="conv">Verb tense: past, present, future</span></td><td>Fiction <span class="code">(11)(A)</span><br><span class="conv">Consistent verb tense</span></td></tr><tr><th scope="row"><span class="wk">Week 10</span><span class="dt">Oct 19</span></th><td><b>Smart and Safe Online</b><br><span class="muted">around Digital Citizenship Week</span></td><td>Letter <span class="code">(12)(C)</span><br><span class="conv">Question marks and asking sentences</span></td><td>Opinion essay <span class="code">(12)(C)</span><br><span class="conv">Apostrophes in contractions</span></td><td>Argumentative writing <span class="code">(11)(C)</span><br><span class="conv">its/it's, your/you're, their/there/they're</span></td></tr><tr><th scope="row"><span class="wk">Week 11</span><span class="dt">Oct 26</span></th><td><b>Harvest and Food</b></td><td>How-to writing <span class="code">(12)(B)</span><br><span class="conv">Commas in a series</span></td><td>How-to (procedural) writing <span class="code">(12)(B)</span><br><span class="conv">Homophones (to/too/two, there/their/they're)</span></td><td>Procedural writing <span class="code">(11)(B)</span><br><span class="conv">Semicolons</span></td></tr><tr><th scope="row"><span class="wk">Week 12</span><span class="dt">Nov 2</span></th><td><b>Making Choices</b></td><td>Letter <span class="code">(12)(C)</span><br><span class="conv">Irregular past-tense verbs (ran, saw, went)</span></td><td>Opinion essay <span class="code">(12)(C)</span><br><span class="conv">Irregular verbs</span></td><td>Argumentative writing <span class="code">(11)(C)</span><br><span class="conv">Pronoun–antecedent agreement</span></td></tr><tr><th scope="row"><span class="wk">Week 13</span><span class="dt">Nov 9</span></th><td><b>Service and Thanks</b><br><span class="muted">many schools honor veterans this week</span></td><td>Letter <span class="code">(12)(C)</span><br><span class="conv">Capitalize days, months, and holidays</span></td><td>Letter <span class="code">(12)(D)</span><br><span class="conv">Capitalizing holidays, titles, and historical events</span></td><td>Letter <span class="code">(11)(D)</span><br><span class="conv">Capitalizing titles, organizations, and events</span></td></tr><tr><th scope="row"><span class="wk">Week 14</span><span class="dt">Nov 16</span></th><td><b>Gratitude</b></td><td>Poem <span class="code">(12)(A)</span><br><span class="conv">Pronouns (I/me, he/him, she/her)</span></td><td>Poetry <span class="code">(12)(A)</span><br><span class="conv">Subject and object pronouns</span></td><td>Poetry <span class="code">(11)(A)</span><br><span class="conv">Pronoun case (I/me, who/whom)</span></td></tr><tr><th scope="row"><span class="wk">Week 15</span><span class="dt">Nov 30</span></th><td><b>Inventions and Problem Solving</b><br><span class="muted">first week back after Thanksgiving break</span></td><td>All-about writing <span class="code">(12)(B)</span><br><span class="conv">Adverbs that tell how and when</span></td><td>Informational writing <span class="code">(12)(B)</span><br><span class="conv">Singular possessive nouns</span></td><td>Informational essay <span class="code">(11)(B)</span><br><span class="conv">Plural and irregular possessive nouns</span></td></tr><tr><th scope="row"><span class="wk">Week 16</span><span class="dt">Dec 7</span></th><td><b>Codes and Patterns</b><br><span class="muted">around Computer Science Education Week</span></td><td>How-to writing <span class="code">(12)(B)</span><br><span class="conv">End marks review (. ? !)</span></td><td>How-to (procedural) writing <span class="code">(12)(B)</span><br><span class="conv">Commas after introductory and sequence words</span></td><td>Procedural writing <span class="code">(11)(B)</span><br><span class="conv">Transitions and conjunctive adverbs</span></td></tr><tr><th scope="row"><span class="wk">Week 17</span><span class="dt">Dec 14</span></th><td><b>Winter and Traditions</b><br><span class="muted">last week before winter break</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Capitalize names of holidays and places</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Quotation marks in dialogue</span></td><td>Personal narrative <span class="code">(11)(A)</span><br><span class="conv">Punctuating dialogue</span></td></tr><tr><th scope="row"><span class="wk">Week 18</span><span class="dt">Jan 4</span></th><td><b>New Year, New Goals</b><br><span class="muted">first week back after winter break</span></td><td>All-about writing <span class="code">(12)(B)</span><br><span class="conv">Complete sentences review</span></td><td>Informational writing <span class="code">(12)(B)</span><br><span class="conv">Run-on sentences</span></td><td>Informational essay <span class="code">(11)(B)</span><br><span class="conv">Complex sentences: subordinating conjunctions and commas</span></td></tr><tr><th scope="row"><span class="wk">Week 19</span><span class="dt">Jan 11</span></th><td><b>Dreams and Leaders</b><br><span class="muted">the week before Martin Luther King Jr. Day</span></td><td>Letter <span class="code">(12)(C)</span><br><span class="conv">Verbs was and were</span></td><td>Opinion essay <span class="code">(12)(C)</span><br><span class="conv">Compound sentences with coordinating conjunctions</span></td><td>Argumentative writing <span class="code">(11)(C)</span><br><span class="conv">Parallel structure</span></td></tr><tr><th scope="row"><span class="wk">Week 20</span><span class="dt">Jan 18</span></th><td><b>Kind Words</b><br><span class="muted">Monday is Martin Luther King Jr. Day</span></td><td>Letter <span class="code">(12)(C)</span><br><span class="conv">Contractions (can't, don't, it's)</span></td><td>Letter <span class="code">(12)(D)</span><br><span class="conv">Commas with yes, no, and names (direct address)</span></td><td>Letter <span class="code">(11)(D)</span><br><span class="conv">Commas with appositives and nonessential clauses</span></td></tr><tr><th scope="row"><span class="wk">Week 21</span><span class="dt">Jan 25</span></th><td><b>Weather and Sky</b></td><td>All-about writing <span class="code">(12)(B)</span><br><span class="conv">Plural nouns review</span></td><td>Informational writing <span class="code">(12)(B)</span><br><span class="conv">Adverbs, including comparative adverbs</span></td><td>Informational essay <span class="code">(11)(B)</span><br><span class="conv">Misplaced and dangling modifiers</span></td></tr><tr><th scope="row"><span class="wk">Week 22</span><span class="dt">Feb 1</span></th><td><b>News and Facts</b><br><span class="muted">around National News Literacy Week</span></td><td>All-about writing <span class="code">(12)(B)</span><br><span class="conv">Capitalize names of places</span></td><td>Informational writing <span class="code">(12)(B)</span><br><span class="conv">Capitalizing geographic names</span></td><td>Informational essay <span class="code">(11)(B)</span><br><span class="conv">Quotation marks for direct quotations and article titles</span></td></tr><tr><th scope="row"><span class="wk">Week 23</span><span class="dt">Feb 8</span></th><td><b>Friendship</b><br><span class="muted">Valentine's Day is this weekend</span></td><td>Poem <span class="code">(12)(A)</span><br><span class="conv">Describing words for the five senses</span></td><td>Poetry <span class="code">(12)(A)</span><br><span class="conv">Prepositions and prepositional phrases</span></td><td>Poetry <span class="code">(11)(A)</span><br><span class="conv">Commas between coordinate adjectives</span></td></tr><tr><th scope="row"><span class="wk">Week 24</span><span class="dt">Feb 15</span></th><td><b>Leaders Who Made a Difference</b><br><span class="muted">Monday is Presidents' Day; many schools celebrate Black History Month</span></td><td>All-about writing <span class="code">(12)(B)</span><br><span class="conv">Capitalize titles of people (Mr., Mrs., Dr.)</span></td><td>Informational writing <span class="code">(12)(B)</span><br><span class="conv">Abbreviations and titles of people</span></td><td>Informational essay <span class="code">(11)(B)</span><br><span class="conv">Active and passive voice</span></td></tr><tr><th scope="row"><span class="wk">Week 25</span><span class="dt">Feb 22</span></th><td><b>Texas, Our Home</b><br><span class="muted">Texas Independence Day is early next week</span></td><td>All-about writing <span class="code">(12)(B)</span><br><span class="conv">Commas in dates</span></td><td>Informational writing <span class="code">(12)(B)</span><br><span class="conv">Commas with cities, states, and dates</span></td><td>Informational essay <span class="code">(11)(B)</span><br><span class="conv">Commas review: dates, places, introductory elements</span></td></tr><tr><th scope="row"><span class="wk">Week 26</span><span class="dt">Mar 1</span></th><td><b>Books We Love</b><br><span class="muted">many schools celebrate reading this week</span></td><td>Letter <span class="code">(12)(C)</span><br><span class="conv">Capitalize book titles</span></td><td>Opinion essay <span class="code">(12)(C)</span><br><span class="conv">Titles of books and stories</span></td><td>Argumentative writing <span class="code">(11)(C)</span><br><span class="conv">Italics vs. quotation marks for titles</span></td></tr><tr><th scope="row"><span class="wk">Week 27</span><span class="dt">Mar 8</span></th><td><b>Into the Future</b><br><span class="muted">last week before spring break</span></td><td>Story <span class="code">(12)(A)</span><br><span class="conv">Prepositions (in, on, under, behind)</span></td><td>Fiction <span class="code">(12)(A)</span><br><span class="conv">Commas in compound sentences review</span></td><td>Fiction <span class="code">(11)(A)</span><br><span class="conv">Relative pronouns: who, that, which</span></td></tr><tr><th scope="row"><span class="wk">Week 28</span><span class="dt">Mar 22</span></th><td><b>Earth and Nature</b><br><span class="muted">first week back after spring break; Friday is Good Friday</span></td><td>Poem <span class="code">(12)(A)</span><br><span class="conv">Spelling high-frequency words</span></td><td>Poetry <span class="code">(12)(A)</span><br><span class="conv">Good/well and irregular comparisons (good, better, best)</span></td><td>Poetry <span class="code">(11)(A)</span><br><span class="conv">Commonly confused words (affect/effect, than/then, accept/except)</span></td></tr><tr><th scope="row"><span class="wk">Week 29</span><span class="dt">Mar 29</span></th><td><b>Speak Up!</b></td><td>Letter <span class="code">(12)(C)</span><br><span class="conv">Subject–verb agreement review</span></td><td>Opinion essay <span class="code">(12)(C)</span><br><span class="conv">Pronoun–antecedent agreement</span></td><td>Argumentative writing <span class="code">(11)(C)</span><br><span class="conv">Vague pronouns and pronoun clarity</span></td></tr><tr><th scope="row"><span class="wk">Week 30</span><span class="dt">Apr 5</span></th><td><b>Play and Sports</b></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Contractions review</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Plural vs. possessive nouns</span></td><td>Personal narrative <span class="code">(11)(A)</span><br><span class="conv">Apostrophes review</span></td></tr><tr><th scope="row"><span class="wk">Week 31</span><span class="dt">Apr 12</span></th><td><b>Art and Imagination</b></td><td>Story <span class="code">(12)(A)</span><br><span class="conv">Exclamation points</span></td><td>Fiction <span class="code">(12)(A)</span><br><span class="conv">Interjections and exclamation points</span></td><td>Fiction <span class="code">(11)(A)</span><br><span class="conv">Colons and dashes</span></td></tr><tr><th scope="row"><span class="wk">Week 32</span><span class="dt">Apr 19</span></th><td><b>Our Earth</b><br><span class="muted">around Earth Day</span></td><td>Letter <span class="code">(12)(C)</span><br><span class="conv">Letter capitals and commas review</span></td><td>Letter <span class="code">(12)(D)</span><br><span class="conv">Letter format review</span></td><td>Letter <span class="code">(11)(D)</span><br><span class="conv">Formal vs. informal language</span></td></tr><tr><th scope="row"><span class="wk">Week 33</span><span class="dt">Apr 26</span></th><td><b>I Wonder…</b></td><td>Wonder &amp; research <span class="code">(13)</span><br><span class="conv">Asking sentences review</span></td><td>Research writing <span class="code">(13)</span><br><span class="conv">Spelling plurals (-y → -ies, -f → -ves)</span></td><td>Research writing <span class="code">(12)</span><br><span class="conv">Integrating quotations from sources</span></td></tr><tr><th scope="row"><span class="wk">Week 34</span><span class="dt">May 3</span></th><td><b>Calm and Confident</b><br><span class="muted">testing season in many schools</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Capitals and end marks review</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Fragments and run-ons review</span></td><td>Personal narrative <span class="code">(11)(A)</span><br><span class="conv">Sentence variety: combining sentences</span></td></tr><tr><th scope="row"><span class="wk">Week 35</span><span class="dt">May 10</span></th><td><b>People Who Help Us Grow</b><br><span class="muted">many schools celebrate teachers and families now</span></td><td>Letter <span class="code">(12)(C)</span><br><span class="conv">Mixed review: capitals and commas</span></td><td>Letter <span class="code">(12)(D)</span><br><span class="conv">Mixed review: commas</span></td><td>Letter <span class="code">(11)(D)</span><br><span class="conv">Mixed review: punctuation</span></td></tr><tr><th scope="row"><span class="wk">Week 36</span><span class="dt">May 17</span></th><td><b>Summer Is Coming</b></td><td>How-to writing <span class="code">(12)(B)</span><br><span class="conv">Mixed review: verbs and nouns</span></td><td>How-to (procedural) writing <span class="code">(12)(B)</span><br><span class="conv">Mixed review: capitals and apostrophes</span></td><td>Procedural writing <span class="code">(11)(B)</span><br><span class="conv">Mixed review: usage and commonly confused words</span></td></tr><tr><th scope="row"><span class="wk">Week 37</span><span class="dt">May 24</span></th><td><b>Looking Back, Looking Ahead</b><br><span class="muted">last week of school</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Mixed review: the whole year</span></td><td>Personal narrative <span class="code">(12)(A)</span><br><span class="conv">Mixed review: the whole year</span></td><td>Personal narrative <span class="code">(11)(A)</span><br><span class="conv">Mixed review: the whole year</span></td></tr></tbody></table></div>
+<p class="muted">Every Fix It item also reviews conventions from earlier weeks, so the sequence spirals. Weeks 35–37 are mixed review.</p></article>
+  <footer class="foot muted"><p class="credit">Daily Writing a Day © 2026 TCEA, created by Miguel Guhlin · Content <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> · Code MIT · <a href="../about/">Licensing &amp; provenance</a></p></footer>
+</main>
+</body></html>
