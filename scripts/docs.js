@@ -249,7 +249,7 @@ ${udl('Multiple Means of Action and Expression', 'The "how" of learning: interac
 <p class="lede">Who owns this material, how you may reuse it, how to credit it, and where it came from.</p>
 
 <h2>Copyright and ownership</h2>
-<p>© 2026 TCEA. Created by Miguel Guhlin (<span class="sel">mguhlin@tcea.org</span> · <a href="https://mguhlin.org">mguhlin.org</a>) in the course of his work at TCEA, the Texas Computer Education Association. Daily Writing a Day complements TCEA's professional-learning programs: the TCEA blog, workshops, and conference sessions. Copyright is held by TCEA.</p>
+<p>© 2026 TCEA. Created by Miguel Guhlin (<span class="sel">mguhlin@tcea.org</span> · <a href="https://blog.tcea.org">blog.tcea.org</a>) in the course of his work at TCEA, the Texas Computer Education Association. Daily Writing a Day complements TCEA's professional-learning programs: the TCEA blog, workshops, and conference sessions. Copyright is held by TCEA.</p>
 
 <h2>How you may use it</h2>
 ${table(['Part', 'License', 'What that covers'], [
